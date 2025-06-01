@@ -1,0 +1,40 @@
+{
+    "championship": [
+        {
+            "info": "country info",
+            "news": [
+                {
+                    "id": 1,
+                    "new": "new"
+                }
+            ],
+            "matchsSchules": [
+                {
+                    "id": 1,
+                    "matchName": "match Name",
+                    "link": "http"
+                }
+            ],
+            "matchsExpectations": [
+                {
+                    "id": 1,
+                    "matchName": "match Name",
+                    "matchExpection": "expectation"
+                }
+            ],
+            "liveStreams": [
+                {
+                    "link": "http"
+                }
+            ],
+            "name": "champoinship name",
+            "logo": "http",
+            "reviews": [
+                {
+                    "id": 1,
+                    "review": "review"
+                }
+            ]
+        }
+    ]
+}

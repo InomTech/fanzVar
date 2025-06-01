@@ -1,0 +1,27 @@
+{
+    "country": [
+        {
+            "info": "country info",
+            "news": [
+                {
+                    "id": 1,
+                    "new": "new"
+                }
+            ],
+            "matchsSchules": [
+                {
+                    "id": 1,
+                    "matcklink": "http"
+                }
+            ],
+            "ClubsExists": [
+                {
+                    "id": 1,
+                    "name": "club name",
+                    "icon": "http",
+                    "fansCounter": 333
+                }
+            ]
+        }
+    ]
+}

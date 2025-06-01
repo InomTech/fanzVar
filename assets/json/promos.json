@@ -1,0 +1,52 @@
+{
+    "Promos": [
+      {
+        "Name": "Mnachester52",
+        "Value": "30%"
+      },
+      {
+        "Name": "Mnachester20",
+        "Value": "35%"
+      },
+      {
+        "Name": "Mnachester10",
+        "Value": "10%"
+      },
+      {
+        "Name": "Arsenal12",
+        "Value": "90%"
+      },
+      {
+        "Name": "Arsenal52",
+        "Value": "65%"
+      },
+      {
+        "Name": "Arsenal25",
+        "Value": "20%"
+      },
+      {
+        "Name": "Juventus60",
+        "Value": "60%"
+      },
+      {
+        "Name": "Juventus80",
+        "Value": "65%"
+      },
+      {
+        "Name": "Juventus90",
+        "Value": "85%"
+      },
+      {
+        "Name": "Liverpool85",
+        "Value": "10%"
+      },
+      {
+        "Name": "Liverpool53",
+        "Value": "95%"
+      },
+      {
+        "Name": "Liverpool22",
+        "Value": "75%"
+      }
+    ]
+}

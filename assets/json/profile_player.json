@@ -1,0 +1,19 @@
+{
+    "player": [
+        {
+            "info": "country info",
+            "vedios": [
+                {
+                    "id": 1,
+                    "link": "http"
+                }
+            ],
+            "reviews": [
+                {
+                    "id": 1,
+                    "review": "review"
+                }
+            ]
+        }
+    ]
+}

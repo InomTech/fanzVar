@@ -1,0 +1,59 @@
+{
+  "Clubs": [
+    {
+      "Club Name": "Al-Ahly",
+      "Image": "https://i.pinimg.com/originals/bc/fe/9c/bcfe9cbcc32a37e43ddf82c84a5cd906.jpg",
+      "Address": "Hassan Mamoun, Sixth District, Nasr City, Cairo Governorate",
+      "About": "Al Ahly Sporting Club is an Egyptian professional sports club based in Cairo. In terms of trophies won, it is the most successful club in world football.[2] Its professional football team plays in the Egyptian Premier League, the top tier in the Egyptian football league system. The club was founded on 24 April 1907, as a gathering place for Cairo's Student Unions.",
+      "Champions": "CAF Cup 4 Times",
+      "Number Of Fans": "300000",
+      "Website": "https://www.alahlyegypt.com/ar",
+      "latitude":30.0636412,
+      "longitude":31.3558114
+    },
+    {
+      "Club Name": "El-Zamalek",
+      "Image": "https://iconape.com/wp-content/png_logo_vector/نادي-الزمالك-مصر.png",
+      "Address": "Mit Oqba Island, Qesm Al Omrania, Giza",
+      "About": "Zamalek Sporting Club is an Egyptian sports club based in Cairo. The club is mainly known for its professional football team, which plays in the Egyptian Premier League, the top tier of the Egyptian football league system. The club was founded on 5 January 1911 as Qasr El Nile Club and was first headed by the Belgian lawyer George Merzbach. The name was changed two years later to Cairo International Sports Club (C.I.S.C.), which was colloquially referred to as El Qāhirah El Mokhtalat Club, or El Mokhtalat Club. The club was named in 1941 after King Farouk of Egypt and became known as Farouk El Awal Club. After the 1952 Egyptian revolution, the club changed its name to Zamalek.Al Masry Sporting Club is an Egyptian sports club based in Port Said, Egypt. The club is mainly known for its professional football team, which currently plays in the Egyptian Premier League, the highest league in the Egyptian football league system. Al Masry has never won the league, but won their one Egyptian Cup in 1998. The club plays their home matches at the Port Said Stadium, with a capacity of 17,988.",
+      "Champions": "CAF Cup 1 Time",
+      "Number Of Fans": "80000000",
+      "Website": "http://el-zamalek.com/",
+      "latitude":30.0592592,
+      "longitude":31.1343476
+    },
+    {
+      "Club Name": "Al-Masry",
+      "Image": "https://w0.peakpx.com/wallpaper/429/522/HD-wallpaper-al-masry-port-said-sport.jpg",
+      "Address": "Department of Suburbs, Port Said",
+      "About": "",
+      "Champions": "CAF Cup 2 Times",
+      "Number Of Fans": "2500000",
+      "Website": "https://ar-ar.facebook.com/Almasryofficial/",
+      "latitude":31.2713761,
+      "longitude":32.2892669
+    },
+    {
+      "Club Name": "Al-Mokaweloon",
+      "Image": "https://www.curvaegypt.com/img/Clubs/833783Al%20Mokawloon%20Al%20Arab.png",
+      "Address": "Al-Abagiyah, Second Division, Nasr City, Cairo Governorate",
+      "About": "Al Mokawloon Al Arab Sporting Club shortly known as El Mokawloon (The contractors) locally, is an Egyptian sports club based in Nasr City, Cairo, and owned by the prominent constructional engineer Osman Ahmed Osman. The club was founded in 1973 by the Egyptian engineer, contractor, entrepreneur, and politician Osman Ahmed Osman as the official sporting club for his prominent, regional construction company, the Arab Contractors, arguably the biggest one in the entire Middle East at that time. The club is best known for their football team, which currently plays in the Egyptian Premier League, the highest league in the Egyptian football league system. The club over the years have produced some of the most famous and talented players in Egypt, including Abdel Sattar Sabry, Mohamed Salah, and Mohamed Elneny.",
+      "Champions": "CAF Cup 1 Times",
+      "Number Of Fans": "22000",
+      "Website": "http://www.arabcontclub.com/",
+      "latitude":30.0511439,
+      "longitude":30.7367359
+    },
+    {
+      "Club Name": "Al-Ismaeely",
+      "Image": "https://wallpapercave.com/wp/wp4239580.jpg",
+      "Address": "16 Mahmoud Hegazy St., off Dr. Mohamed Fouad, El Moneeb, Omrania Department, Giza",
+      "About": "Ismaily Sporting Club is an Egyptian professional football club, established on 20 March 1921 as El Nahda Sporting Club (Arabic: جمعية نهضة الشباب المصري) (Egyptian pronunciation: Nady El Nahda), based in Ismaïlia, Egypt. The club is best known for its football team. Also it's considered as an Egyptian National Club, where they helped the famous local tour of duty to play for the benefit of the homeland against the occupying armies. The club's nickname The Brazilians, is a reference to their uniforms, which echo those of the Brazil national team, and similar style of play.",
+      "Champions": "CAF Cup 3 Times",
+      "Number Of Fans": "290000",
+      "Website": "https://www.ismailyclub.org/",
+      "latitude":30.6009764,
+      "longitude":32.2715847
+    }
+  ]
+}

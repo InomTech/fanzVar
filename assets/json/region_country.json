@@ -1,0 +1,54 @@
+{
+    "all_countries": [
+        "Egypt",
+        "Africa",
+        "Europa",
+        "Asia",
+        "America",
+        "Austorilia"
+    ],
+    "egypt": [
+        "Nile valley",
+        "delta",
+        "Eastern Desert",
+        "Western Desert",
+        "Sinai Peninsula"
+    ],
+    "europa": [
+        "Central Europe",
+        "Eastern Europe",
+        "North-central",
+        "North-eastern",
+        "North-western",
+        "South-central",
+        "South-eastern",
+        "South-western"
+    ],
+    "asia": [
+        "Asia Africa",
+        "Asia Europe",
+        "Asia Oceania"
+    ],
+    "america": [
+        "Central Europe",
+        "Eastern Europe",
+        "North-central ",
+        "North-eastern ",
+        "North-western ",
+        "South-central ",
+        "South-eastern ",
+        "South-western "
+    ],
+    "austorilia": [
+        "Eastern Australia",
+        "East Coast",
+        "Lake Eyre basin"
+    ],
+    "africa": [
+        "Northern Africa",
+        "Middle Africa",
+        "Southern Africa",
+        "East Africa",
+        "Western Africa"
+    ]
+}

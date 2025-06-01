@@ -1,0 +1,790 @@
+{
+    "players": [
+        {
+            "name": "Vollyball Nations League MAN 2021",
+            "image_profile": "https://images.volleyballworld.com/image/upload/f_png/v1646066233/assets/competition-logos/Events%202022/Volleyball/VNL%202022/VW_VNL-2021_fivb_light",
+            "is_availavle": true,
+            "age": 21,
+            "is_joined": false,
+            "games": [
+                "Fifa",
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "Brazil",
+            "start_date": "8/3/2022",
+            "due_date": "15/3/2022",
+            "country": "France",
+            "seats": 12,
+            "location": "France",
+            "longitude": 55.233334,
+            "latitude": 52.033333,
+            "total_teams":45,
+            "max_teams":24,
+            "city": "Paris",
+            "matches": [
+                {
+                    "first_team_name": "France",
+                    "first_team_score": 3,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_fra",
+                    "second_team_name": "Bulgaria",
+                    "second_team_score": 0,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_bul",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 15,
+                        "lost": 15,
+                        "scored": 45,
+                        "conceded": 57,
+                        "points": 46
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://i.ytimg.com/vi/MacXYdNPNp8/mqdefault.jpg",
+                        "https://i.cbc.ca/1.6485527.1654911601!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_780/canada-france-volleyball.jpeg",
+                        "https://images.indianexpress.com/2021/09/Volley.jpg",
+                        "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1397/03/04/1397030422390488314235214.jpg",
+                        "https://i1.actualno.com/actualno_2013/upload/news/2021/09/06/0914444001630931627_1640438_920x517.webp"
+                    ]
+                },
+                {
+                    "first_team_name": "Germany",
+                    "first_team_score": 3,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_ger",
+                    "second_team_name": "Australia",
+                    "second_team_score": 0,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_aus",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 10,
+                        "drawn": 20,
+                        "lost": 13,
+                        "scored": 44,
+                        "conceded": 56,
+                        "points": 54
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/6KbOOv3PQoo/maxresdefault.jpg",
+                    "highlight": [
+                        "https://c8.alamy.com/zooms/9/424dbd32b72d44b5a25eeeff100dfe9a/t6ph8a.jpg",
+                        "https://images.volleyballworld.com/image/private/t_editorial_landscape_12_desktop/fivb-prd/sqylgf3pjqsba2sehpnz.jpg",
+                        "https://images.volleyballworld.com/image/private/t_portrait_tablet_desktop/fivb-prd/qomyo7axainl7wqhma08.jpg",
+                        "https://cdn.sportslumo.com/wp-content/uploads/2022/06/22203649/germany-volleyball.jpg",
+                        "https://tiebreakertimes.com.ph/wp-content/uploads/2022/06/VNL-2022-Italy-vs.-Germany-Linus-Weber-9524.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Japan",
+                    "first_team_score": 1,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_jpn",
+                    "second_team_name": "Iran",
+                    "second_team_score": 3,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_iri",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 17,
+                        "drawn": 15,
+                        "lost": 13,
+                        "scored": 54,
+                        "conceded": 56,
+                        "points": 55
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 11,
+                        "drawn": 17,
+                        "lost": 17,
+                        "scored": 51,
+                        "conceded": 57,
+                        "points": 53
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/bYBMVIxlioU/maxresdefault.jpg",
+                    "highlight": [
+                        "https://media.mehrnews.com/d/2021/05/28/4/3782260.jpg",
+                        "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2KHEVRDKTNLTTP37X44WEDVQNM.jpg",
+                        "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/POLKQ6PJ5FNXVB6U4N3MSB25NQ.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Serbia",
+                    "first_team_score": 3,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_srb",
+                    "second_team_name": "Slovenia",
+                    "second_team_score": 1,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_slo",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 10,
+                        "drawn": 17,
+                        "lost": 18,
+                        "scored": 33,
+                        "conceded": 56,
+                        "points": 35
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 11,
+                        "drawn": 19,
+                        "lost": 15,
+                        "scored": 41,
+                        "conceded": 57,
+                        "points": 42
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/shvwbfmLuJg/maxresdefault.jpg",
+                    "highlight": [
+                        "https://worldofvolley.com/wp-content/uploads/2021/06/Serbia-Men.jpeg",
+                        "https://cdn.dmcl.biz/media/image/218128/o/GettyImages-1235340356.jpg",
+                        "https://cdnuploads.aa.com.tr/uploads/Contents/2019/09/27/thumbs_b_c_7c8dada9bbd33f48f21fd532b474573d.jpg?v=111637",
+                        "https://www.eurovolley.tv/image/400/225/5d90d791026ec.jpeg?v=20190929T141057.000000Z",
+                        "img.png",
+                        "img.png"
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2KHEVRDKTNLTTP37X44WEDVQNM.jpg",
+                "https://worldofvolley.com/wp-content/uploads/2021/06/Serbia-Men.jpeg",
+                "https://c8.alamy.com/zooms/9/424dbd32b72d44b5a25eeeff100dfe9a/t6ph8a.jpg",
+                "https://images.indianexpress.com/2021/09/Volley.jpg",
+                "https://tiebreakertimes.com.ph/wp-content/uploads/2022/06/VNL-2022-Italy-vs.-Germany-Linus-Weber-9524.jpg"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "Brazil",
+                            "league": "Brazil",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Poland",
+                            "league": "Poland",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Slovenia",
+                            "league": "Slovenia",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "France",
+                            "league": "France",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Russia",
+                            "league": "Russia",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Serbia",
+                            "league": "Serbia",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "United States",
+                            "league": "United States",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Canada",
+                            "league": "Canada",
+                            "rate": 4.5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group C",
+                    "teams": [
+                        {
+                            "team_name": "Argentina",
+                            "league": "Argentina",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "PoolItaly",
+                            "league": "PoolItaly",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Japan",
+                            "league": "Japan",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Iran",
+                            "league": "Iran",
+                            "rate": 4.5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group D",
+                    "teams": [
+                        {
+                            "team_name": "Germany",
+                            "league": "Germany",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Netherlands",
+                            "league": "Netherlands",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Bulgaria",
+                            "league": "Bulgaria",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Australia",
+                            "league": "Australia",
+                            "rate": 4
+                        }
+                    ]
+                }
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "Brazil",
+                            "first_team_score": 3,
+                            "second_team_name": "Poland",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Slovenia",
+                            "first_team_score": 3,
+                            "second_team_name": "France",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Poland",
+                            "first_team_score": 0,
+                            "second_team_name": "Slovenia",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "France",
+                            "first_team_score": 3,
+                            "second_team_name": "Brazil",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "Russia",
+                            "first_team_score": 3,
+                            "second_team_name": "Serbia",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "United States",
+                            "first_team_score": 0,
+                            "second_team_name": "Canada",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Canada",
+                            "first_team_score": 3,
+                            "second_team_name": "Serbia",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Canada",
+                            "first_team_score": 0,
+                            "second_team_name": "Russia",
+                            "second_team_score": 3
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group C",
+                    "teams": [
+                        {
+                            "first_team_name": "Argentina",
+                            "first_team_score": 0,
+                            "second_team_name": "PoolItaly",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Japan",
+                            "first_team_score": 0,
+                            "second_team_name": "Iran",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "PoolItaly",
+                            "first_team_score": 0,
+                            "second_team_name": "Iran",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Japan",
+                            "first_team_score": 0,
+                            "second_team_name": "Argentina",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group D",
+                    "teams": [
+                        {
+                            "first_team_name": "Germany",
+                            "first_team_score": 0,
+                            "second_team_name": "Netherlands",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Bulgaria",
+                            "first_team_score": 0,
+                            "second_team_name": "Australia",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Netherlands",
+                            "first_team_score": 0,
+                            "second_team_name": "Bulgaria",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Australia",
+                            "first_team_score": 0,
+                            "second_team_name": "Germany",
+                            "second_team_score": 1
+                        }
+                    ]
+                }
+            ],
+            "competition_rules": "Each team consists of 11 players. These are made up of one goalkeeper and ten outfield players. The pitch dimensions vary from each ground but are roughly 120 yards long and 75 yards wide. On each pitch you will have a 6 yard box next to the goal mouth, an 18 yard box surrounding the 6 yard box and a centre circle. Each half of the pitch must be a mirror image of the other in terms of dimensions.Essentially the equipment that is needed for a soccer match is pitch and a football. Additionally players can be found wearing studded football boots, shin pads and matching strips. The goalkeepers will additionally wear padded gloves as they are the only players allowed to handle the ball. Each team will have a designated captain.",
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        },
+        {
+            "name": "Vollyball Nations League Women 2021",
+            "image_profile": "https://images.volleyballworld.com/image/upload/f_png/v1646066233/assets/competition-logos/Events%202022/Volleyball/VNL%202022/VW_VNL-2021_fivb_light",
+            "is_availavle": false,
+            "age": 25,
+            "games": [
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "United States",
+            "start_date": "7/3/2022",
+            "due_date": "15/3/2022",
+            "country": "United States",
+            "seats": 10,
+            "location": "United States",
+            "longitude": 66.233334,
+            "latitude": 30.033333,
+            "total_teams":45,
+            "city": "cairo",
+            "is_joined": true,
+            "max_teams":24,
+            "matches": [
+                {
+                    "first_team_name": "United States",
+                    "first_team_score": 3,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_usa",
+                    "second_team_name": "Dominican Republic",
+                    "second_team_score": 0,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_dom",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 11,
+                        "drawn": 19,
+                        "lost": 15,
+                        "scored": 42,
+                        "conceded": 57,
+                        "points": 42
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/j6s8rvPdHJE/maxresdefault.jpg",
+                    "highlight": [
+                        "https://usavolleyball.org/wp-content/uploads/2021/05/052521WNT1200x667_edited.jpg",
+                        "https://img.vavel.com/c1200_675_avr-voleibol-1-1628036037821.jpg",
+                        "https://cdn.mos.cms.futurecdn.net/XT35Jo4RctwcjF6HZbuESV.jpg",
+                        "https://usavolleyball.org/wp-content/uploads/2021/07/07-17-21WomensU20.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Netherlands",
+                    "first_team_score": 0,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_ned",
+                    "second_team_name": "Belgium",
+                    "second_team_score": 1,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_bel",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 10,
+                        "drawn": 15,
+                        "lost": 10,
+                        "scored": 33,
+                        "conceded": 56,
+                        "points": 35
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 10,
+                        "drawn": 15,
+                        "lost": 12,
+                        "scored": 38,
+                        "conceded": 57,
+                        "points": 40
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/MFX2BFAuCIw/maxresdefault.jpg",
+                    "highlight": [
+                        "https://s21466.pcdn.co/wp-content/uploads/2017/05/Belgium-women.jpg",
+                        "http://www.volleywood.net/wp-content/uploads/2016/01/lise-van-hecke-best-volleyball-player-belgium-1.jpg",
+                        "https://thumbs.dreamstime.com/b/belgium-national-team-anthem-nations-league-volley-match-vs-thailand-played-eboli-italy-women-142393574.jpg",
+                        "https://img.hbvl.be/lcw2khBT9b5nNX2uuUtLlbztwao=/0x0:2446x1633/960x640/smart/https%3A%2F%2Fstatic.hbvl.be%2FAssets%2FImages_Upload%2F2021%2F08%2F24%2Fe710f6a6-a457-45d0-8177-753cacdfa61c.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Türkiye",
+                    "first_team_score": 0,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_tur",
+                    "second_team_name": "Serbia",
+                    "second_team_score": 1,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_srb",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 15,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/M3h1jnhFJ5I/maxresdefault.jpg",
+                    "highlight": [
+                        "https://shivasportsnews.com/wp-content/uploads/2021/05/turkey-volleyball.jpg",
+                        "https://cdnuploads.aa.com.tr/uploads/Contents/2020/01/10/thumbs_b_c_c8609fd771f1ef518e6e9ea4bf12629c.jpg?v=214920",
+                        "https://cdnuploads.aa.com.tr/uploads/Contents/2020/01/12/thumbs_b_c_bc6c1dec1e1708658dd08dc61a42d856.jpg?v=214550",
+                        "https://api01.cev.eu/Upload/Photo/cokurth/20210903/NormalSize/181636_cku_210903_039.jpg",
+                        "https://api01.cev.eu/Upload/Photo/VESIVI932/20210903/NormalSize/172325_VESIVI_26.JPG"
+                    ]
+                },
+                {
+                    "first_team_name": "Germany",
+                    "first_team_score": 3,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_ger",
+                    "second_team_name": "Russia",
+                    "second_team_score": 0,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_rus",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 12,
+                        "drawn": 19,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/dbiAAK7JtTo/maxresdefault.jpg",
+                    "highlight": [
+                        "https://cdn.dmcl.biz/media/image/214821/o/GettyImages-1234457334.jpg",
+                        "https://www-old.cev.eu/Images/Players/PictureSimpleAPI_800.aspx?data=pHbfoj2BCpCWd%2BvYzft1tg%3D%3D",
+                        "https://static.india.com/wp-content/uploads/2015/10/CQex8sSWoAEp5PI.jpg?impolicy=Medium_Resize&w=1200&h=800",
+                        "https://live.staticflickr.com/4821/31381307777_1b167af209_b.jpg"
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://api01.cev.eu/Upload/Photo/cokurth/20210903/NormalSize/181636_cku_210903_039.jpg",
+                "https://thumbs.dreamstime.com/b/belgium-national-team-anthem-nations-league-volley-match-vs-thailand-played-eboli-italy-women-142393574.jpg",
+                "https://cdn.mos.cms.futurecdn.net/XT35Jo4RctwcjF6HZbuESV.jpg",
+                "https://usavolleyball.org/wp-content/uploads/2021/07/07-17-21WomensU20.jpg",
+                "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_ger",
+                "https://live.staticflickr.com/4821/31381307777_1b167af209_b.jpg"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "United State",
+                            "league": "United State",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Brazil",
+                            "league": "Brazil",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Japan",
+                            "league": "Japan",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Türkiye",
+                            "league": "Türkiye",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "China",
+                            "league": "China",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Dominican Republic",
+                            "league": "Dominican Republic",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Netherlands",
+                            "league": "Netherlands",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Russia",
+                            "league": "Russia",
+                            "rate": 4.5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group C",
+                    "teams": [
+                        {
+                            "team_name": "Belgium",
+                            "league": "Belgium",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Germany",
+                            "league": "Germany",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Poland",
+                            "league": "Poland",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Italy",
+                            "league": "Italy",
+                            "rate": 4.5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group D",
+                    "teams": [
+                        {
+                            "team_name": "Serbia",
+                            "league": "Serbia",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Canada",
+                            "league": "Canada",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Korea",
+                            "league": "Korea",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Thailand",
+                            "league": "Thailand",
+                            "rate": 4
+                        }
+                    ]
+                }
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "United State",
+                            "first_team_score": 3,
+                            "second_team_name": "Brazil",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Japan",
+                            "first_team_score": 0,
+                            "second_team_name": "Türkiye",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Brazil",
+                            "first_team_score": 3,
+                            "second_team_name": "Türkiye",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Japan",
+                            "first_team_score": 3,
+                            "second_team_name": "United State",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "China",
+                            "first_team_score": 0,
+                            "second_team_name": "Dominican Republic",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Netherlands",
+                            "first_team_score": 3,
+                            "second_team_name": "Russia",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Dominican Republic",
+                            "first_team_score": 0,
+                            "second_team_name": "Russia",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Netherlands",
+                            "first_team_score": 0,
+                            "second_team_name": "China",
+                            "second_team_score": 3
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group C",
+                    "teams": [
+                        {
+                            "first_team_name": "Belgium",
+                            "first_team_score": 3,
+                            "second_team_name": "Germany",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Poland",
+                            "first_team_score": 0,
+                            "second_team_name": "Italy",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Germany",
+                            "first_team_score": 0,
+                            "second_team_name": "Poland",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Italy",
+                            "first_team_score": 3,
+                            "second_team_name": "Belgium",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group D",
+                    "teams": [
+                        {
+                            "first_team_name": "Thailand",
+                            "first_team_score": 3,
+                            "second_team_name": "Korea",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Canada",
+                            "first_team_score": 0,
+                            "second_team_name": "Serbia",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Korea",
+                            "first_team_score": 0,
+                            "second_team_name": "Canada",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Serbia",
+                            "first_team_score": 3,
+                            "second_team_name": "Thailand",
+                            "second_team_score": 1
+                        }
+                    ]
+                }
+            ],
+            "competition_rules": "Each team consists of 11 players. These are made up of one goalkeeper and ten outfield players. The pitch dimensions vary from each ground but are roughly 120 yards long and 75 yards wide. On each pitch you will have a 6 yard box next to the goal mouth, an 18 yard box surrounding the 6 yard box and a centre circle. Each half of the pitch must be a mirror image of the other in terms of dimensions.Essentially the equipment that is needed for a soccer match is pitch and a football. Additionally players can be found wearing studded football boots, shin pads and matching strips. The goalkeepers will additionally wear padded gloves as they are the only players allowed to handle the ball. Each team will have a designated captain.",
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg" 
+        }
+    ]
+}

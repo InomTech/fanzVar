@@ -1,0 +1,25 @@
+{
+    "Notifications": [
+      {
+        "Title": "Welcome",
+        "Image": "https://cise-egypt.com/wp-content/uploads/2019/09/WELCOME-ST-IVES.jpg",
+        "Body": "Welcome to FanzVar App. We hope you enjouy our App.",
+        "Date": "25/02/2022",
+        "Time": "02:25 PM"
+      },
+      {
+        "Title": "Offer",
+        "Image": "https://i.ibb.co/0FTpyBz/Offer.png",
+        "Body": "Don't miss our offer, you can use promocode (FanzVar52) to get our offer.",
+        "Date": "20/12/2021",
+        "Time": "02:05 AM"
+      },
+      {
+        "Title": "Missed You",
+        "Image": "https://t3.ftcdn.net/jpg/04/32/13/76/360_F_432137647_iZ0xSlgFeHWw4mcXjEEU105rDutYyWkX.jpg",
+        "Body": "We missed you, gonna take a tour?",
+        "Date": "05/08/2022",
+        "Time": "12:00 PM"
+      }
+    ]
+}

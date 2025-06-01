@@ -1,0 +1,80 @@
+{
+    "User": [
+        {
+            "info": "user info",
+            "personalpoints": 30,
+            "balance": 455,
+            "cv": "http:www/pdf",
+            "ranking": "fkk",
+            "donate": "http",
+            "comments": [
+                {
+                    "id": 1,
+                    "comment": "kfckf"
+                }
+            ],
+            "imagesandvedios": [
+                {
+                    "link": "http:ssss",
+                    "type": "image or vedio"
+                }
+            ],
+            "localClubLogo": "http:",
+            "FavoritesTeams": [
+                {
+                    "teamId": 1,
+                    "teamname": "ahly"
+                }
+            ],
+            "FavoritesPlayers": [
+                {
+                    "PlayerId": 1,
+                    "Playername": "trika"
+                }
+            ],
+            "FavoritesChampions": [
+                {
+                    "ChampionsId": 1,
+                    "Championsname": "euro"
+                }
+            ],
+            "fanstalentChooseID": 1,
+            "fansTalents": [
+                {
+                    "id": 1,
+                    "name": "talents"
+                }
+            ],
+            "Cart": [
+                {
+                    "id": 1,
+                    "ProductName": "product"
+                }
+            ],
+            "cartCheckOut": [
+                {
+                    "id": 1,
+                    "paymentName": "name",
+                    "amount": 33
+                }
+            ],
+            "PreviousOrders": [
+                {
+                    "id": 1,
+                    "ProductName": "product"
+                }
+            ],
+            "liveStreams": [
+                {
+                    "link": "http"
+                }
+            ],
+            "reviews": [
+                {
+                    "id": 1,
+                    "review": "review"
+                }
+            ]
+        }
+    ]
+}

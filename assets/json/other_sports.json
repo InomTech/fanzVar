@@ -1,0 +1,24 @@
+{    
+    "Sports": [
+      {
+        "name": "Tennis",
+        "type": "Individual",
+        "image_profile": "https://dailygazette.com/wp-content/uploads/2021/06/Tennis-4.jpg"
+      },
+      {
+        "name": "Boxing",
+        "type": "Individual",
+        "image_profile": "https://ae01.alicdn.com/kf/H9d118596710343449a9ba52362062ed7p/Kicking-Strike-Shield-Boxing-Gloves-Pad-Punch-Target-Bag-Men-MMA-Karate-Muay-Thai-Training-Adults.jpg"
+      },
+      {
+        "name": "Volleyball",
+        "type": "Team",
+        "image_profile": "https://www.fivb.org/Vis2009/Images/GetImage.asmx?Type=Press&No=90824&maxSize=920"
+        },
+      {
+        "name": "Basketball",
+        "type": "Team",
+        "image_profile": "https://www.gannett-cdn.com/presto/2020/03/11/USAT/fcf97d8e-6d56-41b7-bcde-161010d1a3d7-USP_NBA-_Memphis_Grizzlies_at_Denver_Nuggets.jpg?crop=2847,1601,x1135,y693&width=2847&height=1601&format=pjpg&auto=webp"
+        }
+    ]
+}

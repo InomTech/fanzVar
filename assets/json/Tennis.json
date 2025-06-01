@@ -1,0 +1,865 @@
+{
+    "players": [
+        {
+            "name": "Wimbledon",
+            "competition_title": "Wimbledon",
+            "image_profile": "https://ssl.gstatic.com/onebox/media/sports/logos/gA3OKFVaD8LeMhY4CuUEaA_64x64.png",
+            "is_availavle": true,
+            "is_joined": false,
+            "age": 21,
+            "games": [
+                "Fifa",
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "Rafael Nadal",
+            "start_date": "8/3/2022",
+            "due_date": "15/3/2022",
+            "city": "Madrid",
+            "country": "Spain",
+            "total_players": "12",
+            "duration": "3 days",
+            "seats": 12,
+            "location": "Spain",
+            "max_players":24,
+            "min_players":12,
+            "game_type":"single",
+            "total_teams":45,
+            "longitude": 44.233334,
+            "latitude": 43.033333,
+            "matches": [
+                {
+                    "first_team_name": " Rafael Nadal",
+                    "first_team_score": 0,
+                    "first_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rafael_Nadal_10%2C_Aegon_Championships%2C_London%2C_UK_-_Diliff_%28cropped%29.jpg/319px-Rafael_Nadal_10%2C_Aegon_Championships%2C_London%2C_UK_-_Diliff_%28cropped%29.jpg",
+                    "second_team_name": " Novak Djokovic",
+                    "second_team_score": 1,
+                    "second_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Novak_Djokovi%C4%87_Trophy_Wimbledon_2019-croped_and_edited.jpg/292px-Novak_Djokovi%C4%87_Trophy_Wimbledon_2019-croped_and_edited.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://thumbs.dreamstime.com/b/tennis-racket-green-background-close-up-82621776.jpg",
+                    "highlight": [
+                        "https://sportal.blic.rs/storage/images/2022/05/31/21:27:16_2022053121253979649_original_am-l.jpeg",
+                        "https://www.tennisworldusa.org/imgb/118529/rafael-nadal-the-real-architect-of-the-victory-was-.jpg",
+                        "https://www.tennisworldusa.org/imge/94715/-i-felt-i-could-give-my-all-to-that-match-against-rafael-nadal-says-former-top-5.jpg",
+                        "https://www.ligaolahraga.com/storage/images/news/2022/06/02/gagal-pertahankan-gelar-french-open-novak-djokovic-terima-pukulan-besar.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": " Daniil Medvedev",
+                    "first_team_score": 5,
+                    "first_team_img": "https://nextbigwhat.com/wp-content/uploads/2022/05/1354965.jpg",
+                    "second_team_name": "Neal Skupski",
+                    "second_team_score": 1,
+                    "second_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Skupski_N._RG19_%2812%29_%2848199059472%29.jpg/1200px-Skupski_N._RG19_%2812%29_%2848199059472%29.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://as1.ftcdn.net/v2/jpg/02/86/26/28/1000_F_286262868_Kpv89AuH4OGpMyXtZhywbXzc42rL1VEB.jpg",
+                    "highlight": [
+                        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Neal_Skupski_%2849981894227%29.jpg",
+                        "https://i0.wp.com/takmihan.com/wp-content/uploads/2022/05/Daniil-Medvedev-still-hopeful-of-playing-in-Wimbledon.jpg",
+                        "https://tennishead.net/wp-content/uploads/2022/04/MEDVEDEV-MIAMI-OPEN-29320222271-1-Edited.jpg",
+                        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Skupski_N._WM14_%2815%29_%2814457100107%29.jpg/1200px-Skupski_N._WM14_%2815%29_%2814457100107%29.jpg",
+                        "https://www.tennisnet.com/fileadmin/_processed_/b/c/csm_Daniil_Medvedev_FL_Hertogenbosch_ef9c521b7b.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Neal Skupski",
+                    "first_team_score": 4,
+                    "first_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Skupski_N._WM19_%2810%29_%2848521705221%29.jpg/800px-Skupski_N._WM19_%2810%29_%2848521705221%29.jpg",
+                    "second_team_name": "Joe Salisbury",
+                    "second_team_score": 1,
+                    "second_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Salisbury_PM19_%2827%29_%2849307391583%29.jpg/1200px-Salisbury_PM19_%2827%29_%2849307391583%29.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://as1.ftcdn.net/v2/jpg/02/86/26/28/1000_F_286262868_Kpv89AuH4OGpMyXtZhywbXzc42rL1VEB.jpg",
+                    "highlight": [
+                        "https://www.atptour.com/-/media/images/news/2022/04/13/23/56/salisbury-doubles-spotlight-april-2022.jpg",
+                        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Neal_Skupski_%2849981894227%29.jpg",
+                        "https://upload.wikimedia.org/wikipedia/commons/6/66/Skupski_N._WM19_%2810%29_%2848521705221%29.jpg",
+                        "https://tennishead.net/wp-content/uploads/2021/02/SALISBURY-AUSTRALIAN-OPEN-02022020-2012.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Wesley Koolhof",
+                    "first_team_score": 4,
+                    "first_team_img": "https://www.terrawortmann-open.de/fileadmin/_processed_/e/b/csm_KOOLHOF_2814_bb6f312d8e.jpg",
+                    "second_team_name": "Filip Polášek",
+                    "second_team_score": 1,
+                    "second_team_img": "https://www.atptour.com/-/media/tennis/players/head-shot/2018/sitak_head_pp2018.png",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://as1.ftcdn.net/v2/jpg/02/86/26/28/1000_F_286262868_Kpv89AuH4OGpMyXtZhywbXzc42rL1VEB.jpg",
+                    "highlight": [
+                        "https://www.tennisworldusa.org/imgb/111198/atp-doubles-wesley-koolhof-neal-skupski-kick-off-team-debut-with-title.jpg",
+                        "http://www.tennispanorama.com/wp-content/uploads/2022/03/Wesley-Koolhof-311.jpg",
+                        "https://pbs.twimg.com/media/EnDJeNAUcAAslst.jpg"
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://www.tennisworldusa.org/imgb/116674/madrid-wesley-koolhof-neal-skupski-beat-no-5-seeds-for-fourth-title-in-2022.jpg",
+                "https://love4tennis.com/wp-content/uploads/2019/01/filip-polasek-1.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polasek_WM19_%2847%29_%2848521739421%29.jpg/640px-Polasek_WM19_%2847%29_%2848521739421%29.jpg",
+                "https://www.tennisworldusa.org/imge/82957/ivan-dodig-and-filip-polasek-react-to-winning-beijing-doubles-crown-.jpg",
+                "http://www.tennispanorama.com/wp-content/uploads/2022/03/Wesley-Koolhof-311.jpg"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "Tyson Fury",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Oleksandr Usyk",
+                            "league": "England",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": " Deontay Wilder",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Anthony Joshua ",
+                            "league": "England",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Andy Ruiz Jr.",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Dillian Whyte",
+                            "league": "England",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": " Joseph Parker",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Luis Ortiz",
+                            "league": "England",
+                            "rate": 4.5
+                        }
+                    ]
+                }
+                
+            ],  
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "Wesley Koolhof",
+                            "league": "Dutch tennis player",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Filip Polášek",
+                            "league": "Slovak tennis player",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Neal Skupski",
+                            "league": "British tennis player",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Joe Salisbury",
+                            "league": "England",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Michael Venus",
+                            "league": "New Zealand",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Tim Pütz",
+                            "league": "Germany",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Kevin Krawietz",
+                            "league": "German tennis player",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Andreas Mies",
+                            "league": "German tennis player",
+                            "rate": 4.5
+                        }
+                    ]
+                }
+
+            ],
+           
+          "competition_rules": "The Championships, Wimbledon, commonly known simply as Wimbledon or The Championships, is the oldest tennis tournament in the world and is widely regarded as the most prestigious."   ,
+          "marketing_agency":"Marketing Agency",
+          "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"  
+        },
+        {
+            "competition_title": "US OPEN",
+            "name": "US OPEN",
+            "image_profile": "https://thegolfwire.com/wp-content/uploads/2021/01/usopentoreypines.jpg",
+            "is_availavle": false,
+            "is_joined": false,
+            "age": 21,
+            "games": [
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "Daniil Medvedev",
+            "start_date": "7/3/2022",
+            "due_date": "15/3/2022",
+            "city": "Moscow",
+            "country": "Russia",
+            "total_players": "12",
+            "duration": "12 days",
+            "seats": 10,
+            "location": "Moscow",
+            "max_players":20,
+            "min_players":12,
+            "game_type":"single",
+            "total_teams":45,
+            "longitude": 41.233334,
+            "latitude": 30.033333,
+            "matches": [
+                {
+                    "first_team_name": "Daniil Medvedev", 
+                    "first_team_score": 3,
+                    "first_team_img": "https://nextbigwhat.com/wp-content/uploads/2022/05/1354965.jpg",
+                    "second_team_name": " Novak Djokovic",
+                    "second_team_score": 1,
+                    "second_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Novak_Djokovi%C4%87_Trophy_Wimbledon_2019-croped_and_edited.jpg/292px-Novak_Djokovi%C4%87_Trophy_Wimbledon_2019-croped_and_edited.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://sportal.blic.rs/storage/images/2022/05/31/21:27:16_2022053121253979649_original_am-l.jpeg",
+                        "https://www.tennisworldusa.org/imgb/118529/rafael-nadal-the-real-architect-of-the-victory-was-.jpg",
+                        "https://www.tennisworldusa.org/imge/94715/-i-felt-i-could-give-my-all-to-that-match-against-rafael-nadal-says-former-top-5.jpg",
+                        "https://www.ligaolahraga.com/storage/images/news/2022/06/02/gagal-pertahankan-gelar-french-open-novak-djokovic-terima-pukulan-besar.jpg",
+                        "img.png"
+                    ]
+                },
+                {
+                    "first_team_name": "Rafael Nadal",
+                    "first_team_score": 0,
+                    "first_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rafael_Nadal_10%2C_Aegon_Championships%2C_London%2C_UK_-_Diliff_%28cropped%29.jpg/319px-Rafael_Nadal_10%2C_Aegon_Championships%2C_London%2C_UK_-_Diliff_%28cropped%29.jpg",
+                    "second_team_name": "Neal Skupski",
+                    "second_team_score": 1,
+                    "second_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Skupski_N._RG19_%2812%29_%2848199059472%29.jpg/1200px-Skupski_N._RG19_%2812%29_%2848199059472%29.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://as1.ftcdn.net/v2/jpg/02/86/26/28/1000_F_286262868_Kpv89AuH4OGpMyXtZhywbXzc42rL1VEB.jpg",
+                    "highlight": [
+                        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Neal_Skupski_%2849981894227%29.jpg",
+                        "https://i0.wp.com/takmihan.com/wp-content/uploads/2022/05/Daniil-Medvedev-still-hopeful-of-playing-in-Wimbledon.jpg",
+                        "https://tennishead.net/wp-content/uploads/2022/04/MEDVEDEV-MIAMI-OPEN-29320222271-1-Edited.jpg",
+                        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Skupski_N._WM14_%2815%29_%2814457100107%29.jpg/1200px-Skupski_N._WM14_%2815%29_%2814457100107%29.jpg",
+                        "https://www.tennisnet.com/fileadmin/_processed_/b/c/csm_Daniil_Medvedev_FL_Hertogenbosch_ef9c521b7b.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Neal Skupski",
+                    "first_team_score": 0,
+                    "first_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Skupski_N._WM19_%2810%29_%2848521705221%29.jpg/800px-Skupski_N._WM19_%2810%29_%2848521705221%29.jpg",
+                    "second_team_name": "Joe Salisbury",
+                    "second_team_score": 1,
+                    "second_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Salisbury_PM19_%2827%29_%2849307391583%29.jpg/1200px-Salisbury_PM19_%2827%29_%2849307391583%29.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 11,
+                        "drawn": 19,
+                        "lost": 15,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://as1.ftcdn.net/v2/jpg/02/86/26/28/1000_F_286262868_Kpv89AuH4OGpMyXtZhywbXzc42rL1VEB.jpg",
+                    "highlight": [
+                        "https://www.atptour.com/-/media/images/news/2022/04/13/23/56/salisbury-doubles-spotlight-april-2022.jpg",
+                        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Neal_Skupski_%2849981894227%29.jpg",
+                        "https://upload.wikimedia.org/wikipedia/commons/6/66/Skupski_N._WM19_%2810%29_%2848521705221%29.jpg",
+                        "https://tennishead.net/wp-content/uploads/2021/02/SALISBURY-AUSTRALIAN-OPEN-02022020-2012.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Wesley Koolhof",
+                    "first_team_score": 0,
+                    "first_team_img": "https://www.terrawortmann-open.de/fileadmin/_processed_/e/b/csm_KOOLHOF_2814_bb6f312d8e.jpg",
+                    "second_team_name": "Filip Polášek",
+                    "second_team_score": 1,
+                    "second_team_img": "https://www.atptour.com/-/media/tennis/players/head-shot/2018/sitak_head_pp2018.png",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://as1.ftcdn.net/v2/jpg/02/86/26/28/1000_F_286262868_Kpv89AuH4OGpMyXtZhywbXzc42rL1VEB.jpg",
+                    "highlight": [
+                        "https://www.tennisworldusa.org/imgb/111198/atp-doubles-wesley-koolhof-neal-skupski-kick-off-team-debut-with-title.jpg",
+                        "http://www.tennispanorama.com/wp-content/uploads/2022/03/Wesley-Koolhof-311.jpg",
+                        "https://pbs.twimg.com/media/EnDJeNAUcAAslst.jpg"
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://www.tennisworldusa.org/imgb/116674/madrid-wesley-koolhof-neal-skupski-beat-no-5-seeds-for-fourth-title-in-2022.jpg",
+                "https://love4tennis.com/wp-content/uploads/2019/01/filip-polasek-1.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polasek_WM19_%2847%29_%2848521739421%29.jpg/640px-Polasek_WM19_%2847%29_%2848521739421%29.jpg",
+                "https://www.tennisworldusa.org/imge/82957/ivan-dodig-and-filip-polasek-react-to-winning-beijing-doubles-crown-.jpg",
+                "http://www.tennispanorama.com/wp-content/uploads/2022/03/Wesley-Koolhof-311.jpg"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "Wesley Koolhof",
+                            "league": "Dutch tennis player",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Filip Polášek",
+                            "league": "Slovak tennis player",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Neal Skupski",
+                            "league": "British tennis player",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Joe Salisbury",
+                            "league": "England",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Michael Venus",
+                            "league": "New Zealand",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Tim Pütz",
+                            "league": "Germany",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Kevin Krawietz",
+                            "league": "German tennis player",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Andreas Mies",
+                            "league": "German tennis player",
+                            "rate": 4.5
+                        }
+                    ]
+                }
+    ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "Wesley Koolhof",
+                            "first_team_score": 0,
+                            "second_team_name": "Filip Polášek",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Neal Skupski",
+                            "first_team_score": 0,
+                            "second_team_name": "Joe Salisbury",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Joe Salisbury",
+                            "first_team_score": 0,
+                            "second_team_name": "Wesley Koolhof",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Joe Salisbury",
+                            "first_team_score": 0,
+                            "second_team_name": "MNeal Skupski",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "Michael Venus",
+                            "first_team_score": 0,
+                            "second_team_name": "Tim Pütz",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Kevin Krawietz",
+                            "first_team_score": 0,
+                            "second_team_name": "Andreas Mies",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "ndreas Mies",
+                            "first_team_score": 0,
+                            "second_team_name": "Michael Venus",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Andreas Mies",
+                            "first_team_score": 0,
+                            "second_team_name": "Kevin Krawietz",
+                            "second_team_score": 1
+                        }
+                    ]
+                }
+
+            ],
+            "competition_rules": "The United States Open Championship, commonly known as the U.S. Open, is the annual open national championship of golf in the United States. It is the third of the four major championships in golf, and is on the official schedule of both the PGA Tour and the European Tour",
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        },
+        {
+            "competition_title": "French Open",
+            "name": "US OPEN",
+            "image_profile": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png",
+            "is_availavle": false,
+            "is_joined": false,
+            "age": 21,
+            "games": [
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "Rafael Nadal",
+            "start_date": "7/3/2022",
+            "due_date": "15/3/2022",
+            "city": "madrid",
+            "country": "spain",
+            "total_players": "12",
+            "duration": "12 days",
+            "seats": 10,
+            "location": "France",
+            "max_players":24,
+            "min_players":12,
+            "game_type":"single",
+            "total_teams":45,
+            "longitude": 55.233334,
+            "latitude": 45.033333,
+            "matches": [
+                {
+                    "first_team_name": "Daniil Medvedev", 
+                    "first_team_score": 3,
+                    "first_team_img": "https://nextbigwhat.com/wp-content/uploads/2022/05/1354965.jpg",
+                    "second_team_name": " Novak Djokovic",
+                    "second_team_score": 1,
+                    "second_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Novak_Djokovi%C4%87_Trophy_Wimbledon_2019-croped_and_edited.jpg/292px-Novak_Djokovi%C4%87_Trophy_Wimbledon_2019-croped_and_edited.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1200px-Logo_Roland-Garros.svg.png",
+                    "highlight": [
+                        "https://sportal.blic.rs/storage/images/2022/05/31/21:27:16_2022053121253979649_original_am-l.jpeg",
+                        "https://www.tennisworldusa.org/imgb/118529/rafael-nadal-the-real-architect-of-the-victory-was-.jpg",
+                        "https://www.tennisworldusa.org/imge/94715/-i-felt-i-could-give-my-all-to-that-match-against-rafael-nadal-says-former-top-5.jpg",
+                        "https://www.ligaolahraga.com/storage/images/news/2022/06/02/gagal-pertahankan-gelar-french-open-novak-djokovic-terima-pukulan-besar.jpg",
+                        "img.png"
+                    ]
+                },
+                {
+                    "first_team_name": "Rafael Nadal",
+                    "first_team_score": 3,
+                    "first_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rafael_Nadal_10%2C_Aegon_Championships%2C_London%2C_UK_-_Diliff_%28cropped%29.jpg/319px-Rafael_Nadal_10%2C_Aegon_Championships%2C_London%2C_UK_-_Diliff_%28cropped%29.jpg",
+                    "second_team_name": "Neal Skupski",
+                    "second_team_score": 1,
+                    "second_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Skupski_N._RG19_%2812%29_%2848199059472%29.jpg/1200px-Skupski_N._RG19_%2812%29_%2848199059472%29.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://as1.ftcdn.net/v2/jpg/02/86/26/28/1000_F_286262868_Kpv89AuH4OGpMyXtZhywbXzc42rL1VEB.jpg",
+                    "highlight": [
+                        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Neal_Skupski_%2849981894227%29.jpg",
+                        "https://i0.wp.com/takmihan.com/wp-content/uploads/2022/05/Daniil-Medvedev-still-hopeful-of-playing-in-Wimbledon.jpg",
+                        "https://tennishead.net/wp-content/uploads/2022/04/MEDVEDEV-MIAMI-OPEN-29320222271-1-Edited.jpg",
+                        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Skupski_N._WM14_%2815%29_%2814457100107%29.jpg/1200px-Skupski_N._WM14_%2815%29_%2814457100107%29.jpg",
+                        "https://www.tennisnet.com/fileadmin/_processed_/b/c/csm_Daniil_Medvedev_FL_Hertogenbosch_ef9c521b7b.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Neal Skupski",
+                    "first_team_score": 3,
+                    "first_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Skupski_N._WM19_%2810%29_%2848521705221%29.jpg/800px-Skupski_N._WM19_%2810%29_%2848521705221%29.jpg",
+                    "second_team_name": "Joe Salisbury",
+                    "second_team_score": 1,
+                    "second_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Salisbury_PM19_%2827%29_%2849307391583%29.jpg/1200px-Salisbury_PM19_%2827%29_%2849307391583%29.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 11,
+                        "drawn": 19,
+                        "lost": 15,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://as1.ftcdn.net/v2/jpg/02/86/26/28/1000_F_286262868_Kpv89AuH4OGpMyXtZhywbXzc42rL1VEB.jpg",
+                    "highlight": [
+                        "https://www.atptour.com/-/media/images/news/2022/04/13/23/56/salisbury-doubles-spotlight-april-2022.jpg",
+                        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Neal_Skupski_%2849981894227%29.jpg",
+                        "https://upload.wikimedia.org/wikipedia/commons/6/66/Skupski_N._WM19_%2810%29_%2848521705221%29.jpg",
+                        "https://tennishead.net/wp-content/uploads/2021/02/SALISBURY-AUSTRALIAN-OPEN-02022020-2012.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Wesley Koolhof",
+                    "first_team_score": 3,
+                    "first_team_img": "https://www.terrawortmann-open.de/fileadmin/_processed_/e/b/csm_KOOLHOF_2814_bb6f312d8e.jpg",
+                    "second_team_name": "Filip Polášek",
+                    "second_team_score": 1,
+                    "second_team_img": "https://www.atptour.com/-/media/tennis/players/head-shot/2018/sitak_head_pp2018.png",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://as1.ftcdn.net/v2/jpg/02/86/26/28/1000_F_286262868_Kpv89AuH4OGpMyXtZhywbXzc42rL1VEB.jpg",
+                    "highlight": [
+                        "https://www.tennisworldusa.org/imgb/111198/atp-doubles-wesley-koolhof-neal-skupski-kick-off-team-debut-with-title.jpg",
+                        "http://www.tennispanorama.com/wp-content/uploads/2022/03/Wesley-Koolhof-311.jpg",
+                        "https://pbs.twimg.com/media/EnDJeNAUcAAslst.jpg"
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://www.tennisworldusa.org/imgb/116674/madrid-wesley-koolhof-neal-skupski-beat-no-5-seeds-for-fourth-title-in-2022.jpg",
+                "https://love4tennis.com/wp-content/uploads/2019/01/filip-polasek-1.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polasek_WM19_%2847%29_%2848521739421%29.jpg/640px-Polasek_WM19_%2847%29_%2848521739421%29.jpg",
+                "https://www.tennisworldusa.org/imge/82957/ivan-dodig-and-filip-polasek-react-to-winning-beijing-doubles-crown-.jpg",
+                "http://www.tennispanorama.com/wp-content/uploads/2022/03/Wesley-Koolhof-311.jpg"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "Wesley Koolhof",
+                            "league": "Dutch tennis player",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Filip Polášek",
+                            "league": "Slovak tennis player",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Neal Skupski",
+                            "league": "British tennis player",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Joe Salisbury",
+                            "league": "England",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Michael Venus",
+                            "league": "New Zealand",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Tim Pütz",
+                            "league": "Germany",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Kevin Krawietz",
+                            "league": "German tennis player",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Andreas Mies",
+                            "league": "German tennis player",
+                            "rate": 4.5
+                        }
+                    ]
+                }
+    ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "Wesley Koolhof",
+                            "first_team_score": 3,
+                            "second_team_name": "Filip Polášek",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Neal Skupski",
+                            "first_team_score": 0,
+                            "second_team_name": "Joe Salisbury",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Joe Salisbury",
+                            "first_team_score": 0,
+                            "second_team_name": "Wesley Koolhof",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Joe Salisbury",
+                            "first_team_score": 3,
+                            "second_team_name": "MNeal Skupski",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "Michael Venus",
+                            "first_team_score": 3,
+                            "second_team_name": "Tim Pütz",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Kevin Krawietz",
+                            "first_team_score": 3,
+                            "second_team_name": "Andreas Mies",
+                            "second_team_score": 0
+                        },
+                        {
+                            "first_team_name": "ndreas Mies",
+                            "first_team_score": 0,
+                            "second_team_name": "Michael Venus",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Andreas Mies",
+                            "first_team_score": 0,
+                            "second_team_name": "Kevin Krawietz",
+                            "second_team_score": 3
+                        }
+                    ]
+                }
+
+            ],
+            "competition_rules": "Each team consists of 11 players. These are made up of one goalkeeper and ten outfield players. The pitch dimensions vary from each ground but are roughly 120 yards long and 75 yards wide. On each pitch you will have a 6 yard box next to the goal mouth, an 18 yard box surrounding the 6 yard box and a centre circle. Each half of the pitch must be a mirror image of the other in terms of dimensions.Essentially the equipment that is needed for a soccer match is pitch and a football. Additionally players can be found wearing studded football boots, shin pads and matching strips. The goalkeepers will additionally wear padded gloves as they are the only players allowed to handle the ball. Each team will have a designated captain.",
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg" 
+        }
+    ]
+}

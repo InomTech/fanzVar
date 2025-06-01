@@ -1,0 +1,247 @@
+{
+    "Championships": [
+        {
+            "CategoryID": "1",
+            "CategoryName": "International",
+            "ChampionList": [
+                {
+                    "hasSchedual": false,
+                    "ChampionID": "1",
+                    "Name": "FIFA World Cup",
+                    "Avatar": "https://asiamedia.lmu.edu/wp-content/uploads/2015/03/qatar.jpg",
+                    "About": "Since the second World Cup in 1934, qualifying tournaments have been held to thin the field for the final tournament. [64] They are held within the six FIFA continental zones (Africa, Asia, North and Central America and Caribbean, South America, Oceania, and Europe), overseen by their respective confederations. For each tournament, FIFA decides the number of places awarded to each of the continental zones beforehand, generally based on the relative strength of the confederations teams.",
+                    "Country": "Qatar",
+                    "Founded": "1990",
+                    "NumOfTeams": "32",
+                    "NextDate": "Mon, Nov 21,2022",
+                    "MostSuccessfulTeam": "Brazil",
+                    "Website": "https://www.fifa.com/tournaments/mens/worldcup",
+                    "Gallery": [
+                        "https://i.ytimg.com/vi/aJ-WDLcu-ZY/maxresdefault.jpg",
+                        "https://images.adsttc.com/media/images/61d5/7098/3e4b/31e0/5300/003f/newsletter/FI.jpg?1641377939",
+                        "https://i0.wp.com/aipsafrica.com/wp-content/uploads/2017/05/khalifa-stadium-586x418.jpg?resize=534%2C450",
+                        "https://taarifa.rw/wp-content/uploads/2021/08/al_bayt_stadium01.jpg",
+                        "https://www.qatar2022.qa/sites/default/files/styles/stadium_popup_desktop/public/stadiums/pop-up-image/khalifa-international-stadium-drawer_1.webp?itok=EJrGAZUv",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNHNLQnyL4Ypb4UjnVGXYwhXpunyVz2rmOZMPcr3mD5JG2MxD1ECa90jYnhuTW1GZps6M&usqp=CAU",
+                        "https://www.qatar2022.qa/sites/default/files/styles/stadium_popup_desktop/public/stadiums/pop-up-image/lusail-stadium-drawer_1.webp?itok=sYJQM5ru"
+                    ],
+                    "Comments": [
+                        {
+                            "CommentID": "1",
+                            "Comment": "I'd love to go and I'd love to play for my country and go to a World Cup again. I've got to accept I'm not in the current squad and just think, 'If I get it, it's a bonus and I'll give it everything.' But it's hard to do when you've been thinking a different way all your life.",
+                            "By": "Michael Owen"
+                        },
+                        {
+                            "CommentID": "2",
+                            "Comment": "I spent the afternoon of Sunday 9 July, 2006 in Berlin sleeping and playing the PlayStation. In the evening, I went out and won the World Cup.",
+                            "By": "Andrea Pirlo"
+                        },
+                        {
+                            "CommentID": "2",
+                            "Comment": "You have to believe in yourself and believe in what you are doing all the time.",
+                            "By": "Sadio Mane"
+                        }
+                    ]
+                },
+                {
+                    "hasSchedual": false,
+                    "ChampionID": "2",
+                    "Name": "FIFA Club World Cup",
+                    "Avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQ-PdvJ7aVjzct0bwbc-YlcNPlAW4612ePvpb9Rrb_XmytVipLOaCqzbeeB2SaKV2PiE&usqp=CAU",
+                    "About": " The FIFA Club World Cup is an international men's association football competition organised by the Fédération Internationale de Football Association (FIFA), the sport's global governing body. The competition was first contested in 2000 as the FIFA Club World Championship. It was not held from 2001 to 2004 due to a combination of factors, most importantly the collapse of FIFA's marketing partner International Sport and Leisure (ISL), but since 2005 it has been held every year, and has been hosted by Brazil, Japan, the United Arab Emirates, Morocco and Qatar. Views differ as to the cup's prestige: it struggles to attract interest in most of Europe, and is the object of heated debate in South America  ",
+                    "Country": "Japan",
+                    "Founded": "1990",
+                    "NumOfTeams": "7",
+                    "NextDate": "Mon, Nov 21,2022",
+                    "MostSuccessfulTeam": "Real Madrid",
+                    "Website": "https://www.fifa.com/tournaments/mens/Club WorldCup",
+                    "Gallery": [
+                        "https://images.beinsports.com/q_ka9WcRv717InHcwpZmuVcQrao=/1300x731/smart/club-world-cup_1w2podl50b5251x2bom3ivgrfr.jpg"
+                    ],
+                    "Comments": [
+                        {
+                            "CommentID": "111",
+                            "Comment": "The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime",
+                            "By": "Babe Ruth"
+                        },
+                        {
+                            "CommentID": "2111",
+                            "Comment": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+                            "By": "Albert Schweitzer"
+                        }
+                    ]
+                },
+                {"hasSchedual": false,
+                    "ChampionID": "3",
+                    "Name": "FIFA U-20 World Cup",
+                    "Avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwXzoEHH_sZreoap_uK0BcOpcyenauJBBJXosoLaZfGLavmh6qD_9ELuzfbKhYrED2m1w&usqp=CAU",
+                    "About": " The FIFA U-20 World Cup is the biennial football world championship for male players under the age of 20, organised by FIFA. The competition has been staged every two years since the first tournament in 1977 held in Tunisia.[1] Until 2005 it was known as the FIFA World Youth Championship. The current champion is Ukraine which won its first title at the 2019 tournament in Poland. ",
+                    "Country": "Poland",
+                    "Founded": "1990",
+                    "NumOfTeams": "32",
+                    "NextDate": "Mon, Nov 21,2022",
+                    "MostSuccessfulTeam": "Argentina",
+                    "Website": "https://www.fifa.com/tournaments/mens/worldcup",
+                    "Gallery": [
+                        "https://www.insidesport.in/wp-content/uploads/2019/05/20-World-Cup.jpg ",
+                        "https://i.ytimg.com/vi/nn8yJI_vnjg/hqdefault.jpg",
+                        "https://i.ytimg.com/vi/dr56Z0We5fM/maxresdefault.jpg",
+                        "https://i.ytimg.com/vi/TbtdT64LG7g/maxresdefault.jpg"
+                    ],
+                    "Comments": [
+                        {
+                            "CommentID": "1",
+                            "Comment": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.",
+                            "By": "Margaret Mead"
+                        }
+                    ]
+                },
+                { "hasSchedual": false,
+                    "ChampionID": "4",
+                    "Name": "Cup 4",
+                    "Avatar": "https://picsum.photos/250?image=3",
+                    "About": " Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. ",
+                    "Country": "Egypt",
+                    "Founded": "1990",
+                    "NumOfTeams": "32",
+                    "NextDate": "Mon, Nov 21,2022",
+                    "MostSuccessfulTeam": "Brazil",
+                    "Website": "https://www.fifa.com/tournaments/mens/worldcup",
+                    "Gallery": [],
+                    "Comments": [
+                        {
+                            "CommentID": "1",
+                            "Comment": "Love Look and Feel",
+                            "By": "Jacob Sullivan"
+                        },
+                        {
+                            "CommentID": "2",
+                            "Comment": "Love Look and Feel",
+                            "By": "Jacob Sullivan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CategoryID": "2",
+            "CategoryName": "Africa",
+            "ChampionList": [
+                { "hasSchedual": true,
+                    "ChampionID": "1",
+                    "Name": "CAF Champions League",
+                    "Avatar": "https://futaa.com/images/full/caf_champions_league.png",
+                    "About": " The CAF Champions League is an annual continental club football competition run by the Confederation of African Football and contested by the top-division African clubs, deciding the competition winners through a round robin group stage to qualify for a double-legged knockout format, and a single leg final. ",
+                    "Country": "Africa",
+                    "Founded": "1960",
+                    "NumOfTeams": "32",
+                    "NextDate": "Mon, Nov 21,2022",
+                    "MostSuccessfulTeam": "Alahly",
+                    "Website": "https://www.cafonline.com/",
+                    "Gallery": [
+                        "https://images.cafonline.com/image/upload/v1567431235/caf-prd/assets/competitions/caf-cl-logo.png",
+                        "https://images.cafonline.com/image/private/t_editorial_landscape_12_desktop/f_auto/caf-prd/rwucdetv6lxam7rbx6qd.jpg",
+                        "https://images.cafonline.com/image/private/t_photogallery/f_auto/caf-prd/gowy5n9jylriq009xevd.jpg",
+                        "https://images.cafonline.com/image/private/t_photogallery/f_auto/caf-prd/qxcdcefwsq9d7gnnblxq.jpg"
+                    ],
+                    "Comments": [
+                        {
+                            "CommentID": "1",
+                            "Comment": "Of course the Uefa Champions League is better. They have most of, if not all the stars from around the world playing in the European leagues, so of course they attract more people. The solution is simple. If the club's stadia is not up to scratch then the club should be disqualifed, if the club doesn't have the funds to participate, then they should be disqualified. Caf needs to set the bar so that only the good teams get to play. It's time to start being more Professional. And of course Caf should do a better job of finding sponsors and increase the prize money.",
+                            "By": "Doubting Thomas, Nigeria"
+                        },
+                        {
+                            "CommentID": "2",
+                            "Comment": "For the Caf Champions League to be more effective, the level of refeering on the continent must improve. The necessary infrastructure must also be put in place either by the clubs or with support from their respective govrnments. Caf must also increase the prize money for the participating clubs and also support the National Associations in the organisation of the various domestic league competitions so that worthy champions may emerge from the domestic leagues to compete in the Caf competition.",
+                            "By": "Emmanuel Osei Ofosu, Ghana"
+                        }
+                    ]
+                },
+                { "hasSchedual": false,
+                    "ChampionID": "2",
+                    "Name": "African Cup of nations",
+                    "Avatar": "https://static.wikia.nocookie.net/the-football-database/images/d/d0/2013_Africa_Cup_of_Nations.png/revision/latest?cb=20130923153722",
+                    "About": "The Africa Cup of Nations referred to as AFCON French Coupe d'Afrique des Nations sometimes referred to as CAN or Total Energies Africa Cup of Nations for sponsorship reasons ",
+                    "Country": "Egypt",
+                    "Founded": "1950",
+                    "NumOfTeams": "32",
+                    "NextDate": "Mon, Nov 21,2022",
+                    "MostSuccessfulTeam": "Egypt",
+                    "Website": "www.cafonline.com",
+                    "Gallery": [
+                        "https://images.cafonline.com/image/private/t_photogallery/f_auto/caf-prd/mhob8dsn28dkmwu3jb1h.jpg.",
+                        "https://images.cafonline.com/image/private/t_photogallery/f_auto/caf-prd/lcwzydlaq8vmheglfxzv.jpg.",
+                        "https://see.news/wp-content/uploads/2020/09/232322323232323232323232323232323.jpg."
+                    ],
+                    "Comments": [
+                        {
+                            "CommentID": "1",
+                            "Comment": "Let’s get this out of the way at the start. Everything Ian Wright said recently about the Africa Cup of Nations was eloquent and absolutely spot on.For those who missed it Wright said on Instagram: Is there ever a tournament more disrespected than the Africa Cup of Nations?There is no greater honour than representing your country. The coverage is completely tinged with racism.",
+                            "By": "PETE SHARLAND"
+                        }
+                    ]
+                },
+                { "hasSchedual": false,
+                    "ChampionID": "3",
+                    "Name": "u23-africa-cup-of-nations",
+                    "Avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/2019_Africa_U-23_Cup_of_Nations.png/220px-2019_Africa_U-23_Cup_of_Nations.png",
+                    "About": "The tournament was founded in 2011. On 6 August 2015 the CAF Executive Committee decided to change the name of the tournament from the CAF-U-23Championship to the Africa U-23 Cup of Nations, similar to the senior's version, Africa Cup of Nations.1 In July 2016, Total has secured an eight-year sponsorship package from the Confederation of African Football (CAF) to support 10 of its principal competitions.2 Due to this sponsorship the Africa U-23 Cup of Nations is named Total Africa U-23 Cup of Nations",
+                    "Country": "Egypt",
+                    "Founded": "1970",
+                    "NumOfTeams": "32",
+                    "NextDate": "Mon, Nov 21,2022",
+                    "MostSuccessfulTeam": "Egypt",
+                    "Website": "https://www.cafonline.com/",
+                    "Gallery": [
+                        "https://images.cafonline.com/image/private/t_photogallery/f_auto/caf-prd/vgjiexa4s6xtbbcsfix6.jpg.",
+                        "https://newsaf.cgtn.com/news/77636a4e7a63544e7763544f79417a4d31517a4e31457a6333566d54/img/970d6f043b21468b8f2288ef2f5c71a5/970d6f043b21468b8f2288ef2f5c71a5.png.",
+                        "https://images.cafonline.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/caf-prd/jj0o4lbzentmu48gmroh.jpg."
+                    ],
+                    "Comments": [
+                        {
+                            "CommentID": "1",
+                            "Comment": "Ivory Coast surprised Nigeria 1-0 in Cairo on Saturday in the Group B opener at the Under-23 Africa Cup of Nations - the continent's qualifying tournament for the 2020 Tokyo Olympic Games.Later South Africa - who came to Egypt with a severely depleted squad - drew 0-0 with Zambia in the second Group B match.The tournament got underway on Friday with hosts Egypt beating Mali 1-0 and Cameroon and Ghana drawing 1-1 in Group A.On Saturday Ivory Coast's Silas Gnaka converted a penalty after Olisa Ndah committed a foul that resulted in him being sent off leaving Nigeria to play the final 20 minutes a man short.Nigeria lacked captain Azubuike Okechukwu and Taiwo Awoniyi after their Turkish and German clubs refused to release them before the international window.Many European clubs did agreed to free players for the tournament even though it started and will finish outside the window. Meanwhile South Africa and Zambia provided plenty of free-flowing football only to be let down by poor finishing. South Africa arrived in Egypt with just 12 players and lacked six of the 21-man squad when they faced Zambia due to some domestic clubs taking a hard line on releasing players. The eventual finalists and the winners of the third-place play-off will represent Africa at the 16-nation Tokyo Olympics football tournament.",
+                            "By": "BBC"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CategoryID": "3",
+            "CategoryName": "Europe",
+            "ChampionList": [
+                {"hasSchedual": true,
+                    "ChampionID": "1",
+                    "Name": "Premier League"                    ,
+                    "Avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png",
+                    "About": "There are 20 clubs in the Premier League During the course of a season from August to May each club plays the others twice a double round robin system once at their home stadium and once at that of their opponents for 38 games Teams receive three points for a win and one point for a draw No points are awarded for a loss Teams are ranked by total points then goal difference and then goals scored If still equal teams are deemed to occupy the same position If there is a tie for the championship for relegation or for qualification to other competitions the head to head record between the tied teams is taken into consideration points scored in the matches between the teams followed by away goals in those matches If two teams are still tied a play-off match at a neutral venue decides rank",
+                    "Country": "England",
+                    "Founded": "1992",
+                    "NumOfTeams": "20",
+                    "NextDate": "Mon, Aug 05,2022",
+                    "MostSuccessfulTeam": "Manchester United",
+                    "Website": "https://www.premierleague.com",
+                    "Gallery": [
+                        "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/480px-Manchester_City_FC_badge.svg.png",
+                        "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/474px-Manchester_United_FC_crest.svg.png",
+                        "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/408px-Arsenal_FC.svg.png",
+                        "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/351px-Liverpool_FC.svg.png"
+                    ],
+                    "Comments": [
+                        {
+                            "CommentID": "1",
+                            "Comment": "Of course the Uefa Champions League is better. They have most of, if not all the stars from around the world playing in the European leagues, so of course they attract more people. The solution is simple. If the club's stadia is not up to scratch then the club should be disqualifed, if the club doesn't have the funds to participate, then they should be disqualified. Caf needs to set the bar so that only the good teams get to play. It's time to start being more Professional. And of course Caf should do a better job of finding sponsors and increase the prize money.",
+                            "By": "Doubting Thomas, Nigeria"
+                        },
+                        {
+                            "CommentID": "2",
+                            "Comment": "For the Caf Champions League to be more effective, the level of refeering on the continent must improve. The necessary infrastructure must also be put in place either by the clubs or with support from their respective govrnments. Caf must also increase the prize money for the participating clubs and also support the National Associations in the organisation of the various domestic league competitions so that worthy champions may emerge from the domestic leagues to compete in the Caf competition.",
+                            "By": "Emmanuel Osei Ofosu, Ghana"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

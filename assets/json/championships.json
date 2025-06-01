@@ -1,0 +1,30 @@
+{
+    "Championships": [
+      {
+        "Name": "Africa",
+        "Image": "https://upload.wikimedia.org/wikipedia/en/d/d5/CAF_Champions_League.png",
+        "Matches Schedule": [
+          {
+            "Team 1": "El-Ahly",
+            "Team 1 Logo": "https://iconape.com/wp-content/files/fs/323800/png/323800.png",
+            "Team 2": "El-Zamalek",
+            "Team 2 Logo": "https://seeklogo.com/images/Z/zamalek-sc-logo-DBC71FD15E-seeklogo.com.png",
+            "News": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+            "Match Date": "02/10/2022",
+            "Match Time": "08:00 AM",
+            "Live Stream": "https://www.youtube.com/watch?v=1aKcGWAW5kU"
+          },
+          {
+            "Team 1": "El-Ahly",
+            "Team 1 Logo": "https://iconape.com/wp-content/files/fs/323800/png/323800.png",
+            "Team 2": "El-Zamalek",
+            "Team 2 Logo": "https://seeklogo.com/images/Z/zamalek-sc-logo-DBC71FD15E-seeklogo.com.png",
+            "News": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+            "Match Date": "02/10/2022",
+            "Match Time": "08:00 AM",
+            "Live Stream": "https://www.youtube.com/watch?v=1aKcGWAW5kU"
+          }
+        ]
+      }
+    ]
+}

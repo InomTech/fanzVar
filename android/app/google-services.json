@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473853969939",
+    "project_id": "fanzhashem-92682",
+    "storage_bucket": "fanzhashem-92682.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473853969939:android:658e74685d33bf0b69a1e6",
+        "android_client_info": {
+          "package_name": "com.mycompany.fanzhashem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQZYaGAwDNoKMtrxo_ZedHK5nfnYk8k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

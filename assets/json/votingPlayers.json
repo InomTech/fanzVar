@@ -1,0 +1,100 @@
+{
+  "Player": [
+    {
+      "name": "Ahmed Sayed Zizo",
+      "image": "https://www.footyrenders.com/render/ahmed-zizo-sayed-3.png",
+      "vote_num": 15,
+      "vote_presentage": "20%"
+    },
+    {
+      "name": "Mohamed Salah",
+      "image": "https://images.news18.com/ibnlive/uploads/2022/02/sports-40-16452923594x3.png",
+      "vote_num": 20,
+      "vote_presentage": "30%"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/07/30/16591778851898.jpg",
+      "vote_num": 40,
+      "vote_presentage": "50%"
+    }
+  ],
+  "Coaches": [
+    {
+        "name": "Jesualdo Ferreira",
+        "image": "https://english.ahram.org.eg/Media/News/2022/6/19/41_2022-637912757462339536-233.jpg",
+        "vote_num": 30,
+        "vote_presentage": "90%"
+    },
+    {
+        "name": "Jürgen Klopp",
+        "image": "https://images.akhbarelyom.com/images/images/large/20211206182521225.jpg",
+        "vote_num": 15,
+        "vote_presentage": "50%"
+    },
+    {
+        "name": "Pep Guardiola",
+        "image": "https://s.hs-data.com/bilder/spieler/gross/3528.jpg?fallback=png",
+        "vote_num": 40,
+        "vote_presentage": "20%"
+    },
+    {
+        "name": "Rui Vitória",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Rui_Vit%C3%B3ria_2021.jpg",
+        "vote_num": 15,
+        "vote_presentage": "10%"
+    },
+    {
+        "name": "Carlo Ancelotti",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa9GG0BMyh0mepFJCAEBxsBJmaXkFMe65k1c2muFpHIDwQ1i8t",
+        "vote_num": 15,
+        "vote_presentage": "20%"
+    },
+    {
+        "name": "Thomas Tuchel",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93175.jpg/800px-2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93175.jpg",
+        "vote_num": 15,
+        "vote_presentage": "40%"
+    }
+],
+"journalists": [
+  {
+      "name": "Alison Kervin",
+      "image": "https://www.sportsjournalists.co.uk/wp-content/uploads/2016/12/Alison-Kervin-2016-245x350.jpg",
+      "vote_num": 155,
+      "vote_presentage": "20%"
+  },
+  {
+      "name": "Anthony Hayward",
+      "image": "https://mintcasting.tv/wp-content/uploads/2019/06/Anthony-Hayward@Mint-Casting-10-400x600.jpg",
+      "vote_num": 555,
+      "vote_presentage": "25%"
+  },
+  {
+      "name": "Vithushan Ehantharajah",
+      "image": "https://pbs.twimg.com/profile_images/1543005603282526208/BttprwNq_400x400.jpg",
+      "vote_num": 15,
+      "vote_presentage": "10%"
+  }
+],
+"clubs": [
+  {
+      "name": "Real Madrid",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/150px-Real_Madrid_CF.svg.png",
+      "vote_num": 155,
+      "vote_presentage": "24%"
+  },
+  {
+      "name": "Al Ahly SC",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Al_Ahly_SC_logo.png/130px-Al_Ahly_SC_logo.png",
+      "vote_num": 555,
+      "vote_presentage": "20%"
+  },
+  {
+      "name": "Zamalek SC",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/ZamalekSC.png/220px-ZamalekSC.png",
+      "vote_num": 1115,
+      "vote_presentage": "25%"
+  }
+]
+}

@@ -1,0 +1,344 @@
+{
+    "ChatRooms": [
+        {
+            "chat_room_id": "1",
+            "chat_room_title": "chat room 1",
+            "chat_room_avatar": "https://picsum.photos/250?image=2",
+            "total_members": "10 k",
+            "status": "Joined",
+            "created_date": "12/12/22022",
+            "members": [
+                {
+                    "member_id": "11",
+                    "member_name": "Ahmed",
+                    "member_avatar": "https://picsum.photos/250?image=3",
+                    "member_status": "Available"
+                },
+                {
+                    "member_id": "13",
+                    "member_name": "Mohammed",
+                    "member_avatar": "https://picsum.photos/250?image=12",
+                    "member_status": "Away"
+                }
+            ],
+            "messages": [
+                {
+                    "message_id": "1",
+                    "message_content": "على فكره الاهلى كسب الهلال السعودى مش السودانى",
+                    "message_time": "8:30 p.m",
+                    "message_date": "12/03/2022",
+                    "is_me": false,
+                    "sender_id": "11",
+                    "sender_name": "Sandra Tawfik",
+                    "sender_avatar": "https://picsum.photos/250?image=3",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "2",
+                    "message_content": "سهل انك تكون اهلاوى لكن صعب انك تكون زملكاوى",
+                    "message_time": "10:30 PM",
+                    "message_date": "13/03/2022",
+                    "is_me": true,
+                    "sender_id": "12",
+                    "sender_name": "You",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "3",
+                    "message_content": "حرام والله الماتشيين فى نفس التوقيت مش عارفين نتفرج على المتعه فى ماتش الهلى ولا الضحك فى ماتش الزمالك",
+                    "message_time": "9:10 p.m",
+                    "message_date": "14/03/2022",
+                    "is_me": false,
+                    "sender_id": "12",
+                    "sender_name": "Reem Fahmy",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "4",
+                    "message_content": "الفوز للاهلى و الزمالك ان شاء الله",
+                    "message_time": "9:15 p.m",
+                    "message_date": "15/03/2022",
+                    "is_me": true,
+                    "sender_id": "12",
+                    "sender_name": "You",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                }
+            ]
+        },
+        {
+            "chat_room_id": "2",
+            "chat_room_title": "chat room 2",
+            "chat_room_avatar": "https://picsum.photos/250?image=3",
+            "total_members": "",
+            "status": "Join",
+            "created_date": "03/12/22022",
+            "members": [
+                {
+                    "member_id": "11",
+                    "member_name": "Ahmed",
+                    "member_avatar": "https://picsum.photos/250?image=3",
+                    "member_status": "Available"
+                },
+                {
+                    "member_id": "13",
+                    "member_name": "Mohammed",
+                    "member_avatar": "https://picsum.photos/250?image=12",
+                    "member_status": "Away"
+                }
+            ],
+            "messages": [
+                {
+                    "message_id": "1",
+                    "message_content": "على فكره الاهلى كسب الهلال السعودى مش السودانى",
+                    "message_time": "8:30 p.m",
+                    "message_date": "12/03/2022",
+                    "is_me": false,
+                    "sender_id": "11",
+                    "sender_name": "Sandra Tawfik",
+                    "sender_avatar": "https://picsum.photos/250?image=3",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "2",
+                    "message_content": "سهل انك تكون اهلاوى لكن صعب انك تكون زملكاوى",
+                    "message_time": "10:30 PM",
+                    "message_date": "13/03/2022",
+                    "is_me": true,
+                    "sender_id": "12",
+                    "sender_name": "You",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "3",
+                    "message_content": "حرام والله الماتشيين فى نفس التوقيت مش عارفين نتفرج على المتعه فى ماتش الهلى ولا الضحك فى ماتش الزمالك",
+                    "message_time": "9:10 p.m",
+                    "message_date": "14/03/2022",
+                    "is_me": false,
+                    "sender_id": "12",
+                    "sender_name": "Reem Fahmy",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "4",
+                    "message_content": "الفوز للاهلى و الزمالك ان شاء الله",
+                    "message_time": "9:15 p.m",
+                    "message_date": "15/03/2022",
+                    "is_me": true,
+                    "sender_id": "12",
+                    "sender_name": "You",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                }
+            ]
+        },
+        {
+            "chat_room_id": "3",
+            "chat_room_title": "chat room 3",
+            "chat_room_avatar": "https://picsum.photos/250?image=3",
+            "total_members": "",
+            "status": "Join",
+            "created_date": "03/12/22022",
+            "members": [
+                {
+                    "member_id": "11",
+                    "member_name": "Ahmed",
+                    "member_avatar": "https://picsum.photos/250?image=3",
+                    "member_status": "Available"
+                },
+                {
+                    "member_id": "13",
+                    "member_name": "Mohammed",
+                    "member_avatar": "https://picsum.photos/250?image=12",
+                    "member_status": "Away"
+                }
+            ],
+            "messages": [
+                {
+                    "message_id": "1",
+                    "message_content": "على فكره الاهلى كسب الهلال السعودى مش السودانى",
+                    "message_time": "8:30 p.m",
+                    "message_date": "12/03/2022",
+                    "is_me": false,
+                    "sender_id": "11",
+                    "sender_name": "Sandra Tawfik",
+                    "sender_avatar": "https://picsum.photos/250?image=3",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "2",
+                    "message_content": "سهل انك تكون اهلاوى لكن صعب انك تكون زملكاوى",
+                    "message_time": "10:30 PM",
+                    "message_date": "13/03/2022",
+                    "is_me": true,
+                    "sender_id": "12",
+                    "sender_name": "You",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "3",
+                    "message_content": "حرام والله الماتشيين فى نفس التوقيت مش عارفين نتفرج على المتعه فى ماتش الهلى ولا الضحك فى ماتش الزمالك",
+                    "message_time": "9:10 p.m",
+                    "message_date": "14/03/2022",
+                    "is_me": false,
+                    "sender_id": "12",
+                    "sender_name": "Reem Fahmy",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "4",
+                    "message_content": "الفوز للاهلى و الزمالك ان شاء الله",
+                    "message_time": "9:15 p.m",
+                    "message_date": "15/03/2022",
+                    "is_me": true,
+                    "sender_id": "12",
+                    "sender_name": "You",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                }
+            ]
+        },
+        {
+            "chat_room_id": "4",
+            "chat_room_title": "chat room 4",
+            "chat_room_avatar": "https://picsum.photos/250?image=3",
+            "total_members": "10 K",
+            "status": "Join",
+            "created_date": "03/12/22022",
+            "members": [
+                {
+                    "member_id": "11",
+                    "member_name": "Ahmed",
+                    "member_avatar": "https://picsum.photos/250?image=3",
+                    "member_status": "Available"
+                },
+                {
+                    "member_id": "13",
+                    "member_name": "Mohammed",
+                    "member_avatar": "https://picsum.photos/250?image=12",
+                    "member_status": "Away"
+                }
+            ],
+            "messages": [
+                {
+                    "message_id": "1",
+                    "message_content": "على فكره الاهلى كسب الهلال السعودى مش السودانى",
+                    "message_time": "8:30 p.m",
+                    "message_date": "12/03/2022",
+                    "is_me": false,
+                    "sender_id": "11",
+                    "sender_name": "Sandra Tawfik",
+                    "sender_avatar": "https://picsum.photos/250?image=3",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "2",
+                    "message_content": "سهل انك تكون اهلاوى لكن صعب انك تكون زملكاوى",
+                    "message_time": "10:30 PM",
+                    "message_date": "13/03/2022",
+                    "is_me": true,
+                    "sender_id": "12",
+                    "sender_name": "You",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "3",
+                    "message_content": "حرام والله الماتشيين فى نفس التوقيت مش عارفين نتفرج على المتعه فى ماتش الهلى ولا الضحك فى ماتش الزمالك",
+                    "message_time": "9:10 p.m",
+                    "message_date": "14/03/2022",
+                    "is_me": false,
+                    "sender_id": "12",
+                    "sender_name": "Reem Fahmy",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "4",
+                    "message_content": "الفوز للاهلى و الزمالك ان شاء الله",
+                    "message_time": "9:15 p.m",
+                    "message_date": "15/03/2022",
+                    "is_me": true,
+                    "sender_id": "12",
+                    "sender_name": "You",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                }
+            ]
+        },
+        {
+            "chat_room_id": "5",
+            "chat_room_title": "chat room 5",
+            "chat_room_avatar": "https://picsum.photos/250?image=3",
+            "total_members": "",
+            "status": "Join",
+            "created_date": "03/12/22022",
+            "members": [
+                {
+                    "member_id": "11",
+                    "member_name": "Ahmed",
+                    "member_avatar": "https://picsum.photos/250?image=3",
+                    "member_status": "Available"
+                },
+                {
+                    "member_id": "13",
+                    "member_name": "Mohammed",
+                    "member_avatar": "https://picsum.photos/250?image=12",
+                    "member_status": "Away"
+                }
+            ],
+            "messages": [
+                {
+                    "message_id": "1",
+                    "message_content": "على فكره الاهلى كسب الهلال السعودى مش السودانى",
+                    "message_time": "8:30 p.m",
+                    "message_date": "12/03/2022",
+                    "is_me": false,
+                    "sender_id": "11",
+                    "sender_name": "Sandra Tawfik",
+                    "sender_avatar": "https://picsum.photos/250?image=3",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "2",
+                    "message_content": "سهل انك تكون اهلاوى لكن صعب انك تكون زملكاوى",
+                    "message_time": "10:30 PM",
+                    "message_date": "13/03/2022",
+                    "is_me": true,
+                    "sender_id": "12",
+                    "sender_name": "You",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "3",
+                    "message_content": "حرام والله الماتشيين فى نفس التوقيت مش عارفين نتفرج على المتعه فى ماتش الهلى ولا الضحك فى ماتش الزمالك",
+                    "message_time": "9:10 p.m",
+                    "message_date": "14/03/2022",
+                    "is_me": false,
+                    "sender_id": "12",
+                    "sender_name": "Reem Fahmy",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                },
+                {
+                    "message_id": "4",
+                    "message_content": "الفوز للاهلى و الزمالك ان شاء الله",
+                    "message_time": "9:15 p.m",
+                    "message_date": "15/03/2022",
+                    "is_me": true,
+                    "sender_id": "12",
+                    "sender_name": "You",
+                    "sender_avatar": "https://picsum.photos/250?image=1",
+                    "sender_status": "Available"
+                }
+            ]
+        }
+    ]
+}

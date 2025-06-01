@@ -1,0 +1,685 @@
+{
+    "players": [
+        {
+            "name": "NBA",
+            "image_profile": "http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",
+            "is_availavle": true,
+            "age": 21,
+            "games": [
+                "Fifa",
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "U.S. Olympic teams",
+            "start_date": "8/3/2022",
+            "due_date": "15/3/2022",
+            "country": "Egypt",
+            "seats": 12,
+            "location": "USA",
+            "longitude": 31.233334,
+            "latitude": 30.033333,
+            "total_teams":45,
+            "max_teams":24,
+            "city": "cairo",
+            "is_joined": false,
+            "matches": [
+                {
+                    "first_team_name": "France",
+                    "first_team_score": 3,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_fra",
+                    "second_team_name": "Bulgaria",
+                    "second_team_score": 0,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_bul",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 15,
+                        "lost": 15,
+                        "scored": 45,
+                        "conceded": 57,
+                        "points": 46
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://i.ytimg.com/vi/MacXYdNPNp8/mqdefault.jpg",
+                        "https://i.cbc.ca/1.6485527.1654911601!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_780/canada-france-volleyball.jpeg",
+                        "https://images.indianexpress.com/2021/09/Volley.jpg",
+                        "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1397/03/04/1397030422390488314235214.jpg",
+                        "https://i1.actualno.com/actualno_2013/upload/news/2021/09/06/0914444001630931627_1640438_920x517.webp"
+                    ]
+                },
+                {
+                    "first_team_name": "Germany",
+                    "first_team_score": 3,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_ger",
+                    "second_team_name": "Australia",
+                    "second_team_score": 0,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_aus",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 10,
+                        "drawn": 20,
+                        "lost": 13,
+                        "scored": 44,
+                        "conceded": 56,
+                        "points": 54
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/6KbOOv3PQoo/maxresdefault.jpg",
+                    "highlight": [
+                        "https://c8.alamy.com/zooms/9/424dbd32b72d44b5a25eeeff100dfe9a/t6ph8a.jpg",
+                        "https://images.volleyballworld.com/image/private/t_editorial_landscape_12_desktop/fivb-prd/sqylgf3pjqsba2sehpnz.jpg",
+                        "https://images.volleyballworld.com/image/private/t_portrait_tablet_desktop/fivb-prd/qomyo7axainl7wqhma08.jpg",
+                        "https://cdn.sportslumo.com/wp-content/uploads/2022/06/22203649/germany-volleyball.jpg",
+                        "https://tiebreakertimes.com.ph/wp-content/uploads/2022/06/VNL-2022-Italy-vs.-Germany-Linus-Weber-9524.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Japan",
+                    "first_team_score": 1,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_jpn",
+                    "second_team_name": "Iran",
+                    "second_team_score": 3,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_iri",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 17,
+                        "drawn": 15,
+                        "lost": 13,
+                        "scored": 54,
+                        "conceded": 56,
+                        "points": 55
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 11,
+                        "drawn": 17,
+                        "lost": 17,
+                        "scored": 51,
+                        "conceded": 57,
+                        "points": 53
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/bYBMVIxlioU/maxresdefault.jpg",
+                    "highlight": [
+                        "https://media.mehrnews.com/d/2021/05/28/4/3782260.jpg",
+                        "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2KHEVRDKTNLTTP37X44WEDVQNM.jpg",
+                        "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/POLKQ6PJ5FNXVB6U4N3MSB25NQ.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Serbia",
+                    "first_team_score": 3,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_srb",
+                    "second_team_name": "Slovenia",
+                    "second_team_score": 1,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_slo",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 10,
+                        "drawn": 17,
+                        "lost": 18,
+                        "scored": 33,
+                        "conceded": 56,
+                        "points": 35
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 11,
+                        "drawn": 19,
+                        "lost": 15,
+                        "scored": 41,
+                        "conceded": 57,
+                        "points": 42
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/shvwbfmLuJg/maxresdefault.jpg",
+                    "highlight": [
+                        "https://worldofvolley.com/wp-content/uploads/2021/06/Serbia-Men.jpeg",
+                        "https://cdn.dmcl.biz/media/image/218128/o/GettyImages-1235340356.jpg",
+                        "https://cdnuploads.aa.com.tr/uploads/Contents/2019/09/27/thumbs_b_c_7c8dada9bbd33f48f21fd532b474573d.jpg?v=111637",
+                        "https://www.eurovolley.tv/image/400/225/5d90d791026ec.jpeg?v=20190929T141057.000000Z",
+                        "img.png",
+                        "img.png"
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://images2.minutemediacdn.com/image/upload/c_crop,w_4950,h_2784,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/83/01g6063qdtk8m6xb1c69.jpg",
+                "https://the12thman.in/wp-content/uploads/2021/11/NBA-Regular-Season-2021-Miami-Heat-vs-Dallas-Mavericks-Preview-Team-News-and-MIA-vs-DAL-Dream11-Prediction-1.jpg",
+                "https://cdn.vox-cdn.com/thumbor/7MJMPDH2rS6p9masRpba24S-6Dg=/0x0:3600x2400/1200x800/filters:focal(1367x289:1943x865)/cdn.vox-cdn.com/uploads/chorus_image/image/70515274/1238515194.0.jpg",
+                "https://images2.minutemediacdn.com/image/fetch/c_fill,g_auto,f_auto,h_1067,w_1600/https%3A%2F%2Fbehindthebuckpass.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1389342021.jpeg",
+                "https://www.ftxarena.com/assets/img/596_DAL_Home-42c0e4427d.jpg"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "Boston Celtics",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Brooklyn Nets",
+                            "league": "England",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Golden State Warriors",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Washington Wizards",
+                            "league": "England",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Phoenix Suns",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Dallas Mavericks",
+                            "league": "England",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Miami Heat",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Milwaukee Bucks",
+                            "league": "England",
+                            "rate": 4.5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group C",
+                    "teams": [
+                        {
+                            "team_name": "Houston Rockets",
+                            "league": "England",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Memphis Grizzlies",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "New Orleans Pelicans",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Utah Jazz",
+                            "league": "England",
+                            "rate": 4.5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group D",
+                    "teams": [
+                        {
+                            "team_name": "Portland Trail Blazers",
+                            "league": "England",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Minnesota Timberwolves",
+                            "league": "England",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Oklahoma City Thunder",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Orlando Magic",
+                            "league": "Italy",
+                            "rate": 4
+                        }
+                    ]
+                }
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "Boston Celtics",
+                            "first_team_score": 110,
+                            "second_team_name": "Brooklyn Nets",
+                            "second_team_score": 111
+                        },
+                        {
+                            "first_team_name": "Golden State Warriors",
+                            "first_team_score": 0,
+                            "second_team_name": "Washington Wizards",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Golden State Warriors",
+                            "first_team_score": 0,
+                            "second_team_name": "Manchester uinted",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Boston Celtics",
+                            "first_team_score": 0,
+                            "second_team_name": "Washington Wizards",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "Phoenix Suns",
+                            "first_team_score": 110,
+                            "second_team_name": "Dallas Mavericks",
+                            "second_team_score": 121
+                        },
+                        {
+                            "first_team_name": "Miami Heat",
+                            "first_team_score": 120,
+                            "second_team_name": "Milwaukee Bucks",
+                            "second_team_score": 121
+                        },
+                        {
+                            "first_team_name": "Dallas Mavericks",
+                            "first_team_score": 110,
+                            "second_team_name": "Miami Heat",
+                            "second_team_score": 121
+                        },
+                        {
+                            "first_team_name": "Milwaukee Bucks",
+                            "first_team_score": 80,
+                            "second_team_name": "Phoenix Suns",
+                            "second_team_score": 111
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group C",
+                    "teams": [
+                        {
+                            "first_team_name": "Houston Rockets",
+                            "first_team_score": 110,
+                            "second_team_name": "Memphis Grizzlies",
+                            "second_team_score": 111
+                        },
+                        {
+                            "first_team_name": "ew Orleans Pelicans",
+                            "first_team_score": 110,
+                            "second_team_name": "New Orleans Pelicans",
+                            "second_team_score": 121
+                        },
+                        {
+                            "first_team_name": "ew Orleans Pelicans",
+                            "first_team_score": 120,
+                            "second_team_name": "Houston Rockets",
+                            "second_team_score": 121
+                        },
+                        {
+                            "first_team_name": "New Orleans Pelicans",
+                            "first_team_score": 110,
+                            "second_team_name": "Memphis Grizzlies",
+                            "second_team_score": 111
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group D",
+                    "teams": [
+                        {
+                            "first_team_name": "Portland Trail Blazers",
+                            "first_team_score": 90,
+                            "second_team_name": "Minnesota Timberwolves",
+                            "second_team_score": 91
+                        },
+                        {
+                            "first_team_name": "Oklahoma City Thunder",
+                            "first_team_score": 70,
+                            "second_team_name": "Orlando Magic",
+                            "second_team_score": 81
+                        },
+                        {
+                            "first_team_name": "Minnesota Timberwolves",
+                            "first_team_score": 80,
+                            "second_team_name": "Oklahoma City Thunder",
+                            "second_team_score": 81
+                        },
+                        {
+                            "first_team_name": "Orlando Magic",
+                            "first_team_score": 70,
+                            "second_team_name": "Portland Trail Blazers",
+                            "second_team_score": 81
+                        }
+                    ]
+                }
+            ],
+            "competition_rules": "The NBA's regular season runs from October to April, with each team playing 82 games. The league's playoff tournament extends into June. As of 2020."
+            ,
+                "marketing_agency":"Marketing Agency",
+                "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        },
+        {
+            "name": "Egyptian Basketball Super League",
+            "image_profile": "https://upload.wikimedia.org/wikipedia/en/7/72/Egyptian_Basketball_Federation.png",
+            "is_availavle": false,
+            "age": 25,
+            "games": [
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "zAMALEK team",
+            "start_date": "7/3/2022",
+            "due_date": "15/3/2022",
+            "country": "Egypt",
+            "seats": 10,
+            "location": "Cairo",
+            "longitude": 36.233334,
+            "latitude": 33.033333,
+            "total_teams":45,
+            "max_teams":24,
+            "city": "cairo",
+            "is_joined": true,
+            "matches": [
+                {
+                    "first_team_name": "France",
+                    "first_team_score": 3,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_fra",
+                    "second_team_name": "Bulgaria",
+                    "second_team_score": 0,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_bul",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 15,
+                        "lost": 15,
+                        "scored": 45,
+                        "conceded": 57,
+                        "points": 46
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://i.ytimg.com/vi/MacXYdNPNp8/mqdefault.jpg",
+                        "https://i.cbc.ca/1.6485527.1654911601!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_780/canada-france-volleyball.jpeg",
+                        "https://images.indianexpress.com/2021/09/Volley.jpg",
+                        "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1397/03/04/1397030422390488314235214.jpg",
+                        "https://i1.actualno.com/actualno_2013/upload/news/2021/09/06/0914444001630931627_1640438_920x517.webp"
+                    ]
+                },
+                {
+                    "first_team_name": "Germany",
+                    "first_team_score": 3,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_ger",
+                    "second_team_name": "Australia",
+                    "second_team_score": 0,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_aus",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 10,
+                        "drawn": 20,
+                        "lost": 13,
+                        "scored": 44,
+                        "conceded": 56,
+                        "points": 54
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/6KbOOv3PQoo/maxresdefault.jpg",
+                    "highlight": [
+                        "https://c8.alamy.com/zooms/9/424dbd32b72d44b5a25eeeff100dfe9a/t6ph8a.jpg",
+                        "https://images.volleyballworld.com/image/private/t_editorial_landscape_12_desktop/fivb-prd/sqylgf3pjqsba2sehpnz.jpg",
+                        "https://images.volleyballworld.com/image/private/t_portrait_tablet_desktop/fivb-prd/qomyo7axainl7wqhma08.jpg",
+                        "https://cdn.sportslumo.com/wp-content/uploads/2022/06/22203649/germany-volleyball.jpg",
+                        "https://tiebreakertimes.com.ph/wp-content/uploads/2022/06/VNL-2022-Italy-vs.-Germany-Linus-Weber-9524.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Japan",
+                    "first_team_score": 1,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_jpn",
+                    "second_team_name": "Iran",
+                    "second_team_score": 3,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_iri",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 17,
+                        "drawn": 15,
+                        "lost": 13,
+                        "scored": 54,
+                        "conceded": 56,
+                        "points": 55
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 11,
+                        "drawn": 17,
+                        "lost": 17,
+                        "scored": 51,
+                        "conceded": 57,
+                        "points": 53
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/bYBMVIxlioU/maxresdefault.jpg",
+                    "highlight": [
+                        "https://media.mehrnews.com/d/2021/05/28/4/3782260.jpg",
+                        "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2KHEVRDKTNLTTP37X44WEDVQNM.jpg",
+                        "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/POLKQ6PJ5FNXVB6U4N3MSB25NQ.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Serbia",
+                    "first_team_score": 3,
+                    "first_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_srb",
+                    "second_team_name": "Slovenia",
+                    "second_team_score": 1,
+                    "second_team_img": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_slo",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 10,
+                        "drawn": 17,
+                        "lost": 18,
+                        "scored": 33,
+                        "conceded": 56,
+                        "points": 35
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 11,
+                        "drawn": 19,
+                        "lost": 15,
+                        "scored": 41,
+                        "conceded": 57,
+                        "points": 42
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/shvwbfmLuJg/maxresdefault.jpg",
+                    "highlight": [
+                        "https://worldofvolley.com/wp-content/uploads/2021/06/Serbia-Men.jpeg",
+                        "https://cdn.dmcl.biz/media/image/218128/o/GettyImages-1235340356.jpg",
+                        "https://cdnuploads.aa.com.tr/uploads/Contents/2019/09/27/thumbs_b_c_7c8dada9bbd33f48f21fd532b474573d.jpg?v=111637",
+                        "https://www.eurovolley.tv/image/400/225/5d90d791026ec.jpeg?v=20190929T141057.000000Z",
+                        "img.png",
+                        "img.png"
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://images2.minutemediacdn.com/image/upload/c_crop,w_4950,h_2784,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/83/01g6063qdtk8m6xb1c69.jpg",
+                "https://the12thman.in/wp-content/uploads/2021/11/NBA-Regular-Season-2021-Miami-Heat-vs-Dallas-Mavericks-Preview-Team-News-and-MIA-vs-DAL-Dream11-Prediction-1.jpg",
+                "https://cdn.vox-cdn.com/thumbor/7MJMPDH2rS6p9masRpba24S-6Dg=/0x0:3600x2400/1200x800/filters:focal(1367x289:1943x865)/cdn.vox-cdn.com/uploads/chorus_image/image/70515274/1238515194.0.jpg",
+                "https://images2.minutemediacdn.com/image/fetch/c_fill,g_auto,f_auto,h_1067,w_1600/https%3A%2F%2Fbehindthebuckpass.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1389342021.jpeg",
+                "https://www.ftxarena.com/assets/img/596_DAL_Home-42c0e4427d.jpg"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "El Ettehad El Sakandary",
+                            "league": "Egypt",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "El Zamalek",
+                            "league": "Egypt",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Gasko",
+                            "league": "Egypt",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Alexandria Sporting Club",
+                            "league": "Egypt",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "El Ahly",
+                            "league": "Egypt",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Smouha",
+                            "league": "Egypt",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "El Gezira",
+                            "league": "Egypt",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Harbee",
+                            "league": "Egypt",
+                            "rate": 4.5
+                        }
+                    ]
+                }
+                
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "El Ettehad El Sakandary",
+                            "first_team_score": 88,
+                            "second_team_name": "El Zamalek",
+                            "second_team_score": 99
+                        },
+                        {
+                            "first_team_name": "Gasko",
+                            "first_team_score": 55,
+                            "second_team_name": "Alexandria Sporting Club",
+                            "second_team_score": 45
+                        },
+                        {
+                            "first_team_name": "El Zamalek",
+                            "first_team_score": 66,
+                            "second_team_name": "Gasko",
+                            "second_team_score": 45
+                        },
+                        {
+                            "first_team_name": "Alexandria Sporting Club",
+                            "first_team_score": 66,
+                            "second_team_name": "El Ettehad El Sakandary",
+                            "second_team_score": 55
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "El Ahly",
+                            "first_team_score": 45,
+                            "second_team_name": "Smouha",
+                            "second_team_score": 55
+                        },
+                        {
+                            "first_team_name": "El Gezira",
+                            "first_team_score": 50,
+                            "second_team_name": "EL GAISH",
+                            "second_team_score": 54
+                        },
+                        {
+                            "first_team_name": "Harbee",
+                            "first_team_score": 44,
+                            "second_team_name": "El Ahly",
+                            "second_team_score": 55
+                        },
+                        {
+                            "first_team_name": "Smouha",
+                            "first_team_score": 45,
+                            "second_team_name": "El Gezira",
+                            "second_team_score": 65
+                        }
+                    ]
+                }
+            ], 
+            "competition_rules": "The Egyptian Basketball Super League also known as the Egyptian Basketball Premier League A is the top professional basketball division of the Egyptian basketball league system.",
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        }
+    ]
+}

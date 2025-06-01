@@ -1,0 +1,1091 @@
+{
+    "players": [
+        {
+            "name": "Heavyweight",
+            "competition_title": "Heavyweight",
+            "image_profile": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0701%2Fbox_mid%2Dyear%2Dawards_16x9.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg",
+            "is_availavle": true,
+            "is_joined": false,
+            "age": 21,
+            "games": [
+                "Fifa",
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "Tyson Fury",
+            "start_date": "8/3/2022",
+            "due_date": "15/3/2022",
+            "city": "Berlin",
+            "country": "Germany",
+            "total_players": "12",
+            "duration": "30 days",
+            "seats": 12,
+            "location": "Cairo",
+            "max_players":24,
+            "min_players":12,
+            "game_type":"single",
+            "total_teams":45,
+            "longitude": 31.233334,
+            "latitude": 30.033333,
+            "matches": [
+                {
+                    "first_team_name": "Tyson Fury",
+                    "first_team_score": 0,
+                    "first_team_img": "https://sportsloveme.com/wp-content/uploads/2022/04/Tyson-Furys-retirement-plan-ahead-of-Dillian-Whyte-world-title-fight.jpg",
+                    "second_team_name": "Oleksandr Usyk",
+                    "second_team_score": 1,
+                    "second_team_img": "https://phantom-marca.unidadeditorial.es/71be1bfaf4cb44a2f5029215496e3a0e/resize/1320/f/jpg/assets/multimedia/imagenes/2022/02/25/16458144789311.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/wE8JxOWEpN0/hqdefault.jpg",
+                    "highlight": [
+                        "https://sportshub.cbsistatic.com/i/r/2018/11/10/cd01cceb-2e2c-4257-9e91-49db593b969b/thumbnail/1200x675/fa7dbd212566d84704040d9d5405856d/oleksandr-usyk-tony-bellew.jpg",
+                        "https://sportshub.cbsistatic.com/i/r/2018/11/10/cd01cceb-2e2c-4257-9e91-49db593b969b/thumbnail/640x360/e4096cc02c7b874bf8003c1eddc85c69/oleksandr-usyk-tony-bellew.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Deontay Wilder",
+                    "first_team_score": 0,
+                    "first_team_img": "https://www.boxingscene.com/uploads/deontay-wilder%20(5)_1633737074.jpg",
+                    "second_team_name": "Anthony Joshua",
+                    "second_team_score": 1,
+                    "second_team_img": "https://m.media-amazon.com/images/M/MV5BYWFlMmVhZjAtOGMzNS00MzEyLTkzMWEtN2M1MDgzODI5Njk0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://phantom-marca.unidadeditorial.es/4a9323ea59eb399f712819054c49f789/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/02/16542043862020.jpg",
+                        "https://sportshub.cbsistatic.com/i/r/2022/05/25/1bdcf9ff-d835-4b9d-8360-691b768cc250/thumbnail/1200x675/8c7913c221ee840369c2edff30d9cd73/deontay-wilder-fury-fight.png",
+                        "https://cdn.vox-cdn.com/thumbor/sPacmKxK4HB_M0fuOvUVKYySbT8=/0x0:3900x2600/1200x800/filters:focal(1007x783:1631x1407)/cdn.vox-cdn.com/uploads/chorus_image/image/70910534/1235959940.0.jpg",
+                        "https://m.media-amazon.com/images/M/MV5BYWFlMmVhZjAtOGMzNS00MzEyLTkzMWEtN2M1MDgzODI5Njk0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+                        "https://www.boxingnewsonline.net/bn/wp-content/uploads/2019/05/2018-09-22T222022Z_838810366_RC16C3CE0BB0_RTRMADP_3_BOXING-HEAVYWEIGHT-JOSHUA-POVETKIN.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Tyson Fury",
+                    "first_team_score": 0,
+                    "first_team_img": "https://sportsloveme.com/wp-content/uploads/2022/04/Tyson-Furys-retirement-plan-ahead-of-Dillian-Whyte-world-title-fight.jpg",
+                    "second_team_name": "Deontay Wilder",
+                    "second_team_score": 1,
+                    "second_team_img": "https://www.boxingscene.com/uploads/deontay-wilder%20(5)_1633737074.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://cdn.vox-cdn.com/thumbor/sPacmKxK4HB_M0fuOvUVKYySbT8=/0x0:3900x2600/1200x800/filters:focal(1007x783:1631x1407)/cdn.vox-cdn.com/uploads/chorus_image/image/70910534/1235959940.0.jpg",
+                        "https://phantom-marca.unidadeditorial.es/a86d98dc2aa3b7edc2e899e1be4a0733/crop/0x0/659x371/resize/1320/f/jpg/assets/multimedia/imagenes/2021/11/07/16362889437984.jpg",
+                        "https://www.planetsport.com/image-library/land/345/d/deontay-wilder-2404.jpg",
+                        "https://phantom-marca.unidadeditorial.es/dd2342a0fe3a59d91810fd27019f6bdf/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/09/16548057175734.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Oleksandr Usyk",
+                    "first_team_score": 0,
+                    "first_team_img": "https://phantom-marca.unidadeditorial.es/71be1bfaf4cb44a2f5029215496e3a0e/resize/1320/f/jpg/assets/multimedia/imagenes/2022/02/25/16458144789311.jpg",
+                    "second_team_name": "Anthony Joshua",
+                    "second_team_score": 1,
+                    "second_team_img": "https://c8.alamy.com/comp/M92C9G/anthony-joshua-during-the-workout-at-the-english-institute-of-sport-sheffield-M92C9G.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://wealthyleo.com/wp-content/uploads/2018/10/Oleksandr-Usyk-1.jpg",
+                        "https://i.dailymail.co.uk/1s/2019/12/06/16/21913152-0-Joshua_in_his_first_professional_fight_against_Emanuele_Leo_in_2-m-67_1575648949481.jpg",
+                        "https://i.dailymail.co.uk/1s/2021/06/08/18/43980723-9665263-image-m-5_1623172111783.jpg",
+                        "https://c2.thejournal.ie/media/2018/03/boxing-principality-stadium-13-390x285.jpg"
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://i.dailymail.co.uk/1s/2021/06/08/18/43980723-9665263-image-m-5_1623172111783.jpg",
+                "https://www.planetsport.com/image-library/land/345/d/deontay-wilder-2404.jpg",
+                "https://m.media-amazon.com/images/M/MV5BYWFlMmVhZjAtOGMzNS00MzEyLTkzMWEtN2M1MDgzODI5Njk0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+                "https://www.planetsport.com/image-library/land/345/d/deontay-wilder-2404.jpg",
+                "https://phantom-marca.unidadeditorial.es/dd2342a0fe3a59d91810fd27019f6bdf/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/09/16548057175734.jpg",
+                "https://www.boxingscene.com/uploads/deontay-wilder%20(5)_1633737074.jpg"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "Tyson Fury",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Oleksandr Usyk",
+                            "league": "England",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": " Deontay Wilder",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Anthony Joshua ",
+                            "league": "England",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Andy Ruiz Jr.",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Dillian Whyte",
+                            "league": "England",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": " Joseph Parker",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Luis Ortiz",
+                            "league": "England",
+                            "rate": 4.5
+                        }
+                    ]
+                }
+                
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "Tyson Fury",
+                            "first_team_score": 4,
+                            "second_team_name": "Oleksandr Usyk",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Deontay Wilder",
+                            "first_team_score": 0,
+                            "second_team_name": "Anthony Joshua",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Anthony Joshua",
+                            "first_team_score": 3,
+                            "second_team_name": "Deontay Wilder",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Anthony Joshua",
+                            "first_team_score": 3,
+                            "second_team_name": "Tyson Fury",
+                            "second_team_score": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "Andy Ruiz Jr.",
+                            "first_team_score": 44,
+                            "second_team_name": "Dillian Whyte",
+                            "second_team_score": 31
+                        },
+                        {
+                            "first_team_name": "Joseph Parker",
+                            "first_team_score": 5,
+                            "second_team_name": "Luis Ortiz",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Dillian Whyte",
+                            "first_team_score": 4,
+                            "second_team_name": "Joseph Parker",
+                            "second_team_score": 5
+                        },
+                        {
+                            "first_team_name": "Luis Ortiz",
+                            "first_team_score": 3,
+                            "second_team_name": "Andy Ruiz Jr.",
+                            "second_team_score": 1
+                        }
+                    ]
+                }
+            ],
+            "competition_rules": "n boxing, a weight class is a measurement weight range for boxers. The lower limit of a weight class is equal to the upper weight limit of the class below it. The top class, with no upper limit, is called heavyweight in professional boxing and super heavyweight[1] in amateur boxing. A boxing match is usually scheduled for a fixed weight class, and each boxer's weight must not exceed the upper limit. Although professional boxers may fight above their weight class, an amateur boxer's weight must not fall below the lower limit. A nonstandard weight limit is called a catchweight.",
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        },
+        {
+            "competition_title": "Cruiserweight 150 lbs",
+            "name": "Cruiserweight 150 lbs",
+            "image_profile": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "is_availavle": false,
+            "is_joined": false,
+            "age": 25,
+            "games": [
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "Mairis Briedis",
+            "start_date": "7/3/2022",
+            "due_date": "15/3/2022",
+            "city": "Latvia",
+            "country": "Latvia",
+            "total_players": "12",
+            "duration": "3 hours",
+            "seats": 10,
+            "location": "Latvia",
+            "max_players":24,
+            "min_players":12,
+            "game_type":"single",
+            "total_teams":45,
+            "longitude": 44.233334,
+            "latitude": 33.033333,
+            "matches": [
+                {
+                    "first_team_name": "Mairis Briedis",
+                    "first_team_score": 0,
+                    "first_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mairis_Briedis_2018.jpg/480px-Mairis_Briedis_2018.jpg",
+                    "second_team_name": "Yuniel Dorticos",
+                    "second_team_score": 1,
+                    "second_team_img": "https://pbs.twimg.com/media/Dl3Vi0JU4AAqaEv.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://photo.boxingscene.com/uploads/dorticos-masternak%20(3).jpg",
+                        "https://pic.la.lv/2018/06/bokseris-Mairis-Briedis-stadiona-2018-janvaris.jpg",
+                        "https://cdn.vox-cdn.com/thumbor/Yn8kjnCkdUREF2DMMurluuqHRZ4=/0x0:1742x1266/1200x800/filters:focal(942x156:1220x434)/cdn.vox-cdn.com/uploads/chorus_image/image/67441630/914020922.jpg.0.jpg",
+                        "https://g2.delphi.lv/images/pix/768x438/GCsLJqNbMFM/bokss-mairis-briedis-arturs-manns-43-53844199.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Lawrence Okolie",
+                    "first_team_score": 0,
+                    "first_team_img": "https://www.proboxing-fans.com/wp-content/uploads/2021/03/okolie-1-done-1.jpg",
+                    "second_team_name": "Ilunga Makabu",
+                    "second_team_score": 1,
+                    "second_team_img": "https://cdn.24.co.za/files/Cms/General/d/594/258224652932488eb83da6d8aa44c417.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://cdn.vox-cdn.com/thumbor/uZ4F3-416jNw8KN68BP0EGxWYbc=/0x0:3270x2220/1200x800/filters:focal(882x479:1404x1001)/cdn.vox-cdn.com/uploads/chorus_image/image/65362931/1163627189.jpg.0.jpg",
+                        "https://bi.im-g.pl/im/e0/a8/19/z26903776V,Krzysztof-Glowacki-przegral-z-Lawrencem-Okoliem.jpg",
+                        "https://photo.boxingscene.com/uploads/lawrence-okolie_2020_12_11_175913.jpg",
+                        "https://sundayworld.co.za/wp-content/uploads/2021/04/P21-thabiso-mchunu-1-696x870.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Thabiso Mchunu",
+                    "first_team_score": 0,
+                    "first_team_img": "https://photo.boxingscene.com/uploads/thabiso-mchunu_1.jpg",
+                    "second_team_name": "Alexei Papin",
+                    "second_team_score": 1,
+                    "second_team_img": "https://i2-prod.manchestereveningnews.co.uk/incoming/article19254382.ece/ALTERNATES/s1200c/1_Daniel-Dubois-v-Kyotaro-Fujimoto-WBC-Silver-and-WBO-International-Heavyweight-Titles.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://www.proboxing-fans.com/wp-content/uploads/2013/07/mchunu.jpg",
+                        "https://pbs.twimg.com/media/DPk4V8RX0AA3Q4m.jpg",
+                        "https://www.imago-images.com/bild/sp/0040812414/w.jpg",
+                        "https://c8.alamy.com/comp/DBTAHB/uncasville-connecticut-usa-4th-aug-2013-august-3-2013-thabiso-mchunu-DBTAHB.jpg"
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://www.imago-images.com/bild/sp/0040812414/w.jpg",
+                "https://sundayworld.co.za/wp-content/uploads/2021/04/P21-thabiso-mchunu-1-696x870.jpg",
+                "https://photo.boxingscene.com/uploads/dorticos-masternak%20(3).jpg",
+                "https://pbs.twimg.com/media/Dl3Vi0JU4AAqaEv.jpg",
+                "https://photo.boxingscene.com/uploads/thabiso-mchunu_1.jpg",
+                "https://www.proboxing-fans.com/wp-content/uploads/2013/07/mchunu.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mairis_Briedis_2018.jpg/480px-Mairis_Briedis_2018.jpg"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "Mairis Briedis",
+                            "league": "Latvian professional boxer",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Yuniel Dorticos",
+                            "league": "Cuban professional boxer",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Lawrence Okolie",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Ilunga Makabu",
+                            "league": "England",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Thabiso Mchunu",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Alexei Papin",
+                            "league": "England",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Mateusz Masternak",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Richard Riakporhe",
+                            "league": "England",
+                            "rate": 4.5
+                        }
+                    ]
+                }
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "Mairis Briedis",
+                            "first_team_score": 0,
+                            "second_team_name": "Yuniel Dorticos",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Lawrence Okolie",
+                            "first_team_score": 0,
+                            "second_team_name": "Ilunga Makabu",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Yuniel Dorticos",
+                            "first_team_score": 0,
+                            "second_team_name": "Lawrence Okolie",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Ilunga Makabu",
+                            "first_team_score": 0,
+                            "second_team_name": "Mairis Briedis",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "Thabiso Mchunu",
+                            "first_team_score": 0,
+                            "second_team_name": "Alexei Papin",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Mateusz Masternak",
+                            "first_team_score": 0,
+                            "second_team_name": "Richard Riakporhe",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Richard Riakporhe",
+                            "first_team_score": 0,
+                            "second_team_name": "Thabiso Mchun",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Thabiso Mchunu",
+                            "first_team_score": 0,
+                            "second_team_name": "Mateusz Masternak",
+                            "second_team_score": 1
+                        }
+                    ]
+                }
+            ],
+            "competition_rules": "n boxing, a weight class is a measurement weight range for boxers. The lower limit of a weight class is equal to the upper weight limit of the class below it. The top class, with no upper limit, is called heavyweight in professional boxing and super heavyweight[1] in amateur boxing. A boxing match is usually scheduled for a fixed weight class, and each boxer's weight must not exceed the upper limit. Although professional boxers may fight above their weight class, an amateur boxer's weight must not fall below the lower limit. A nonstandard weight limit is called a catchweight." ,
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        },
+        {
+            "name": "Heavyweight 30",
+            "competition_title": "Heavyweight30",
+            "image_profile": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0701%2Fbox_mid%2Dyear%2Dawards_16x9.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg",
+            "is_availavle": true,
+            "is_joined": false,
+            "age": 30,
+            "games": [
+                "Fifa",
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "Tyson Fury",
+            "start_date": "8/3/2022",
+            "due_date": "15/3/2022",
+            "city": "Berlin",
+            "country": "Germany",
+            "total_players": "12",
+            "duration": "20 days",
+            "seats": 12,
+            "location": "Cairo",
+            "max_players":24,
+            "min_players":12,
+            "game_type":"single",
+            "total_teams":45,
+            "longitude": 61.233334,
+            "latitude": 60.033333,
+            "matches": [
+                {
+                    "first_team_name": "Tyson Fury",
+                    "first_team_score": 6,
+                    "first_team_img": "https://sportsloveme.com/wp-content/uploads/2022/04/Tyson-Furys-retirement-plan-ahead-of-Dillian-Whyte-world-title-fight.jpg",
+                    "second_team_name": "Oleksandr Usyk",
+                    "second_team_score": 1,
+                    "second_team_img": "https://phantom-marca.unidadeditorial.es/71be1bfaf4cb44a2f5029215496e3a0e/resize/1320/f/jpg/assets/multimedia/imagenes/2022/02/25/16458144789311.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 17,
+                        "drawn": 15,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://i.ytimg.com/vi/wE8JxOWEpN0/hqdefault.jpg",
+                    "highlight": [
+                        "https://sportshub.cbsistatic.com/i/r/2018/11/10/cd01cceb-2e2c-4257-9e91-49db593b969b/thumbnail/1200x675/fa7dbd212566d84704040d9d5405856d/oleksandr-usyk-tony-bellew.jpg",
+                        "https://sportshub.cbsistatic.com/i/r/2018/11/10/cd01cceb-2e2c-4257-9e91-49db593b969b/thumbnail/640x360/e4096cc02c7b874bf8003c1eddc85c69/oleksandr-usyk-tony-bellew.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Deontay Wilder",
+                    "first_team_score": 3,
+                    "first_team_img": "https://www.boxingscene.com/uploads/deontay-wilder%20(5)_1633737074.jpg",
+                    "second_team_name": "Anthony Joshua",
+                    "second_team_score": 1,
+                    "second_team_img": "https://m.media-amazon.com/images/M/MV5BYWFlMmVhZjAtOGMzNS00MzEyLTkzMWEtN2M1MDgzODI5Njk0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://phantom-marca.unidadeditorial.es/4a9323ea59eb399f712819054c49f789/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/02/16542043862020.jpg",
+                        "https://sportshub.cbsistatic.com/i/r/2022/05/25/1bdcf9ff-d835-4b9d-8360-691b768cc250/thumbnail/1200x675/8c7913c221ee840369c2edff30d9cd73/deontay-wilder-fury-fight.png",
+                        "https://cdn.vox-cdn.com/thumbor/sPacmKxK4HB_M0fuOvUVKYySbT8=/0x0:3900x2600/1200x800/filters:focal(1007x783:1631x1407)/cdn.vox-cdn.com/uploads/chorus_image/image/70910534/1235959940.0.jpg",
+                        "https://m.media-amazon.com/images/M/MV5BYWFlMmVhZjAtOGMzNS00MzEyLTkzMWEtN2M1MDgzODI5Njk0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+                        "https://www.boxingnewsonline.net/bn/wp-content/uploads/2019/05/2018-09-22T222022Z_838810366_RC16C3CE0BB0_RTRMADP_3_BOXING-HEAVYWEIGHT-JOSHUA-POVETKIN.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Tyson Fury",
+                    "first_team_score": 5,
+                    "first_team_img": "https://sportsloveme.com/wp-content/uploads/2022/04/Tyson-Furys-retirement-plan-ahead-of-Dillian-Whyte-world-title-fight.jpg",
+                    "second_team_name": "Deontay Wilder",
+                    "second_team_score": 1,
+                    "second_team_img": "https://www.boxingscene.com/uploads/deontay-wilder%20(5)_1633737074.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://cdn.vox-cdn.com/thumbor/sPacmKxK4HB_M0fuOvUVKYySbT8=/0x0:3900x2600/1200x800/filters:focal(1007x783:1631x1407)/cdn.vox-cdn.com/uploads/chorus_image/image/70910534/1235959940.0.jpg",
+                        "https://phantom-marca.unidadeditorial.es/a86d98dc2aa3b7edc2e899e1be4a0733/crop/0x0/659x371/resize/1320/f/jpg/assets/multimedia/imagenes/2021/11/07/16362889437984.jpg",
+                        "https://www.planetsport.com/image-library/land/345/d/deontay-wilder-2404.jpg",
+                        "https://phantom-marca.unidadeditorial.es/dd2342a0fe3a59d91810fd27019f6bdf/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/09/16548057175734.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Oleksandr Usyk",
+                    "first_team_score": 0,
+                    "first_team_img": "https://phantom-marca.unidadeditorial.es/71be1bfaf4cb44a2f5029215496e3a0e/resize/1320/f/jpg/assets/multimedia/imagenes/2022/02/25/16458144789311.jpg",
+                    "second_team_name": "Anthony Joshua",
+                    "second_team_score": 5,
+                    "second_team_img": "https://c8.alamy.com/comp/M92C9G/anthony-joshua-during-the-workout-at-the-english-institute-of-sport-sheffield-M92C9G.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://wealthyleo.com/wp-content/uploads/2018/10/Oleksandr-Usyk-1.jpg",
+                        "https://i.dailymail.co.uk/1s/2019/12/06/16/21913152-0-Joshua_in_his_first_professional_fight_against_Emanuele_Leo_in_2-m-67_1575648949481.jpg",
+                        "https://i.dailymail.co.uk/1s/2021/06/08/18/43980723-9665263-image-m-5_1623172111783.jpg",
+                        "https://c2.thejournal.ie/media/2018/03/boxing-principality-stadium-13-390x285.jpg"
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://i.dailymail.co.uk/1s/2021/06/08/18/43980723-9665263-image-m-5_1623172111783.jpg",
+                "https://www.planetsport.com/image-library/land/345/d/deontay-wilder-2404.jpg",
+                "https://m.media-amazon.com/images/M/MV5BYWFlMmVhZjAtOGMzNS00MzEyLTkzMWEtN2M1MDgzODI5Njk0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+                "https://www.planetsport.com/image-library/land/345/d/deontay-wilder-2404.jpg",
+                "https://phantom-marca.unidadeditorial.es/dd2342a0fe3a59d91810fd27019f6bdf/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/09/16548057175734.jpg",
+                "https://www.boxingscene.com/uploads/deontay-wilder%20(5)_1633737074.jpg"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "Tyson Fury",
+                            "league": "Italy",
+                            "rate": 5
+                        },
+                        {
+                            "team_name": "Oleksandr Usyk",
+                            "league": "England",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": " Deontay Wilder",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Anthony Joshua ",
+                            "league": "England",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Andy Ruiz Jr.",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Dillian Whyte",
+                            "league": "England",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": " Joseph Parker",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Luis Ortiz",
+                            "league": "England",
+                            "rate": 4.5
+                        }
+                    ]
+                }
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "Tyson Fury",
+                            "first_team_score": 4,
+                            "second_team_name": "Oleksandr Usyk",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Deontay Wilder",
+                            "first_team_score": 0,
+                            "second_team_name": "Anthony Joshua",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Anthony Joshua",
+                            "first_team_score": 3,
+                            "second_team_name": "Deontay Wilder",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Anthony Joshua",
+                            "first_team_score": 3,
+                            "second_team_name": "Tyson Fury",
+                            "second_team_score": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "Andy Ruiz Jr.",
+                            "first_team_score": 44,
+                            "second_team_name": "Dillian Whyte",
+                            "second_team_score": 31
+                        },
+                        {
+                            "first_team_name": "Joseph Parker",
+                            "first_team_score": 5,
+                            "second_team_name": "Luis Ortiz",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Dillian Whyte",
+                            "first_team_score": 4,
+                            "second_team_name": "Joseph Parker",
+                            "second_team_score": 5
+                        },
+                        {
+                            "first_team_name": "Luis Ortiz",
+                            "first_team_score": 3,
+                            "second_team_name": "Andy Ruiz Jr.",
+                            "second_team_score": 5
+                        }
+                    ]
+                }
+            ],
+            "competition_rules": "n boxing, a weight class is a measurement weight range for boxers. The lower limit of a weight class is equal to the upper weight limit of the class below it. The top class, with no upper limit, is called heavyweight in professional boxing and super heavyweight[1] in amateur boxing. A boxing match is usually scheduled for a fixed weight class, and each boxer's weight must not exceed the upper limit. Although professional boxers may fight above their weight class, an amateur boxer's weight must not fall below the lower limit. A nonstandard weight limit is called a catchweight.",
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        },
+        {
+            "competition_title": "Cruiserweight 200 lbs",
+            "name": "Cruiserweight 200 lbs",
+            "image_profile": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "is_availavle": false,
+            "is_joined": false,
+            "age": 30,
+            "games": [
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "Mairis Briedis",
+            "start_date": "7/3/2022",
+            "due_date": "15/3/2022",
+            "city": "Latvia",
+            "country": "Latvia",
+            "total_players": "12",
+            "duration": "3 hours",
+            "seats": 10,
+            "location": "Latvia",
+            "max_players":24,
+            "min_players":12,
+            "game_type":"single",
+            "total_teams":45,
+            "longitude": 45.233334,
+            "latitude": 55.033333,
+            "matches": [
+                {
+                    "first_team_name": "Mairis Briedis",
+                    "first_team_score": 0,
+                    "first_team_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mairis_Briedis_2018.jpg/480px-Mairis_Briedis_2018.jpg",
+                    "second_team_name": "Yuniel Dorticos",
+                    "second_team_score": 1,
+                    "second_team_img": "https://pbs.twimg.com/media/Dl3Vi0JU4AAqaEv.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://photo.boxingscene.com/uploads/dorticos-masternak%20(3).jpg",
+                        "https://pic.la.lv/2018/06/bokseris-Mairis-Briedis-stadiona-2018-janvaris.jpg",
+                        "https://cdn.vox-cdn.com/thumbor/Yn8kjnCkdUREF2DMMurluuqHRZ4=/0x0:1742x1266/1200x800/filters:focal(942x156:1220x434)/cdn.vox-cdn.com/uploads/chorus_image/image/67441630/914020922.jpg.0.jpg",
+                        "https://g2.delphi.lv/images/pix/768x438/GCsLJqNbMFM/bokss-mairis-briedis-arturs-manns-43-53844199.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Lawrence Okolie",
+                    "first_team_score": 0,
+                    "first_team_img": "https://www.proboxing-fans.com/wp-content/uploads/2021/03/okolie-1-done-1.jpg",
+                    "second_team_name": "Ilunga Makabu",
+                    "second_team_score": 1,
+                    "second_team_img": "https://cdn.24.co.za/files/Cms/General/d/594/258224652932488eb83da6d8aa44c417.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://cdn.vox-cdn.com/thumbor/uZ4F3-416jNw8KN68BP0EGxWYbc=/0x0:3270x2220/1200x800/filters:focal(882x479:1404x1001)/cdn.vox-cdn.com/uploads/chorus_image/image/65362931/1163627189.jpg.0.jpg",
+                        "https://bi.im-g.pl/im/e0/a8/19/z26903776V,Krzysztof-Glowacki-przegral-z-Lawrencem-Okoliem.jpg",
+                        "https://photo.boxingscene.com/uploads/lawrence-okolie_2020_12_11_175913.jpg",
+                        "https://sundayworld.co.za/wp-content/uploads/2021/04/P21-thabiso-mchunu-1-696x870.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Thabiso Mchunu",
+                    "first_team_score": 5,
+                    "first_team_img": "https://photo.boxingscene.com/uploads/thabiso-mchunu_1.jpg",
+                    "second_team_name": "Alexei Papin",
+                    "second_team_score": 11,
+                    "second_team_img": "https://i2-prod.manchestereveningnews.co.uk/incoming/article19254382.ece/ALTERNATES/s1200c/1_Daniel-Dubois-v-Kyotaro-Fujimoto-WBC-Silver-and-WBO-International-Heavyweight-Titles.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "playground.png",
+                    "highlight": [
+                        "https://www.proboxing-fans.com/wp-content/uploads/2013/07/mchunu.jpg",
+                        "https://pbs.twimg.com/media/DPk4V8RX0AA3Q4m.jpg",
+                        "https://www.imago-images.com/bild/sp/0040812414/w.jpg",
+                        "https://c8.alamy.com/comp/DBTAHB/uncasville-connecticut-usa-4th-aug-2013-august-3-2013-thabiso-mchunu-DBTAHB.jpg"
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://www.imago-images.com/bild/sp/0040812414/w.jpg",
+                "https://sundayworld.co.za/wp-content/uploads/2021/04/P21-thabiso-mchunu-1-696x870.jpg",
+                "https://photo.boxingscene.com/uploads/dorticos-masternak%20(3).jpg",
+                "https://pbs.twimg.com/media/Dl3Vi0JU4AAqaEv.jpg",
+                "https://photo.boxingscene.com/uploads/thabiso-mchunu_1.jpg",
+                "https://www.proboxing-fans.com/wp-content/uploads/2013/07/mchunu.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mairis_Briedis_2018.jpg/480px-Mairis_Briedis_2018.jpg"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "Mairis Briedis",
+                            "league": "Latvian professional boxer",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Yuniel Dorticos",
+                            "league": "Cuban professional boxer",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Lawrence Okolie",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Ilunga Makabu",
+                            "league": "England",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Thabiso Mchunu",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Alexei Papin",
+                            "league": "England",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Mateusz Masternak",
+                            "league": "Italy",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Richard Riakporhe",
+                            "league": "England",
+                            "rate": 4.5
+                        }
+                    ]
+                }
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "Mairis Briedis",
+                            "first_team_score": 4,
+                            "second_team_name": "Yuniel Dorticos",
+                            "second_team_score": 5
+                        },
+                        {
+                            "first_team_name": "Lawrence Okolie",
+                            "first_team_score": 5,
+                            "second_team_name": "Ilunga Makabu",
+                            "second_team_score": 4
+                        },
+                        {
+                            "first_team_name": "Yuniel Dorticos",
+                            "first_team_score": 4,
+                            "second_team_name": "Lawrence Okolie",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Ilunga Makabu",
+                            "first_team_score": 0,
+                            "second_team_name": "Mairis Briedis",
+                            "second_team_score": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "Thabiso Mchunu",
+                            "first_team_score": 4,
+                            "second_team_name": "Alexei Papin",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Mateusz Masternak",
+                            "first_team_score": 0,
+                            "second_team_name": "Richard Riakporhe",
+                            "second_team_score": 4
+                        },
+                        {
+                            "first_team_name": "Richard Riakporhe",
+                            "first_team_score": 5,
+                            "second_team_name": "Thabiso Mchun",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Thabiso Mchunu",
+                            "first_team_score": 5,
+                            "second_team_name": "Mateusz Masternak",
+                            "second_team_score": 3
+                        }
+                    ]
+                }
+            ], 
+            "competition_rules": "n boxing, a weight class is a measurement weight range for boxers. The lower limit of a weight class is equal to the upper weight limit of the class below it. The top class, with no upper limit, is called heavyweight in professional boxing and super heavyweight[1] in amateur boxing. A boxing match is usually scheduled for a fixed weight class, and each boxer's weight must not exceed the upper limit. Although professional boxers may fight above their weight class, an amateur boxer's weight must not fall below the lower limit. A nonstandard weight limit is called a catchweight." ,
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        }
+    ]
+}

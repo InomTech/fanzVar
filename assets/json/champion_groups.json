@@ -1,0 +1,137 @@
+{
+    "ChampionGroups": [
+        {
+            "CategoryID": "1",
+            "ChampionID": "1",
+            "GroupID": "1",
+            "GroupName": "Group A",
+            "Clubs": [
+                {
+                    "ClubID": "1",
+                    "ClubName": "FRANCE"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "DENMARK"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "PERU"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "AUSTRALIA"
+                }
+            ]
+        },
+        {
+            "CategoryID": "1",
+            "ChampionID": "2",
+            "GroupID": "2",
+            "GroupName": "Group A",
+            "Clubs": [
+                {
+                    "ClubID": "1",
+                    "ClubName": "Alahly"
+                },
+                {
+                    "ClubID": "2",
+                    "ClubName": "Real madrid"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Flamingo"
+                },
+                {
+                    "ClubID": "4",
+                    "ClubName": "Helal"
+                }
+            ]
+        },
+        {
+            "CategoryID": "1",
+            "ChampionID": "2",
+            "GroupID": "2",
+            "GroupName": "Group B",
+            "Clubs": [
+                {
+                    "ClubID": "5",
+                    "ClubName": "Wydad Athletic"
+                },
+                {
+                    "ClubID": "6",
+                    "ClubName": "Seattle"
+                },
+                {
+                    "ClubID": "7",
+                    "ClubName": "Oakland"
+                }
+            ]
+        },
+        {
+            "CategoryID": "1",
+            "ChampionID": "1",
+            "GroupID": "3",
+            "GroupName": "Group C",
+            "Clubs": [
+                {
+                    "ClubID": "1",
+                    "ClubName": "FRANCE"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "DENMARK"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "PERU"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "AUSTRALIA"
+                }
+            ]
+        },
+        {
+            "CategoryID": "1",
+            "ChampionID": "1",
+            "GroupID": "4",
+            "GroupName": "Group D",
+            "Clubs": [
+                {
+                    "ClubID": "1",
+                    "ClubName": "FRANCE"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "DENMARK"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "PERU"
+                }
+            ]
+        },
+        {
+            "CategoryID": "2",
+            "ChampionID": "1",
+            "GroupID": "2",
+            "GroupName": "Group B",
+            "Clubs": []
+        },
+        {
+            "CategoryID": "3",
+            "ChampionID": "1",
+            "GroupID": "3",
+            "GroupName": "Group C",
+            "Clubs": []
+        },
+        {
+            "CategoryID": "4",
+            "ChampionID": "1",
+            "GroupID": "4",
+            "GroupName": "Group D",
+            "Clubs": []
+        }
+    ]
+}

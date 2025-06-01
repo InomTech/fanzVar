@@ -1,0 +1,77 @@
+{
+    "club": [
+        {
+            "info": "country info",
+            "projects": [
+                {
+                    "id": 1,
+                    "Name": "project Name"
+                }
+            ],
+            "suggestProjects": [
+                {
+                    "id": 1,
+                    "Name": "project Name"
+                }
+            ],
+            "clubTeams": [
+                {
+                    "id": 1,
+                    "teamName": "team Name"
+                }
+            ],
+            "FansManagementalBoard": [
+                {
+                    "id": 1,
+                    "oldPlayerName": "name",
+                    "decesion": "decesion"
+                }
+            ],
+            "fanspower": [
+                {
+                    "id": 1,
+                    "historicalMoments": "name"
+                }
+            ],
+            "news": [
+                {
+                    "id": 1,
+                    "new": "new"
+                }
+            ],
+            "matchsSchules": [
+                {
+                    "id": 1,
+                    "matcklink": "http"
+                }
+            ],
+            "matchsExpectations": [
+                {
+                    "id": 1,
+                    "matchExpection": "expectation"
+                }
+            ],
+            "liveStreams": [
+                {
+                    "link": "http"
+                }
+            ],
+            "name": "club name",
+            "logo": "http",
+            "fansCounter": 333,
+            "Champions": [
+                {
+                    "id": 1,
+                    "name": "Champion name",
+                    "participated": true
+                }
+            ],
+            "reviews": [
+                {
+                    "id": 1,
+                    "review": "review"
+                }
+            ]
+        }
+    ]
+}

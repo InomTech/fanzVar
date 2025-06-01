@@ -1,0 +1,49 @@
+{
+    "national_ranking": [
+        {
+            "id": "01",
+            "rank": "1",
+            "team_name": "Belgium",
+            "team_avatar": "assets/images/BEL.png",
+            "profit": 95,
+            "country": "",
+            "fans": 200
+        },
+        {
+            "id": "02",
+            "rank": "2",
+            "team_name": "Brazil",
+            "team_avatar": "assets/images/BRA.png",
+            "profit": 100,
+            "country": "",
+            "fans": 150
+        },
+        {
+            "id": "03",
+            "rank": "3",
+            "team_name": "France",
+            "team_avatar": "assets/images/BRA.png",
+            "profit": 500,
+            "country": "",
+            "fans": 100
+        },
+        {
+            "id": "04",
+            "rank": "4",
+            "team_name": "Argentina",
+            "team_avatar": "assets/images/ARG.png",
+            "profit": 700,
+            "country": "",
+            "fans": 90
+        },
+        {
+            "id": "05",
+            "rank": "",
+            "team_name": "Englan",
+            "team_avatar": "assets/images/ENG.png",
+            "profit": 300,
+            "country": "",
+            "fans": 70
+        }
+    ]
+}

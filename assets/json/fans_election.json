@@ -1,0 +1,32 @@
+{
+    "fans_election": [
+        {
+            "fan_avatar": "https://picsum.photos/250?image=110",
+            "fan_Name": "Marawan Kholy",
+            "vote_percentage": "98%",
+            "rate": "55.3K",
+            "champion_avatar": "https://picsum.photos/250?image=111"
+        },
+        {
+            "fan_avatar": "https://picsum.photos/250?image=113",
+            "fan_Name": "Ahmed Seroug",
+            "vote_percentage": "88%",
+            "rate": "45.3K",
+            "champion_avatar": "https://picsum.photos/250?image=112"
+        },
+        {
+            "fan_avatar": "https://picsum.photos/250?image=110",
+            "fan_Name": "Adham Adel",
+            "vote_percentage": "76%",
+            "rate": "30K",
+            "champion_avatar": "https://picsum.photos/250?image=30"
+        },
+        {
+            "fan_avatar": "https://picsum.photos/250?image=91",
+            "fan_Name": "Sandra Tawfik",
+            "vote_percentage": "55%",
+            "rate": "15K",
+            "champion_avatar": "https://picsum.photos/250?image=90"
+        }
+    ]
+}

@@ -1,0 +1,420 @@
+{
+    "coach_profile": [
+        {
+            "coach_id": "1",
+            "coach_name": "Jürgen Klopp",
+            "coach_Avatar": "JurgenKlopp_.jpg",
+            "age": "54",
+            "Height": "180",
+            "position": "Striker Right-back",
+            "shirt": "10",
+            "city": "Stuttgart, Germany",
+            "team": " Liverpool F.C",
+            "country": " Germany",
+            "country_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "club_name": "Liverpool F.C",
+            "team_avatar": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+            "news": [
+                {
+                    "title": "Jurgen Klopp makes major Liverpool claim after Man City victory",
+                    "image": "https://i.ytimg.com/vi/B8kC9AdEIfQ/maxresdefault.jpg",
+                    "link": "https://www.youtube.com/watch?v=B8kC9AdEIfQ"
+                },
+                {
+                    "title": "Jurgen Klopp accepts Man City apology after Hillsborough silence disrupted",
+                    "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article23709896.ece/ALTERNATES/s810/1_GettyImages-1391804416.jpg",
+                    "link": "https://www.liverpoolecho.co.uk/sport/football/football-news/jurgen-klopp-liverpool-man-city-23707984"
+                }
+            ],
+            "teams": [
+                {
+                    "team_name": "Mainz 05",
+                    "team_avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+                    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+                    "year": "2001-2008"
+                },
+                {
+                    "team_name": "Borussia Dortmund",
+                    "team_avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/800px-Borussia_Dortmund_logo.svg.png",
+                    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+                    "year": "2008-2015"
+                },
+                {
+                    "team_name": "Liverpool",
+                    "team_avatar": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+                    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/640px-Flag_of_England.svg.png",
+                    "year": "2015-Till Now"
+                }
+            ],
+            "clubs": [
+                {
+                    "club_name": "Liverpool",
+                    "year": "2019–2020",
+                    "reward": "Premier League"
+                },
+                {
+                    "club_name": "Liverpool",
+                    "year": "2018–2019",
+                    "reward": "UEFA Champions League"
+                },
+                {
+                    "club_name": "Liverpool",
+                    "year": "2011-12",
+                    "reward": "Torneo Clausura"
+                },
+                {
+                    "club_name": "Liverpool",
+                    "year": "2019",
+                    "reward": "FIFA Club World Cup"
+                }
+            ],
+            "latest_result":"Madreid 1 : 0 leverpool",
+            "favorite_position":"Attack",
+            "weekly_rating":"8.4",
+            "audience_vote":"20%",
+            "percentage":0.2
+        },
+        {
+            "coach_id": "2",
+            "coach_name": "Antonio Conte",
+            "coach_Avatar": "Jorge Sampaoli.png",
+            "age": "53",
+            "Height": "180",
+            "position": "Defensive midfielder",
+            "shirt": "10",
+            "city": "Lecce",
+            "team": "Juventus",
+            "country": "Italy",
+            "country_avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1500px-Flag_of_Italy.svg.png",
+            "club_name": "Tottenham Hotspur ",
+            "team_avatar": "https://sttotv8prodmedia.blob.core.windows.net/mediacache/1/9/3/1/2/a/19312a9f1fe4e78dadb97e47fc049f52f068ca0d.png",
+            "news": [
+                {
+                    "title": "Antonio Conte's Tottenham statistics debunk Jurgen Klopp and Gary Neville theories",
+                    "image": "https://i.ytimg.com/vi/ShQO61M5lN0/maxresdefault.jpg",
+                    "link": "https://www.mirror.co.uk/sport/football/news/antonio-conte-tottenham-neville-klopp-26907862"
+                },
+                {
+                    "title": "Chris Sutton disagrees with Gary Chris Sutton disagrees with Gary Antonio Conte",
+                    "image": "https://i2-prod.mirror.co.uk/incoming/article26909170.ece/ALTERNATES/s1200d/0_Screenshot-277.jpg",
+                    "link": "https://www.mirror.co.uk/sport/football/news/man-utd-neville-antonio-conte-26909159"
+                }
+            ],
+            "teams": [
+                {
+                    "team_name": "Tottenham Hotspur",
+                    "team_avatar": "https://sttotv8prodmedia.blob.core.windows.net/mediacache/1/9/3/1/2/a/19312a9f1fe4e78dadb97e47fc049f52f068ca0d.png",
+                    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/640px-Flag_of_England.svg.png",
+                    "year": "2021-Till Now"
+                }
+            ],
+            "clubs": [
+                {
+                    "club_name": "Chelsea",
+                    "year": "2016:2017",
+                    "reward": "Premier League"
+                }
+            ],
+            "latest_result":"Madreid 1 : 0 leverpool",
+            "favorite_position":"Attack",
+            "weekly_rating":"8.4",
+            "audience_vote":"20%",
+            "percentage":0.2
+        },
+        {
+            "coach_id": "3",
+            "coach_name": "Patrick Vieira",
+            "coach_Avatar": "https://s.hs-data.com/bilder/spieler/gross/1156.jpg?fallback=png",
+            "age": "46",
+            "Height": "193",
+            "position": "midfielder",
+            "shirt": "6",
+            "city": "paris",
+            "team": "Crystal Palace",
+            "country": "France",
+            "country_avatar": "https://s.hs-data.com/bilder/flaggen_neu/16.gif",
+            "club_name": "Crystal Palace",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/2242.gif?fallback=png",
+            "news": [
+                {
+                    "title": "OVER TO SOU Crystal Palace eye transfer for Leicester midfielder Boubakary Soumare as Conor Gallagher return hopes fade",
+                    "image": "https://www.thesun.co.uk/wp-content/uploads/2022/08/DF-SPORT-PREVIEW-SOUMARE-GALLAGHER.jpg?w=660",
+                    "link": "https://www.thesun.co.uk/sport/19637829/crystal-palace-boubakary-soumare-conor-gallagher/"
+                }
+            ],
+            "teams": [
+                {
+                    "team_name": "Crystal Palace",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/2242.gif?fallback=png",
+                    "flag": "https://s.hs-data.com/bilder/flaggen_neu/12.gif",
+                    "year": "2021-Till Now"
+                }
+            ],
+            "clubs": [
+                {
+                    "club_name": "OGC Nice",
+                    "year": "2018:2020",
+                    "reward": "0"
+                }
+            ],
+            "latest_result":"Crystal Palace 1 : 0 Manchester City",
+            "favorite_position":"Defensive ",
+            "weekly_rating":"6.4",
+            "audience_vote":"20%",
+            "percentage":0.2
+        },
+{
+    "coach_id": "4",
+    "coach_name": "Brendan Rodgers",
+    "coach_Avatar": "https://s.hs-data.com/bilder/spieler/gross/132068.jpg?fallback=png",
+    "age": "49",
+    "Height": "180",
+    "position": "Defender",
+    "shirt": "10",
+    "city": "Carnlough",
+    "team": "Reading FC (R)",
+    "country": "Northern Ireland",
+    "country_avatar": "https://s.hs-data.com/bilder/flaggen_neu/35.gif",
+    "club_name": "Leicester City ",
+    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/549.gif?fallback=png",
+    "news": [
+        {
+            "title": "Leicester finally agree to sell Fofana to Chelsea for potential world record fee",
+            "image": "https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2022/08/26204322/Wesley-Fofana-Leicester-F365-1.jpg",
+            "link": "https://www.football365.com/news/leicester-agree-to-sell-fofana-to-chelsea-potential-world-record-fee"
+        }
+    ],
+    "teams": [
+        {
+            "team_name": "Leicester City",
+            "team_avatar": "https://c8.alamy.com/comp/2D5PD4H/a-leicester-city-team-group-photo-2D5PD4H.jpg",
+            "flag": "https://s.hs-data.com/bilder/wappen/mittel/549.gif?fallback=png",
+            "year": "2019-Till Now"
+        }
+    ],
+    "clubs": [
+        {
+            "club_name": "Celtic FC ",
+            "year": "2016:2019",
+            "reward": " Scottish League Cup"
+        }
+    ],
+    "latest_result":"Leicester City 1 : 2 Chelsea FC",
+    "favorite_position":"Defender",
+    "weekly_rating":"7.4",
+    "audience_vote":"20%",
+    "percentage":0.4
+}
+,   {
+    "coach_id": "5",
+    "coach_name": "Erik ten Hag",
+    "coach_Avatar": "https://en.wikipedia.org/wiki/File:Erik_ten_Hag_2017.jpg",
+    "age": "53",
+    "Height": "180",
+    "position": "Centre-back",
+    "shirt": "10",
+    "city": "Haaksbergen",
+    "team": "Twente",
+    "country": "Netherlands",
+    "country_avatar": "https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png",
+    "club_name": "Manchester United",
+    "team_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/190px-Manchester_United_FC_crest.svg.png",
+    "news": [
+        {
+            "title": "Various reports claim Martin Dubravka is literally begging Newcastle to allow him to join Manchester United",
+            "image": "https://manutdnews.com/wp-content/uploads/2022/08/fbl-eng-pr-man-city-newcastle-2048x1413.jpg",
+            "link": "https://manutdnews.com/various-reports-claim-martin-dubravka-is-literally-begging-his-newcastle-to-allow-him-to-join-manchester-united/"
+        }
+    ],
+    "teams": [
+        {
+            "team_name": "Manchester United",
+            "team_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/190px-Manchester_United_FC_crest.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/640px-Flag_of_England.svg.png",
+            "year": "2022-Till Now"
+        }
+    ],
+    "clubs": [
+        {
+            "club_name": "Ajax",
+            "year": "2017:2022",
+            "reward": "Netherlands Football League Championship"
+        }
+    ],
+    "latest_result":"Manchester United 2 : 1 leverpool",
+    "favorite_position":"Centre-back",
+    "weekly_rating":"7.3",
+    "audience_vote":"20%",
+    "percentage":0.4
+}
+,
+{
+    "coach_id": "6",
+    "coach_name": "Thomas Tuchel",
+    "coach_Avatar": "https://s.hs-data.com/bilder/spieler/gross/46714.jpg?fallback=png",
+    "age": "53",
+    "Height": "190",
+    "position": "Sweeper",
+    "shirt": "6",
+    "city": "Krumbach",
+    "team": "Juventus",
+    "country": "Germany",
+    "country_avatar": "https://s.hs-data.com/bilder/flaggen_neu/11.gif",
+    "club_name": "Chelsea FC",
+    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/544.gif?fallback=png",
+    "news": [
+        {
+            "title": "(Video): Chelsea boss jokes about “nice people” around him as he watched from the stands",
+            "image": "https://s.hs-data.com/bilder/spieler/gross/46714.jpg?fallback=png",
+            "link": "https://www.chelsea-news.co/2022/08/video-chelsea-boss-jokes-about-nice-people-around-him-as-he-watched-from-the-stands/"
+        }
+    ],
+    "teams": [
+        {
+            "team_name": "Chelsea FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/544.gif?fallback=png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/640px-Flag_of_England.svg.png",
+            "year": "2021-Till Now"
+        }
+    ],
+    "clubs": [
+        {
+            "club_name": "Paris Saint-Germain",
+            "year": "2020:2021",
+            "reward": "Ligue 1"
+        }
+    ],
+    "latest_result":"Madreid 1 : 0 leverpool",
+    "favorite_position":"Sweeper",
+    "weekly_rating":"6.4",
+    "audience_vote":"20%",
+    "percentage":0.2
+},
+{
+    "coach_id": "7",
+    "coach_name": "Pep Guardiola",
+    "coach_Avatar": "https://s.hs-data.com/bilder/spieler/gross/3528.jpg?fallback=png",
+    "age": "53",
+    "Height": "190",
+    "position": "Defensive ",
+    "shirt": "6",
+    "city": "Santpedor",
+    "team": "FC Barcelona",
+    "country": "Spain",
+    "country_avatar": "https://s.hs-data.com/bilder/flaggen_neu/48.gif",
+    "club_name": "Manchester City",
+    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/750.gif?fallback=png",
+    "news": [
+        {
+            "title": "EN GUARD Man City green light Pep Guardiola to splash £100m in January transfer window on any stand-out stars from the World Cup",
+            "image": "https://www.thesun.co.uk/wp-content/uploads/2022/08/RAS-SPORT-PREVIEW-PEP-GUARDIOLA.jpg?w=660",
+            "link": "https://www.thesun.co.uk/sport/19638169/man-city-guardiola-january-window-world-cup/"
+        }
+    ],
+    "teams": [
+        {
+            "team_name": "Manchester City",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/750.gif?fallback=png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/640px-Flag_of_England.svg.png",
+            "year": "2016-Till Now"
+        }
+    ],
+    "clubs": [
+        {
+            "club_name": "Paris Saint-Germain",
+            "year": "2020:2021",
+            "reward": "Premier League"
+        }
+    ],
+    "latest_result":"Manchester City 4 : 2 Crystal Palace",
+    "favorite_position":"Sweeper",
+    "weekly_rating":"9.4",
+    "audience_vote":"80%",
+    "percentage":0.2
+},
+{
+    "coach_id": "8",
+    "coach_name": "Carlo Ancelotti",
+    "coach_Avatar": "https://s.hs-data.com/bilder/spieler/gross/4271.jpg?fallback=png",
+    "age": "64",
+    "Height": "190",
+    "position": "Defensive ",
+    "shirt": "6",
+    "city": "Reggiolo",
+    "team": "AC Milan",
+    "country": "Italy",
+    "country_avatar": "https://s.hs-data.com/bilder/flaggen_neu/25.gif",
+    "club_name": "Real Madrid",
+    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/532.gif?fallback=png",
+    "news": [
+        {
+            "title": "Carlo Ancelotti: Real Madrid won't make any more signings",
+            "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0813%2Fr1047795_1296x729_16%2D9.jpg&w=570&format=jpg",
+            "link": "https://www.espn.com/soccer/soccer-transfers/story/4730613/carlo-ancelotti-real-madrid-wont-make-any-more-signings"
+        }
+    ],
+    "teams": [
+        {
+            "team_name": "Real Madrid",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/532.gif?fallback=png",
+            "flag": "https://s.hs-data.com/bilder/flaggen_neu/48.gif",
+            "year": "2021-Till Now"
+        }
+    ],
+    "clubs": [
+        {
+            "club_name": "Real Madrid",
+            "year": "2021:2022",
+            "reward": "Champions League"
+        }
+    ],
+    "latest_result":"Celta Vigo 1 : 4 Real Madrid",
+    "favorite_position":"Defensive Midfielder",
+    "weekly_rating":"9.6",
+    "audience_vote":"70%",
+    "percentage":0.9
+},
+{
+    "coach_id": "9",
+    "coach_name": "Xavier Hernández",
+    "coach_Avatar": "https://s.hs-data.com/bilder/spieler/gross/1400.jpg?fallback=png",
+    "age": "42",
+    "Height": "170",
+    "position": "Defensive Midfielder",
+    "shirt": "6",
+    "city": "Terrassa",
+    "team": "FC Barcelona",
+    "country": "Spain",
+    "country_avatar": "https://s.hs-data.com/bilder/flaggen_neu/48.gif",
+    "club_name": "FC Barcelona",
+    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/530.gif?fallback=png",
+    "news": [
+        {
+            "title": "Xavi prioritises signing a right-back before the market closes",
+            "image": "https://s.hs-data.com/picmon/3d/3P4e_da3KeL_t.jpg",
+            "link": "https://www.marca.com/en/football/barcelona/2022/08/27/630a194522601d6f7b8b458d.html"
+        }
+    ],
+    "teams": [
+        {
+            "team_name": "FC Barcelona",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/532.gif?fallback=png",
+            "flag": "https://s.hs-data.com/bilder/flaggen_neu/48.gif",
+            "year": "2021-Till Now"
+        }
+    ],
+    "clubs": [
+        {
+            "club_name": "Al Sadd",
+            "year": "2020:2021",
+            "reward": "Qatar Stars League"
+        }
+    ],
+    "latest_result":"villarreal 1 : 4 Real Madrid",
+    "favorite_position":"Defensive Midfielder",
+    "weekly_rating":"9.6",
+    "audience_vote":"70%",
+    "percentage":0.9
+}
+    ]
+}

@@ -1,0 +1,393 @@
+{
+    "GeneralMatches": [
+        {
+            "match_id": "1",
+            "date": "اليوم",
+            "country_timing": "بتوقيت القاهرة",
+            "time": "03:30 PM",
+            "score": "1-1",
+            "first_team_name": "ليفربول",
+            "first_team_score": "1",
+            "first_team_country": "انجلترا",
+            "first_team_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+            "first_team_coach": "يورجن كلوب",
+            "first_team_coach_id": "1",
+            "first_team_coach_avatar": "JurgenKlopp_.jpg",
+            "first_team_news": [
+                {
+                    "title": "ليفربول 1-1 توتنهام: تقييمات اللاعبين",
+                    "image": "n1.jpg",
+                    "link": "https://www.thisisanfield.com/2022/05/liverpool-1-1-tottenham-player-ratings-2/"
+                },
+                {
+                    "title": "بث مباشر مباراة ليفربول وتوتنهام: نتيجة الدوري الإنجليزي الممتاز والنتيجة النهائية ورد الفعل مع تراجع الريدز عن النقاط الحاسمة",
+                    "image": "n2.png",
+                    "link": "https://www.independent.co.uk/sport/football/liverpool-tottenham-live-stream-score-result-2022-b2073737.html"
+                },
+                {
+                    "title": "خمسة أشياء شوهدت في مباراة ليفربول وتوتنهام حيث يكسب لويس دياز الحظ لكن يورغن كلوب يخشى أن يتحقق",
+                    "image": "n3.jpg",
+                    "link": "https://www.liverpool.com/liverpool-fc-news/features/liverpool-spurs-luis-diaz-klopp-23894594"
+                }
+            ],
+            "first_team_clubs": [
+                {
+                    "pos": "1",
+                    "club": "مانشستر سيتى",
+                    "club_img": "manchester.png",
+                    "p": "30",
+                    "gd": "+55",
+                    "pts": "73"
+                },
+                {
+                    "pos": "2",
+                    "club": "ليفربول",
+                    "club_img": "liverpool.png",
+                    "p": "20",
+                    "gd": "+52",
+                    "pts": "63"
+                },
+                {
+                    "pos": "3",
+                    "club": "تشيلسى",
+                    "club_img": "chelsea.png",
+                    "p": "30",
+                    "gd": "+45",
+                    "pts": "40"
+                },
+                {
+                    "pos": "4",
+                    "club": "ارسنال",
+                    "club_img": "arsenal.png",
+                    "p": "30",
+                    "gd": "+52",
+                    "pts": "44"
+                }
+            ],
+            "first_team_matches": [
+                {
+                    "date": "اليوم",
+                    "time": "مباشر الان",
+                    "score": "1 : 0",
+                    "first_team_name": "بايرن ميونج",
+                    "first_team_img": "Bayern.png",
+                    "second_team_name": "ليفربول",
+                    "second_team_img": "liverpool.png"
+                },
+                {
+                    "date": "الخميس, 6 Apr",
+                    "time": "3:30",
+                    "score": "",
+                    "first_team_name": "مانشستريونايتد",
+                    "first_team_img": "manch.png",
+                    "second_team_name": "ليفربول",
+                    "second_team_img": "liverpool.png"
+                },
+                {
+                    "date": "الخميس, 3 ابريل",
+                    "time": "8:30",
+                    "score": "",
+                    "first_team_name": "تشيلسى",
+                    "first_team_img": "chelsea.png",
+                    "second_team_name": "ليفربول",
+                    "second_team_img": "liverpool.png"
+                },
+                {
+                    "date": "الاحد, 5 ابريل",
+                    "time": "3:30",
+                    "score": "",
+                    "first_team_name": "ليفربول",
+                    "first_team_img": "liverpool.png",
+                    "second_team_name": "اتليتكو مدريد",
+                    "second_team_img": "8.png"
+                },
+                {
+                    "date": "الجمعه, 5 ابريل",
+                    "time": "7:00",
+                    "score": "",
+                    "first_team_name": "مانشستر سيتى",
+                    "first_team_img": "manchester.png",
+                    "second_team_name": "ليفربول",
+                    "second_team_img": "liverpool.png"
+                }
+            ],
+            "second_team_name": "توتنهام هوتسبير",
+            "second_team_score": "1",
+            "second_team_country": "انجلترا",
+            "second_team_avatar": "https://sttotv8prodmedia.blob.core.windows.net/mediacache/1/9/3/1/2/a/19312a9f1fe4e78dadb97e47fc049f52f068ca0d.png",
+            "tv_channel": "bein sport 1",
+            "league": "الدورى الانجليزى الممتاز",
+            "league_avatar": "https://play-lh.googleusercontent.com/eTnbNr36OUrSvV4Ujwavpk8O0TXfKo_rZMmNCZdhHIyFAomnAoZbWA17s6q2xreEjNmU",
+            "second_team_coach": "انتونيو كانتى",
+            "second_team_coach_id": "1",
+            "second_team_coach_avatar": "n4.jpg",
+            "second_team_news": [
+                {
+                    "title": "ليفربول تحت سيطرة توتنهام فى الدورى الانجليزى",
+                    "image": "n5.jpg",
+                    "link": "https://www.eurosport.co.uk/football/premier-league/2021-2022/live-liverpool-tottenham-hotspur_mtc1271328/live.shtml"
+                },
+                {
+                    "title": "يتفق بول ميرسون مع مايكل أوين بشأن ما سيفعله ليفربول بتوتنهام هوتسبر",
+                    "image": "n6.jpg",
+                    "link": "https://www.liverpoolecho.co.uk/sport/football/football-news/paul-merson-michael-owen-liverpool-23892366"
+                },
+                {
+                    "title": "يقود سون هيونج مين توتنهام على مرمى ليستر ليعزز عرض الأربعة الأوائل",
+                    "image": "n7.png",
+                    "link": "https://www.theguardian.com/football/2022/may/01/tottenham-leicester-premier-league-match-report"
+                }
+            ],
+            "second_team_clubs": [
+                {
+                    "pos": "1",
+                    "club": "مانشستر سيتى",
+                    "club_img": "manchester.png",
+                    "p": "30",
+                    "gd": "+52",
+                    "pts": "73"
+                }
+            ],
+            "second_team_matches": [
+                {
+                    "date": "اليوم",
+                    "time": "مباشر الان",
+                    "score": "1 : 0",
+                    "first_team_name": "توتنهام هوتسبير",
+                    "first_team_img": "n8.png",
+                    "second_team_name": "ليفربول",
+                    "second_team_img": "n9.png"
+                },
+                {
+                    "date": "الخميس, 3 Apr",
+                    "time": "3:30",
+                    "score": "",
+                    "first_team_name": "مانشستر يونايتد",
+                    "first_team_img": "n10.png",
+                    "second_team_name": "توتنهام",
+                    "second_team_img": "n8.png"
+                }
+            ],
+                  "Gallery": [
+                "https://www.gomhuriaonline.com/Upload/News/26-12-2019_10_37_24_GomhuriaOnline_1577349444.jpg",
+                "https://semedia.filgoal.com/Photos/TeamSquad/83.png",
+                "https://sc4.hihi2.com/wp-content/uploads/2016/07/hihi2_2016-07-25_13-40-59.jpg",
+"https://images.akhbarelyom.com//images/images/medium/20211225193233675.jpg",                "https://www.elmstba.com/wp-content/uploads/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84.jpeg",
+                "https://img.kooora.com/?i=ashrafmks%2fleicester.jpg",
+                "https://images.akhbarelyom.com//images/images/medium/20211225193233675.jpg"
+            ]
+        },
+        {
+            "match_id": "2",
+            "date": "غدا",
+            "country_timing": "بتوقيت القاهرة",
+            "time": "03:30 PM",
+            "score": "1-2",
+            "first_team_name": "الجونة",
+            "first_team_score": "1",
+            "first_team_country": "مصر",
+            "first_team_avatar": "https://upload.wikimedia.org/wikipedia/en/e/eb/El_Gouna_FC_Logo_2017.png",
+            "first_team_coach": "رضا شحاتة",
+            "first_team_coach_id": "2",
+            "first_team_coach_avatar": "n11.jpg",
+            "first_team_news": [
+                {
+                    "title": "الجونة يتعاقد مع مهاجم مدغشقر الدولي أرنو راندريانانتيناين",
+                    "image": "n12.jpg",
+                    "link": "https://www.kingfut.com/2022/02/03/el-gouna-sign-arnaud-randrianantenain/"
+                }
+            ],
+            "first_team_clubs": [
+                {
+                    "pos": "1",
+                    "club": "Zamalek",
+                    "club_img": "Z.png",
+                    "p": "30",
+                    "gd": "+52",
+                    "pts": "73"
+                }
+            ],
+            "first_team_matches": [
+                {
+                    "date": "اليوم",
+                    "time": "مباشر الان",
+                    "score": "1 : 0",
+                    "first_team_name": "الزمالك",
+                    "first_team_img": "Z.png",
+                    "second_team_name": "الجونة",
+                    "second_team_img": "El_Gouna.png"
+                },
+                {
+                    "date": "الخميس, 3 ابريل",
+                    "time": "3:30",
+                    "score": "",
+                    "first_team_name": "الجونة",
+                    "first_team_img": "El_Gouna.png",
+                    "second_team_name": "المصرى البورسعيدى",
+                    "second_team_img": "n13.png"
+                }
+            ],
+            "second_team_name": "المقاولون",
+            "second_team_score": "2",
+            "second_team_country": "مصر",
+            "second_team_avatar": "https://upload.wikimedia.org/wikipedia/en/2/27/Al_Mokawloon_Al_Arab_SC_logo.png",
+            "tv_channel": "on time sport 2",
+            "league": "الدورى المصرى الممتاز",
+            "league_avatar": "https://upload.wikimedia.org/wikipedia/en/8/89/Egyptian_Premier_League.png",
+            "second_team_coach": "عماد النحاس",
+            "second_team_coach_id": "1",
+            "second_team_coach_avatar": "emad el nahhas.jpg",
+            "second_team_news": [
+                {
+                    "title": "المقاولون العرب الرياضى",
+                    "image": "Al_Mokawloon_.png",
+                    "link": "https://en.wikipedia.org/wiki/Al_Mokawloon_Al_Arab_SC"
+                }
+            ],
+            "second_team_clubs": [
+                {
+                    "pos": "1",
+                    "club": "الاهلى",
+                    "club_img": "",
+                    "p": "30",
+                    "gd": "+52",
+                    "pts": "73"
+                }
+            ],
+            "second_team_matches": [
+                {
+                    "date": "اليوم",
+                    "time": "مباشر الان",
+                    "score": "1 : 0",
+                    "first_team_name": "المقاولون",
+                    "first_team_img": "Al_Mokawloon_.png",
+                    "second_team_name": "الزمالك",
+                    "second_team_img": "Z.png"
+                },
+                {
+                    "date": "الخميس, 3 ابريل",
+                    "time": "3:30",
+                    "score": "",
+                    "first_team_name": "المقاولون",
+                    "first_team_img": "Al_Mokawloon_.png",
+                    "second_team_name": "المصرى البورسعيدى",
+                    "second_team_img": "n13.png"
+                }
+            ],
+                  "Gallery": [
+                "https://www.gomhuriaonline.com/Upload/News/26-12-2019_10_37_24_GomhuriaOnline_1577349444.jpg",
+                "https://semedia.filgoal.com/Photos/TeamSquad/83.png",
+                "https://sc4.hihi2.com/wp-content/uploads/2016/07/hihi2_2016-07-25_13-40-59.jpg",
+"https://images.akhbarelyom.com//images/images/medium/20211225193233675.jpg",                "https://www.elmstba.com/wp-content/uploads/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84.jpeg",
+                "https://img.kooora.com/?i=ashrafmks%2fleicester.jpg",
+                "https://images.akhbarelyom.com//images/images/medium/20211225193233675.jpg"
+            ]
+        },
+        {
+            "match_id": "3",
+            "date": "أمس",
+            "country_timing": "بتوقيت القاهرة",
+            "time": "10:15 PM",
+            "score": "2-2",
+            "first_team_name": "الارسنال",
+            "first_team_score": "2",
+            "first_team_country": "الارسنال",
+            "first_team_avatar": "https://pngset.com/images/arsenal-arsenal-fc-logo-symbol-trademark-badge-armor-transparent-png-219229.png",
+            "first_team_coach": "مايكل ارتيتا",
+            "first_team_coach_id": "2",
+            "first_team_coach_avatar": "0_Mikel-Arteta.jpg",
+            "first_team_news": [
+                {
+                    "title": "أرسنال يتدرب قبل ليدز يونايتد",
+                    "image": "Training_9.jpg",
+                    "link": "https://www.arsenal.com/premier-league-training-pictures-leeds-united-london-colney-mikel-arteta"
+                }
+            ],
+            "first_team_clubs": [
+                {
+                    "pos": "1",
+                    "club": "مانشستر سيتى",
+                    "club_img": "manchester.png",
+                    "p": "30",
+                    "gd": "+52",
+                    "pts": "73"
+                }
+            ],
+            "first_team_matches": [
+                {
+                    "date": "اليوم",
+                    "time": "مباشر الان",
+                    "score": "1 : 0",
+                    "first_team_name": "بيرن ميونخ ",
+                    "first_team_img": "FC-Bayern-München.png",
+                    "second_team_name": "الارسنال",
+                    "second_team_img": "arsenall.png"
+                },
+                {
+                    "date": "الخميس, 3 ابريل",
+                    "time": "3:30",
+                    "score": "1 : 0",
+                    "first_team_name": "الارسنال",
+                    "first_team_img": "arsenall.png",
+                    "second_team_name": "ليستر سيتى",
+                    "second_team_img": "Leicester_City.png"
+                }
+            ],
+            "second_team_name": "ليستر سيتى",
+            "second_team_score": "2",
+            "second_team_country": "انجلترا",
+            "second_team_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
+            "tv_channel": "Bein sport2",
+            "league": "الدورى الانجليزى الممتاز",
+            "league_avatar": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1501116772950368256%2F-Z-mcs2c_400x400.jpg",
+            "second_team_coach": "رودجيرز",
+            "second_team_coach_id": "1",
+            "second_team_coach_avatar": "man38197.png",
+            "second_team_news": [
+                {
+                    "title": "أرسنال يقترب من صفقة ليستر سيتي مع انتظار ريال مدريد",
+                    "image": "0_Youri-Tielemans.jpg",
+                    "link": "https://www.leicestermercury.co.uk/sport/football/transfer-news/leicester-city-tielemans-arsenal-transfer-7053250"
+                }
+            ],
+            "second_team_clubs": [
+                {
+                    "pos": "1",
+                    "club": "مانشيستر سيتى",
+                    "club_img": "manchester.png",
+                    "p": "30",
+                    "gd": "+52",
+                    "pts": "73"
+                }
+            ],
+            "second_team_matches": [
+                {
+                    "date": "اليوم",
+                    "time": "مباشر الان",
+                    "score": "1 : 0",
+                    "first_team_name": "ليستر سيتى",
+                    "first_team_img": "Leicester_City.png",
+                    "second_team_name": "ليفربول",
+                    "second_team_img": "n9.png"
+                },
+                {
+                    "date": "الخميس, 3 ابريل",
+                    "time": "3:30",
+                    "score": "",
+                    "first_team_name": "مانشيستر يونايتد",
+                    "first_team_img": "n10.png",
+                    "second_team_name": "ليستر سيتى",
+                    "second_team_img": "Leicester_City.png"
+                }
+            ],
+                  "Gallery": [
+                "https://www.gomhuriaonline.com/Upload/News/26-12-2019_10_37_24_GomhuriaOnline_1577349444.jpg",
+                "https://semedia.filgoal.com/Photos/TeamSquad/83.png",
+                "https://sc4.hihi2.com/wp-content/uploads/2016/07/hihi2_2016-07-25_13-40-59.jpg",
+"https://images.akhbarelyom.com//images/images/medium/20211225193233675.jpg",                "https://www.elmstba.com/wp-content/uploads/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A3%D8%B1%D8%B3%D9%86%D8%A7%D9%84.jpeg",
+                "https://img.kooora.com/?i=ashrafmks%2fleicester.jpg",
+                "https://images.akhbarelyom.com//images/images/medium/20211225193233675.jpg"
+            ]
+        }
+    ]
+}

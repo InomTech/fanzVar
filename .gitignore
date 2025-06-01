@@ -1,0 +1,71 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code (commented out if you want to include launch configurations)
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+android/app/build/
+android/.gradle/
+android/build/
+ios/.generated/
+linux/.generated/
+macos/.generated/
+windows/.generated/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter.podspec
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio build artifacts
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+# Secrets and sensitive files
+*.env
+*.key
+*.p12
+*.keystore
+*.jks
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Additional Flutter/Android exclusions
+android/app/build/intermediates/
+android/app/build/generated/
+android/app/build/outputs/

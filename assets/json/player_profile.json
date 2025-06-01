@@ -1,0 +1,1990 @@
+{
+    "player_profile": [
+        {
+            "player_id": "1",
+            "player_name": "Alisson Ramses Becker",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/248681.jpg?fallback=png",
+            "age": "30",
+            "Height": "180",
+            "Weight": "88",
+            "team": "Liverpool FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+            "position": "Goalkeeper",
+            "shirt": "1",
+            "country": "Brazil",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "0",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "1",
+                            "assist":"1"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "1",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"0"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Liverpool FC",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+                    "matches": "134",
+                    "apps": "837",
+                    "goals": "1",
+                    "assit":"4",
+                    "year": "2018-2022"
+                },
+                {
+                    "team_name": "AS Roma",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/520.gif?fallback=png",
+                    "matches": "37",
+                    "apps": "191",
+                    "goals": "0",
+                    "assit":"3",
+                    "year":  "2016-2018"
+                },
+                {
+                    "team_name": "Internacional",
+                    "team_avatar": "https://picsum.photos/250?image=82",
+                    "matches": "61",
+                    "apps": "27",
+                    "goals": "0",
+                    "assit":"0",
+                    "year": "2013-2016"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "UEFA Champions League: 2018–19,",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/480px-UEFA_Champions_League_logo_2.svg.png",
+                   
+                    "year": "2010-2011"
+                },
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "year":  "2019-2020"
+                }
+            ],
+            "Single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2019_Final_da_Copa_Am%C3%A9rica_2019_-_Alisson.jpg/170px-2019_Final_da_Copa_Am%C3%A9rica_2019_-_Alisson.jpg",
+                    "prize":"The Best FIFA Goalkeeper: 2019",
+                    "year": "2019-2020"
+                },
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"IFFHS World's Best Goalkeeper",
+                    "year":  "2019-2020"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Alisson Becker shortlisted for 2022 Yashin Trophy",
+                    "image": "https://s.hs-data.com/bilder/spieler/gross/248681.jpg?fallback=png",
+                    "link": "https://www.liverpoolfc.com/news/alisson-becker-shortlisted-2022-yashin-trophy"
+                }
+            ]
+        },
+        {
+            "player_id": "2",
+            "player_name": "Trent John Alexander-Arnold",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/288031.jpg?fallback=png",
+            "age": "24",
+            "Height": "180",
+            "Weight": "70",
+            "team": "Liverpool FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+            "position": "Defender",
+            "shirt": "66",
+            "country": "England",
+            "Stats": [
+                {
+                    "league": "Premier_League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "2",
+                            "green_card": "35",
+                            "yellow_card": "1",
+                            "red_card": "0",
+                            "assist":"1"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "6",
+                            "green_card": "20",
+                            "yellow_card": "9",
+                            "red_card": "1",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Liverpool FC",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+                    "matches": "34",
+                    "apps": "837",
+                    "goals": "14",
+                    "assit":"28",
+                    "year": "2019-2022"
+                },
+                {
+                    "team_name": "England",
+                    "team_avatar": "https://s.hs-data.com/bilder/flaggen_neu/12.gif",
+                    "matches": "21",
+                    "apps": "183",
+                    "goals": "2",
+                    "assit":"4",
+                    "year":  "2018-2022"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                   
+                    "year": "2010-2011"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+                    "year": "2018-2019"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Barcelona's crazy links to Liverpool star Trent Alexander-Arnold cannot hide 'terrifying' prospect",
+                    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "link": "https://www.liverpoolecho.co.uk/sport/football/football-news/barcelonas-crazy-links-liverpool-star-24702375"
+                }
+            ]
+        },
+        {
+            "player_id": "3",
+            "player_name": "Joseph Dave Gomez",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/268348.jpg?fallback=png",
+            "age": "25",
+            "Height": "188",
+            "Weight": "80",
+            "team": "Liverpool FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+            "position": "Defender",
+            "shirt": "2",
+            "country": "England",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://picsum.photos/250?image=82",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "0",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"4"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "2",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"4"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Liverpool FC",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+                    "matches": "31",
+                    "apps": "837",
+                    "goals": "5",
+                    "assit":"8",
+                    "year": "2019-2022"
+                },
+                {
+                    "team_name": "England",
+                    "team_avatar": "https://s.hs-data.com/bilder/flaggen_neu/12.gif",
+                    "matches": "34",
+                    "apps": "183",
+                    "goals": "1",
+                    "assit":"5",
+                    "year":  "2019-2022"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "year": "2019-2022"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+                    "year": "2019-2020"
+                }
+            ],
+            "news": [
+                {
+                    "title": " General Information about the player Joe Gomez",
+                    "image": "https://www.national-football-teams.com/media/cache/players_page/uploads/person_photos/Joe_Gomez_1_69272-5cddd47ac8b8a.jpeg",
+                    "link": "https://www.national-football-teams.com/player/69272/Joe_Gomez_1.html"
+                }
+            ]
+        },
+        {
+            "player_id": "4",
+            "player_name": "Joel André Matip Job",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/156057.jpg?fallback=png",
+            "age": "33",
+            "Height": "196",
+            "Weight": "80",
+            "team": "Saint Germain",
+            "team_avatar": "https://picsum.photos/250?image=82",
+            "position": "Centre Back",
+            "shirt": "32",
+            "country": "Liverpool FC",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "3",
+                            "green_card": "35",
+                            "yellow_card": "7",
+                            "red_card": "0",
+                            "assist":"5"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "1",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"3"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Liverpool FC",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+                    "matches": "34",
+                    "apps": "837",
+                    "goals": "5",
+                    "assit":"11",
+                    "year": "2019-2022"
+                },
+                {
+                    "team_name": "Cameroon",
+                    "team_avatar": "https://s.hs-data.com/bilder/flaggen_neu/85.gif",
+                    "matches": "22",
+                    "apps": "183",
+                    "goals": "2",
+                    "assit":"3",
+                    "year":  "2017-2022"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "year": "2019-2022"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+                    "year": "2019-2022"
+                },
+                {
+                    "Champoin_name": "FA Cup",
+                    "Champoin_avatar": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-03/facuptrophy-03192022-ftr-getty.jpg?itok=4LoKobIb",
+                    "prize":"Best young Player",
+
+                    "year":  "2021-2022"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Joel Matip's height, wife, contract, Instagram, salary, net worth in 2022, and more Read more: https://sportsbrief.com/facts/bio/16534-joel-matips-height-wife-contract-instagram-salary-net-worth-2022-more/",
+                    "image": "https://netstorage-sportsbrief.akamaized.net/images/25cea1879fd32d8d.png?imwidth=720",
+                    "link": "https://sportsbrief.com/facts/bio/16534-joel-matips-height-wife-contract-instagram-salary-net-worth-2022-more/"
+                }
+            ]
+        },
+        {
+            "player_id": "5",
+            "player_name": "Virgil van Dijk",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/163624.jpg?fallback=png",
+            "age": "31",
+            "Height": "190",
+            "Weight": "80",
+            "team": "Liverpool FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+            "position": "Centre Back",
+            "shirt": "4",
+            "country": "Netherlands",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "5",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "2",
+                            "assist":"6"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "4",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"9"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Liverpool FC",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+                    "matches": "34",
+                    "apps": "837",
+                    "goals": "17",
+                    "assit":"28",
+                    "year": "2018-2022"
+                },
+                {
+                    "team_name": "Netherlands",
+                    "team_avatar": "https://s.hs-data.com/bilder/flaggen_neu/21.gif",
+                    "matches": "34",
+                    "apps": "183",
+                    "goals": "4",
+                    "assit":"6",
+                    "year":  "2016-2022"
+                },
+                {
+                    "team_name": "Southampton FC",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/545.gif?fallback=png",
+                    "matches": "23",
+                    "apps": "27",
+                    "goals": "3",
+                    "assit":"5",
+                    "year": "2015-2017"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "year": "2019-2022"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+                    "year": "2019-2022"
+                },
+                {
+                    "Champoin_name": "FA Cup",
+                    "Champoin_avatar": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-03/facuptrophy-03192022-ftr-getty.jpg?itok=4LoKobIb",
+                    "prize":"Best young Player",
+
+                    "year":  "2021-2022"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Virgil van Dijk insists Man Utd game not about making a 'statement'",
+                    "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2370,h_1333,x_55,y_141/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FGettyImages%2Fmmsport%2F90min_en_international_web%2F01gavterv1s169epj5rs.jpg",
+                    "link": "https://www.90min.com/posts/virgil-van-dijk-insists-man-utd-game-not-about-statement"
+                }
+            ]
+        },
+        {
+            "player_id": "6",
+            "player_name": "Andrew Henry Robertson",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/239626.jpg?fallback=png",
+            "age": "28",
+            "Height": "180",
+            "Weight": "80",
+            "team": "Liverpool FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+            "position": "Left Back",
+            "shirt": "26",
+            "country": "Scotland",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "7",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "2",
+                            "assist":"14"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "4",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Liverpool FC",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+                    "matches": "34",
+                    "apps": "837",
+                    "goals": "22",
+                    "assit":"28",
+                    "year": "2017-2022"
+                },
+                {
+                    "team_name": "Hull City",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/3111.gif?fallback=png",
+                    "matches": "34",
+                    "apps": "183",
+                    "goals": "12",
+                    "assit":"33",
+                    "year":  "2014-2017"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "year": "2019-2022"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+                    "year": "2019-2022"
+                },
+                {
+                    "Champoin_name": "FA Cup",
+                    "Champoin_avatar": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-03/facuptrophy-03192022-ftr-getty.jpg?itok=4LoKobIb",
+                    "prize":"Best young Player",
+
+                    "year":  "2021-2022"
+                }
+            ],
+            "news": [
+                {
+                    "title": "GW1 Ones to watch: Andrew Robertson",
+                    "image": "https://resources.premierleague.com/photos/2022/08/02/22c15088-670b-47a2-8d10-cab5e47f320d/GettyImages-1410252722.jpg?width=931&height=620",
+                    "link": "https://www.premierleague.com/news/2710503"
+                }
+            ]
+        },
+        {
+            "player_id": "7",
+            "player_name": "Fabinho",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/218477.jpg?fallback=png",
+            "age": "29",
+            "Height": "180",
+            "Weight": "80",
+            "team": "Liverpool FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+            "position": "Defensive Midfielder",
+            "shirt": "3",
+            "country": "Brazil",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "3",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"14"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "6",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Liverpool FC",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+                    "matches": "34",
+                    "apps": "837",
+                    "goals": "22",
+                    "assit":"28",
+                    "year": "2018-2026"
+                },
+                {
+                    "team_name": "AS Monaco",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/562.gif?fallback=png",
+                    "matches": "34",
+                    "apps": "183",
+                    "goals": "33",
+                    "assit":"33",
+                    "year":  "2013-2017"
+                },
+                {
+                    "team_name": "Real Madrid",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/532.gif?fallback=png",
+                    "matches": "23",
+                    "apps": "27",
+                    "goals": "1",
+                    "assit":"2",
+                    "year": "2011-2012"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+                    "year": "2019-2022"
+                },
+                {
+                    "Champoin_name": "FA Cup",
+                    "Champoin_avatar": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-03/facuptrophy-03192022-ftr-getty.jpg?itok=4LoKobIb",
+                    "prize":"Best young Player",
+
+                    "year":  "2021-2022"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Fabinho: Liverpool need to beat Man Utd at Old Trafford",
+                    "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4379,h_2463,x_0,y_147/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FGettyImages%2Fmmsport%2F90min_en_international_web%2F01gax71e89g7jcg1pjtz.jpg",
+                    "link": "https://www.90min.com/posts/fabinho-liverpool-need-to-beat-man-utd-old-trafford"
+                }
+            ]
+        },
+        {
+            "player_id": "8",
+            "player_name": "Jordan Henderson",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/128447.jpg?fallback=png",
+            "age": "31",
+            "Height": "180",
+            "Weight": "80",
+            "team": "Liverpool FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+            "position": "Central Midfielder",
+            "shirt": "14",
+            "country": "England",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "6",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "1",
+                            "assist":"14"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "5",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Liverpool FC",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+                    "matches": "99",
+                    "apps": "837",
+                    "goals": "22",
+                    "assit":"28",
+                    "year": "2011-2025"
+                },
+                {
+                    "team_name": "Coventry City",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/2240.gif?fallback=png",
+                    "matches": "34",
+                    "apps": "183",
+                    "goals": "97",
+                    "assit":"33",
+                    "year":  "2011-2011"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "year": "2019-2022"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+                    "year": "2019-2022"
+                },
+                {
+                    "Champoin_name": "FA Cup",
+                    "Champoin_avatar": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-03/facuptrophy-03192022-ftr-getty.jpg?itok=4LoKobIb",
+                    "prize":"Best young Player",
+
+                    "year":  "2021-2022"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Liverpool may have ideal midfield transfer option in £48m Brazilian who dreams of Anfield",
+                    "image": "https://s.hs-data.com/bilder/spieler/gross/128447.jpg?fallback=png",
+                    "link": "https://www.liverpool.com/liverpool-fc-news/transfer-news/liverpool-midfield-transfer-brazilian-anfield-24799847?int_source=nba"
+                }
+            ]
+        },
+        {
+            "player_id": "9",
+            "player_name": "James Milner",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/12018.jpg?fallback=png",
+            "age": "36",
+            "Height": "180",
+            "Weight": "66",
+            "team": "Liverpool FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+            "position": "Central Midfielder",
+            "shirt": "7",
+            "country": "England",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "6",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"14"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "8",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Premier League",
+                    "team_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "matches": "590",
+                    "apps": "837",
+                    "goals": "55",
+                    "assit":"28",
+                    "year": "2015-2023"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "year": "2019-2022"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+                    "year": "2019-2022"
+                },
+                {
+                    "Champoin_name": "FA Cup",
+                    "Champoin_avatar": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-03/facuptrophy-03192022-ftr-getty.jpg?itok=4LoKobIb",
+                    "prize":"Best young Player",
+
+                    "year":  "2021-2022"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Casemiro to Man Utd: Footage of Brazilian wiping out James Milner goes viral again",
+                    "image": "https://cdn.givemesport.com/wp-content/uploads/2022/08/GettyImages-1312527970-1-scaled-960x620-c-default.jpg",
+                    "link": "https://www.givemesport.com/88049843-casemiro-to-man-utd-footage-of-brazilian-wiping-out-james-milner-goes-viral-again"
+                }
+            ]
+        },
+        {
+            "player_id": "10",
+            "player_name": "Thiago Alcântara",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/142540.jpg?fallback=png",
+            "age": "31",
+            "Height": "180",
+            "Weight": "80",
+            "team": "Liverpool FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+            "position": "Midfielder",
+            "shirt": "6",
+            "country": "Spain",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "2",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"11"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "1",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"2"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Premier League",
+                    "team_avatar": "https://picsum.photos/250?image=77",
+                    "matches": "50",
+                    "apps": "837",
+                    "goals": "2",
+                    "assit":"3",
+                    "year": "2020-2022"
+                },
+                {
+                    "team_name": "Bayern München",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/222.gif?fallback=png",
+                    "matches": "232",
+                    "apps": "183",
+                    "goals": "44",
+                    "assit":"33",
+                    "year":  "2013-2020"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "year": "2019-2022"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+                    "year": "2019-2022"
+                },
+                {
+                    "Champoin_name": "FA Cup",
+                    "Champoin_avatar": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-03/facuptrophy-03192022-ftr-getty.jpg?itok=4LoKobIb",
+                    "prize":"Best young Player",
+
+                    "year":  "2021-2022"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Worrying Thiago Alcantara injury comparison to Manchester City players as supporters long for the Spaniard’s return",
+                    "image": "https://icdn.empireofthekop.com/wp-content/uploads/2022/08/Untitled-design-2-10-1440x720.jpg",
+                    "link": "https://www.empireofthekop.com/2022/08/20/worrying-thiago-alcantara-injury-comparison-to-manchester-city-players-as-supporters-long-for-the-spaniards-return/"
+                }
+            ]
+        },
+        {
+            "player_id": "11",
+            "player_name": "Mo Salah",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/173692.jpg?fallback=png",
+            "age": "30",
+            "Height": "180",
+            "Weight": "80",
+            "team": "Liverpool FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+            "position": "Forward",
+            "shirt": "11",
+            "country": "Egypt",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "24",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"14"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "22",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "0",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Premier League",
+                    "team_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "matches": "194",
+                    "apps": "837",
+                    "goals": "125",
+                    "assit":"66",
+                    "year": "2017-2024"
+                },
+                {
+                    "team_name": "Serie A",
+                    "team_avatar": "https://s.hs-data.com/bilder/flaggen_neu/25.gif",
+                    "matches": "81",
+                    "apps": "183",
+                    "goals": "36",
+                    "assit":"33",
+                    "year":  "2014-2016"
+                },
+                {
+                    "team_name": "FC Basel",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/606.gif?fallback=png",
+                    "matches": "55",
+                    "apps": "27",
+                    "goals": "9",
+                    "assit":"20",
+                    "year": "2011-2014"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "year": "2019-2022"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+                    "year": "2019-2022"
+                },
+                {
+                    "Champoin_name": "FA Cup",
+                    "Champoin_avatar": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-03/facuptrophy-03192022-ftr-getty.jpg?itok=4LoKobIb",
+                    "prize":"Best young Player",
+
+                    "year":  "2021-2022"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Mo Salah reckons Liverpool and City have another title rival this season",
+                    "image": "https://www.thisisanfield.com/wp-content/uploads/P2022-08-15-Liverpool_Palace-80.jpg",
+                    "link": "https://www.thisisanfield.com/2022/08/not-just-city-mo-salah-names-other-liverpool-title-rival-that-dont-drop-points-easily/"
+                }
+            ]
+        },
+        {
+            "player_id": "12",
+            "player_name": "Roberto Firmino",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/178325.jpg?fallback=png",
+            "age": "33",
+            "Height": "180",
+            "Weight": "80",
+            "team": "Liverpool FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+            "position": "Forward",
+            "shirt": "9",
+            "country": "Brazil",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "9",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"14"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "14",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Premier League",
+                    "team_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "matches": "232",
+                    "apps": "837",
+                    "goals": "71",
+                    "assit":"28",
+                    "year": "2015-2022"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "year": "2019-2022"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+                    "year": "2019-2022"
+                },
+                {
+                    "Champoin_name": "FA Cup",
+                    "Champoin_avatar": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-03/facuptrophy-03192022-ftr-getty.jpg?itok=4LoKobIb",
+                    "prize":"Best young Player",
+
+                    "year":  "2021-2022"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Roberto Firmino has one last chance to force Jürgen Klopp into difficult Liverpool decision",
+                    "image": "https://s.hs-data.com/bilder/spieler/gross/178325.jpg?fallback=png",
+                    "link": "https://www.liverpool.com/liverpool-fc-news/features/liverpool-roberto-firmino-jurgen-klopp-24801787"
+                }
+            ]
+        },
+        {
+            "player_id": "13",
+            "player_name": "Luis Díaz",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/377146.jpg?fallback=png",
+            "age": "24",
+            "Height": "177",
+            "Weight": "80",
+            "team": "Liverpool FC",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+            "position": "Forward",
+            "shirt": "10",
+            "country": "Colombia",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "5",
+                            "green_card": "3",
+                            "yellow_card": "2",
+                            "red_card": "0",
+                            "assist":"4"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Liverpool FC",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/550.gif?fallback=png",
+                    "matches": "15",
+                    "apps": "837",
+                    "goals": "5",
+                    "assit":"28",
+                    "year": "2022-2022"
+                },
+                {
+                    "team_name": "FC Porto",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/808.gif?fallback=png",
+                    "matches": "99",
+                    "apps": "183",
+                    "goals": "33",
+                    "assit":"33",
+                    "year":  "2019-2022"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "year": "2019-2022"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+                    "year": "2019-2022"
+                },
+                {
+                    "Champoin_name": "FA Cup",
+                    "Champoin_avatar": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-03/facuptrophy-03192022-ftr-getty.jpg?itok=4LoKobIb",
+                    "prize":"Best young Player",
+
+                    "year":  "2021-2022"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Jürgen Klopp backs Luis Díaz to be consistent scorer for Liverpool",
+                    "image": "https://i.guim.co.uk/img/media/c61db5e28f4a032175136ce562e80c2a2cc4691b/30_177_1445_866/master/1445.jpg?width=620&quality=85&fit=max&s=10360217fa613e98007c1643654c8b26",
+                    "link": "https://www.theguardian.com/football/2022/aug/14/jurgen-klopp-backs-luis-diaz-to-be-consistent-scorer-for-liverpool"
+                }
+            ]
+        },
+        {
+            "player_id": "14",
+            "player_name": "Thibaut Courtois",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/140652.jpg?fallback=png",
+            "age": "30",
+            "Height": "197",
+            "Weight": "80",
+            "team": "Real Madrid",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/532.gif?fallback=png",
+            "position": "Goalkeeper",
+            "shirt": "1",
+            "country": "Belgium",
+            "Stats": [
+                {
+                    "league": "La Liga",
+                    "league_avatar": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "0",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"2"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "0",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"1"
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Real Madrid",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/532.gif?fallback=png",
+                    "matches": "248",
+                    "apps": "183",
+                    "goals": "0",
+                    "assit":"33",
+                    "year":  "2018-2026"
+                },
+                {
+                    "team_name": "Chelsea FC",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/544.gif?fallback=png",
+                    "matches": "138",
+                    "apps": "183",
+                    "goals": "0",
+                    "assit":"5",
+                    "year":  "2014-2018"
+                },
+                {
+                    "team_name": "Atlético Madrid",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/737.gif?fallback=png",
+                    "matches": "34",
+                    "apps": "183",
+                    "goals": "0",
+                    "assit":"4",
+                    "year":  "2011-2014"
+                }
+            ],
+            "Public_awards": [
+                {
+                    "Champoin_name": "UEFA Super Cup",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/ar/8/8a/UEFA_Super_Cup.png",
+                   
+                    "year": "2021-2022"
+                },
+                {
+                    "Champoin_name": "UEFA Champions League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/UEFA_Champions_League_logo_2.svg/2133px-UEFA_Champions_League_logo_2.svg.png",
+                    "year":  "2011-2012"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "La Liga",
+                    "Champoin_avatar": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",
+                   "prize":"The Best FIFA Goalkeeper: 2018",
+                    "year": "2018"
+                },
+                {
+                    "Champoin_name": "UEFA Champions League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/UEFA_Champions_League_logo_2.svg/2133px-UEFA_Champions_League_logo_2.svg.png",
+                    "prize":"UEFA Champions League Team of the Season",
+
+                    "year":  "2021-2022"
+                }
+            ],
+            "news": [
+                {
+                    "title": "UEFA Men's Player of the Year nominee: the case for Thibaut Courtois",
+                    "image": "https://editorial.uefa.com/resources/0278-15db217cd926-6b8cc6665870-1000/format/wide1/16x9_mpoty_nominee_courtois.jpeg?imwidth=2048",
+                    "link": "https://www.uefa.com/uefachampionsleague/news/0278-15db217cd929-a9759f73c2ae-1000--player-of-the-year-nominee-courtois/"
+                }
+            ]
+        },
+        {
+            "player_id": "15",
+            "player_name": "David Alaba",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/130402.jpg?fallback=png",
+            "age": "30",
+            "Height": "180",
+            "Weight": "80",
+            "team": "Real Madrid",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/532.gif?fallback=png",
+            "position": "Defender",
+            "shirt": "4",
+            "country": "Austria",
+            "Stats": [
+                {
+                    "league": "La Liga",
+                    "league_avatar": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "1",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"3"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Real Madrid",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/532.gif?fallback=png",
+                    "matches": "33",
+                    "apps": "837",
+                    "goals": "1",
+                    "assit":"5",
+                    "year": "2021-2026"
+                },
+                {
+                    "team_name": "Bayern München",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/222.gif?fallback=png",
+                    "matches": "107",
+                    "apps": "183",
+                    "goals": "7",
+                    "assit":"9",
+                    "year":  "2011-2021"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "UEFA Super Cup",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/ar/8/8a/UEFA_Super_Cup.png",
+                   
+                    "year": "2021-2022"
+                },
+                {
+                    "Champoin_name": "UEFA Champions League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/UEFA_Champions_League_logo_2.svg/2133px-UEFA_Champions_League_logo_2.svg.png",
+                    "year":  "2011-2012"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Bayern München",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sporthilfe-Gala_2017_Sportler_des_Jahres_%C3%96sterreich_Gewinner_03.jpg/480px-Sporthilfe-Gala_2017_Sportler_des_Jahres_%C3%96sterreich_Gewinner_03.jpg",
+                    "prize":"Austrian Sports Personality of the Year",
+                    "year": "2013-2014"
+                }
+            ],
+            "news": [
+                {
+                    "title": "David Alaba free kick gives Real Madrid 2-1 win and perfect start to Spanish title defense",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/220815050825-01-david-alaba-real-madrid-almeria-la-liga-exlarge-169.jpg",
+                    "link": "https://edition.cnn.com/2022/08/15/football/david-alaba-real-madrid-almeria-la-liga-spt-intl/index.html"
+                }
+            ]
+        },
+        {
+            "player_id": "16",
+            "player_name": "Dani Carvajal",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/191377.jpg?fallback=png",
+            "age": "30",
+            "Height": "173",
+            "Weight": "80",
+            "team": "Real Madrid",
+            "team_avatar": "https://picsum.photos/250?image=82",
+            "position": "Right Back",
+            "shirt": "2",
+            "country": "Spain",
+            "Stats": [
+                {
+                    "league": "La Liga",
+                    "league_avatar": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "5",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "2",
+                            "assist":"11"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "6",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"9"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Real Madrid",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/532.gif?fallback=png",
+                    "matches": "250",
+                    "apps": "837",
+                    "goals": "10",
+                    "assit":"28",
+                    "year": "2013-2025"
+                }
+            ],
+            "Public_awards": [
+                {
+                    "Champoin_name": "UEFA Super Cup",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/ar/8/8a/UEFA_Super_Cup.png",
+                   
+                    "year": "2021-2022"
+                },
+                {
+                    "Champoin_name": "UEFA Champions League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/UEFA_Champions_League_logo_2.svg/2133px-UEFA_Champions_League_logo_2.svg.png",
+                    "year":  "2011-2012"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Bayern München",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sporthilfe-Gala_2017_Sportler_des_Jahres_%C3%96sterreich_Gewinner_03.jpg/480px-Sporthilfe-Gala_2017_Sportler_des_Jahres_%C3%96sterreich_Gewinner_03.jpg",
+                    "prize":"Austrian Sports Personality of the Year",
+                    "year": "2013-2014"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Carvajal returns to training, but Modric misses out with fever",
+                    "image": "https://phantom-marca.unidadeditorial.es/1c8e92039d2367750dfd3fd8fd61a0c4/resize/660/f/webp/assets/multimedia/imagenes/2022/07/28/16590308389770.jpg",
+                    "link": "https://www.marca.com/en/football/real-madrid/2022/07/28/62e2e4f922601d72288b459d.html"
+                }
+            ]
+        },
+        {
+            "player_id": "17",
+            "player_name": "Marcelo",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/52947.jpg?fallback=png",
+            "age": "35",
+            "Height": "174",
+            "Weight": "80",
+            "team": "Real Madrid",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/532.gif?fallback=png",
+            "position": "Left Back",
+            "shirt": "6",
+            "country": "Brazil",
+            "Stats": [
+                {
+                    "league": "La Liga",
+                    "league_avatar": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "5",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"11"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "4",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Real Madrid",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/532.gif?fallback=png",
+                    "matches": "386",
+                    "apps": "837",
+                    "goals": "30",
+                    "assit":"28",
+                    "year": "2007-2022"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "UEFA Super Cup",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/ar/8/8a/UEFA_Super_Cup.png",
+                   
+                    "year": "2021-2022"
+                },
+                {
+                    "Champoin_name": "UEFA Champions League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/UEFA_Champions_League_logo_2.svg/2133px-UEFA_Champions_League_logo_2.svg.png",
+                    "year":  "2011-2012"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "La Liga",
+                    "Champoin_avatar": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",
+                    "prize":"Best young Player",
+                    "year": "2010-2011"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Marcelo, two weeks from deadline day and still without a club",
+                    "image": "https://img.asmedia.epimg.net/resizer/v6hsmPocW8s5q1QH8KJsSzaC1No=/644x362/filters:focal(3588x1250:3598x1260)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/GWTQDJ4ZPGXAFJAOT6PBJHAAFI.JPG",
+                    "link": "https://en.as.com/soccer/marcelo-two-weeks-from-deadline-day-and-still-without-a-club-n/"
+                }
+            ]
+        },
+        {
+            "player_id": "18",
+            "player_name": "Karim Benzema",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/29566.jpg?fallback=png",
+            "age": "35",
+            "Height": "188",
+            "Weight": "80",
+            "team": "Real Madrid",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/532.gif?fallback=png",
+            "position": "Forward",
+            "shirt": "9",
+            "country": "France",
+            "Stats": [
+                {
+                    "league": "La Liga",
+                    "league_avatar": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "30",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"14"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "22",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Real Madrid",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/532.gif?fallback=png",
+                    "matches": "470",
+                    "apps": "837",
+                    "goals": "250",
+                    "assit":"28",
+                    "year": "2009-2023"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "UEFA Super Cup",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/ar/8/8a/UEFA_Super_Cup.png",
+                   
+                    "year": "2021-2022"
+                },
+                {
+                    "Champoin_name": "UEFA Champions League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/UEFA_Champions_League_logo_2.svg/2133px-UEFA_Champions_League_logo_2.svg.png",
+                    "year":  "2011-2012"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "La Liga",
+                    "Champoin_avatar": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",
+                    "prize":"Best young Player",
+                    "year": "207-2008"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Real Madrid goleó al Celta de Coudet, por La Liga",
+                    "image": "https://media.tycsports.com/files/2022/08/20/467673/rm-v-celta-_862x485.webp?v=1",
+                    "link": "https://www.tycsports.com/espana/la-liga/celta-vs-real-madrid-en-vivo-hora-donde-ver-y-formaciones-id458747.html"
+                }
+            ]
+        },
+        {
+            "player_id": "19",
+            "player_name": "Lionel Messi",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/26622.jpg?fallback=png",
+            "age": "35",
+            "Height": "170",
+            "Weight": "70",
+            "team": "Saint Germain",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/563.gif?fallback=png",
+            "position": "Forward",
+            "shirt": "10",
+            "country": "Argatina",
+            "Stats": [
+                {
+                    "league": "Ligue 1",
+                    "league_avatar": "https://static.cdnlogo.com/logos/l/42/ligue-1-thumb.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "8",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"14"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Barcelona",
+                    "team_avatar": "https://picsum.photos/250?image=77",
+                    "matches": "620",
+                    "apps": "837",
+                    "goals": "691",
+                    "assit":"28",
+                    "year": "2004-2021"
+                },
+                {
+                    "team_name": "Argentina",
+                    "team_avatar": "https://logowik.com/content/uploads/images/argentina-national-football-team5116.jpg",
+                    "matches": "163",
+                    "apps": "183",
+                    "goals": "91",
+                    "assit":"33",
+                    "year":  "2004-2022"
+                },
+                {
+                    "team_name": "Saint Germain",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/563.gif?fallback=png",
+                    "matches": "28",
+                    "apps": "27",
+                    "goals": "8",
+                    "assit":"20",
+                    "year": "2022"
+                }
+            ],
+            "Public_awards": [
+                {
+                    "Champoin_name": "Ligue 1",
+                    "Champoin_avatar": "https://static.cdnlogo.com/logos/l/42/ligue-1-thumb.png",
+                   
+                    "year": "2021-2022"
+                },
+                {
+                    "Champoin_name": "Champions League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/640px-UEFA_Champions_League_logo_2.svg.png",
+                    "year":  "2011-2012"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "ballon d'or",
+                    "Champoin_avatar": "https://static.dw.com/image/59974324_303.jpg",
+                    "prize":"Best Player",
+                    "year": "2010-2011"
+                }
+            ],
+            "news": [
+                {
+                    "title": "PSG sanctioned by UEFA over FFP breach after record Lionel Messi and Kylian Mbappe wages",
+                    "image": "https://i2-prod.mirror.co.uk/incoming/article26697521.ece/ALTERNATES/s1200d/1_GettyImages-1389382997.jpg",
+                    "link": "https://www.mirror.co.uk/sport/football/news/kylian-mbappe-lionel-messi-psg-27790324"
+                }
+            ]
+        },
+        {
+            "player_id": "20",
+            "player_name": "Neymar",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/142105.jpg?fallback=png",
+            "age": "30",
+            "Height": "180",
+            "Weight": "80",
+            "team": "Paris Saint-Germain",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/563.gif?fallback=png",
+            "position": "Forward",
+            "shirt": "10",
+            "country": "Brazil",
+            "Stats": [
+                {
+                    "league": "Ligue 1",
+                    "league_avatar": "https://static.cdnlogo.com/logos/l/42/ligue-1-thumb.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "15",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"14"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "17",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Barcelona",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/530.gif?fallback=png",
+                    "matches": "150",
+                    "apps": "837",
+                    "goals": "99",
+                    "assit":"28",
+                    "year": "2009-2013"
+                },
+                {
+                    "team_name": "Brazil",
+                    "team_avatar": "https://s.hs-data.com/bilder/flaggen_neu/60.gif",
+                    "matches": "103",
+                    "apps": "183",
+                    "goals": "97",
+                    "assit":"33",
+                    "year":  "2011-2012"
+                },
+                {
+                    "team_name": "Saint Germain",
+                    "team_avatar": "https://picsum.photos/250?image=82",
+                    "matches": "23",
+                    "apps": "27",
+                    "goals": "8",
+                    "assit":"20",
+                    "year": "2009-2022"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Ligue 1",
+                    "Champoin_avatar": "https://static.cdnlogo.com/logos/l/42/ligue-1-thumb.png",
+                   
+                    "year": "2021-2022"
+                },
+                {
+                    "Champoin_name": "Champions League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/640px-UEFA_Champions_League_logo_2.svg.png",
+                    "year":  "2011-2012"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "ballon d'or",
+                    "Champoin_avatar": "https://i.ytimg.com/vi/K9fcyiT0fls/maxresdefault.jpg",
+                    "prize":"Best Player",
+                    "year": "2021"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Kylian Mbappe vs Neymar Jr feud: Who deserves blame for epic PSG power tussle?",
+                    "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt44a81d180f7d20bf/62ff60f71bd66735eba4b1cf/NEY_MBAPPE16-9.jpg?quality=80&format=pjpg&auto=webp&width=1000",
+                    "link": "https://www.goal.com/en-us/news/mbappe-vs-neymar-debate-which-psg-star-most-to-blame-power/blt989b3d27b93a1aa3"
+                }
+            ]
+        },
+        {
+            "player_id": "21",
+            "player_name": "Shikabala",
+            "player_Avatar": "https://africanfootball.com/bp_images/2020/05/Shikabala580.jpg",
+            "age": "36",
+            "Height": "183",
+            "Weight": "80",
+            "team": "Zamalek",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/3260.gif?fallback=png",
+            "position": "Forward",
+            "shirt": "10",
+            "country": "Egypt",
+            "Stats": [
+                {
+                    "league": "Egyption League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/8/89/Egyptian_Premier_League.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "4",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"9"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "4",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Zamalek",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/3260.gif?fallback=png",
+                    "matches": "220",
+                    "apps": "837",
+                    "goals": "50",
+                    "assit":"85",
+                    "year": "2002-2023"
+                }
+            ],
+            "Public_awards": [
+                {
+                    "Champoin_name": "Egyption League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/8/89/Egyptian_Premier_League.png",
+                   
+                    "year": "2003-2004"
+                },
+                {
+                    "Champoin_name": "Egyption League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/8/89/Egyptian_Premier_League.png",
+                   
+                    "year": "2021-2022"
+                },
+                {
+                    "Champoin_name": "Egyptian cup",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/ar/5/5f/Egyptian_Cup_%28football%29.png",
+                    "year":  "2011-2012"
+                },
+                {
+                    "Champoin_name": "Egyptian cup",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/ar/5/5f/Egyptian_Cup_%28football%29.png",
+                    "year":  "2012-2013"
+                },
+                {
+                    "Champoin_name": "Egyptian cup",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/ar/5/5f/Egyptian_Cup_%28football%29.png",
+                    "year":  "2013-2014"
+                },
+                {
+                    "Champoin_name": "Egyptian cup",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/ar/5/5f/Egyptian_Cup_%28football%29.png",
+                    "year":  "2021-2022"
+                },
+                {
+                    "Champoin_name": "Egyptian cup",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/ar/5/5f/Egyptian_Cup_%28football%29.png",
+                    "year":  "2022-2023"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Egyption League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/8/89/Egyptian_Premier_League.png",
+                    "prize":"Best young Player",
+                    "year": "2003-2002"
+                }
+            ],
+            "news": [
+                {
+                    "title": "شيكابالا ينعى ضحايا حريق كنيسة أبوسيفين",
+                    "image": "https://mediaaws.almasryalyoum.com/news/large/2022/08/14/1869093_0.png",
+                    "link": "https://www.almasryalyoum.com/news/details/2665093"
+                }
+            ]
+        },
+        {
+            "player_id": "22",
+            "player_name": "Kevin De Bruyne",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/142263.jpg?fallback=png",
+            "age": "33",
+            "Height": "180",
+            "Weight": "80",
+            "team": "Manchester City",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/750.gif?fallback=png",
+            "position": "Midfielder",
+            "shirt": "17",
+            "country": "Belgium",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "11",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"14"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "17",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Manchester City",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/750.gif?fallback=png",
+                    "matches": "212",
+                    "apps": "837",
+                    "goals": "66",
+                    "assit":"28",
+                    "year": "2015-2022"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                   
+                    "year": "2021-2022"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best  Player",
+                    "year": "2021-2022"
+                },
+                {
+                    "Champoin_name": "Premier League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "prize":"Best young Player",
+
+                    "year":  "2011-2012"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Manchester City enjoying ‘best version’ of Kevin De Bruyne",
+                    "image": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2022/08/20/3399356-2100256379.jpg?itok=YVW69Y9n",
+                    "link": "https://www.arabnews.com/node/2146706/sport"
+                }
+            ]
+        },
+        {
+            "player_id": "23",
+            "player_name": "Cristiano Ronaldo",
+            "player_Avatar": "https://s.hs-data.com/bilder/spieler/gross/13029.jpg?fallback=png",
+            "age": "36",
+            "Height": "180",
+            "Weight": "80",
+            "team": "Manchester United",
+            "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/543.gif?fallback=png",
+            "position": "Forward",
+            "shirt": "7",
+            "country": "Portugal",
+            "Stats": [
+                {
+                    "league": "Premier League",
+                    "league_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/480px-Premier_League_Logo.svg.png",
+                    "stats": [
+                        {
+                            "year": "2022",
+                            "goals": "7",
+                            "green_card": "35",
+                            "yellow_card": "4",
+                            "red_card": "0",
+                            "assist":"14"
+                        },
+                        {
+                            "year": "2021",
+                            "goals": "17",
+                            "green_card": "20",
+                            "yellow_card": "2",
+                            "red_card": "1",
+                            "assist":"11"
+
+                        }
+                    ]
+                }
+            ],
+            "career": [
+                {
+                    "team_name": "Manchester United",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mittel/543.gif?fallback=png",
+                    "matches": "268",
+                    "apps": "837",
+                    "goals": "120",
+                    "assit":"55",
+                    "year": "2003-2009"
+                },
+                {
+                    "team_name": "Real Madrid",
+                    "team_avatar": "https://s.hs-data.com/bilder/wappen/mini/532.gif?fallback=png",
+                    "matches": "329",
+                    "apps": "183",
+                    "goals": "330",
+                    "assit":"33",
+                    "year":  "2009-2018"
+                }
+            ],
+            "public_awards": [
+                {
+                    "Champoin_name": "Champions League",
+                    "Champoin_avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/640px-UEFA_Champions_League_logo_2.svg.png",
+                   
+                    "year": "2010-2011"
+                },
+                {
+                    "Champoin_name": "la liga",
+                    "Champoin_avatar": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",
+                    "year":  "2015-2016"
+                }
+            ],
+            "single_awards": [
+                {
+                    "Champoin_name": "ballon d'or",
+                    "Champoin_avatar": "https://i.ytimg.com/vi/K9fcyiT0fls/maxresdefault.jpg",
+                    "prize":"Best Player",
+                    "year": "2021-2019-2017-2014-2013-2015"
+                }
+            ],
+            "news": [
+                {
+                    "title": "Wayne Rooney doubles down on Cristiano Ronaldo stance and hopes he's dropped vs Liverpool",
+                    "image": "https://s.hs-data.com/bilder/spieler/gross/13029.jpg?fallback=png",
+                    "link": "https://www.mirror.co.uk/sport/football/news/rooney-man-utd-cristiano-ronaldo-27794705"
+                }
+            ]
+        }
+    ]
+} 

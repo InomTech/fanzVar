@@ -1,0 +1,58 @@
+{
+    "suggested_projects": [
+        {
+            "category_id": "1",
+            "category_name": "Local",
+            "projects_list": [
+                {
+                    "project_id": "1",
+                    "project_name": "Ahly Academy in the middle east",
+                    "project_status": "Voted",
+                    "comments_num": "1.5 K",
+                    "likes_mun": "55 K"
+                },
+                {
+                    "project_id": "2",
+                    "project_name": "Zamalek Academy in the middle east",
+                    "project_status": "Vote",
+                    "comments_num": "1.2 K",
+                    "likes_mun": "50 K"
+                },
+                {
+                    "project_id": "3",
+                    "project_name": "Zamalek Stadum ",
+                    "project_status": "Vote",
+                    "comments_num": "1.2 K",
+                    "likes_mun": "50 K"
+                }
+            ]
+        },
+        {
+            "category_id": "2",
+            "category_name": "International",
+            "projects_list": [
+                {
+                    "project_id": "1",
+                    "project_name": "Liverpool Academy in the middle east",
+                    "project_status": "Voted",
+                    "comments_num": "1.5 K",
+                    "likes_mun": "30 K"
+                },
+                {
+                    "project_id": "2",
+                    "project_name": "Real Madred Academy in USA",
+                    "project_status": "Vote",
+                    "comments_num": "1.2 K",
+                    "likes_mun": "50 K"
+                },
+                {
+                    "project_id": "3",
+                    "project_name": "Liverpool Academy in Egypt",
+                    "project_status": "Vote",
+                    "comments_num": "1.2 K",
+                    "likes_mun": "10 K"
+                }
+            ]
+        }
+    ]
+}

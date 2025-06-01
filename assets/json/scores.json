@@ -1,0 +1,18 @@
+{
+    "Scores": [
+      {
+        "Club 1": "El-Zamalek",
+        "Club 1 Image": "https://www.kingfut.com/wp-content/uploads/2017/09/Zamalek-1-680x680.png",
+        "Club 2": "El-Ahly",
+        "Club 2 Image": "https://i.ibb.co/KLv2g2q/png-clipart-al-ahly-sc-egyptian-premier-league-cairo-zamalek-sc-egypt-national-football-team-footbal.png",
+        "Match Score": "2-3"
+      },
+      {
+        "Club 1": "Al-Masry",
+        "Club 1 Image": "https://i.ibb.co/vVs0wj3/download-removebg-preview.png",
+        "Club 2": "Al-Mokaweloon",
+        "Club 2 Image": "https://i.ibb.co/30f5gLx/images-removebg-preview.png",
+        "Match Score": "1-1"
+      }
+    ]
+}

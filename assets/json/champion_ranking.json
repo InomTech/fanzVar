@@ -1,0 +1,174 @@
+{
+    "ChampionRanking": [
+        {
+            "CategoryID": "1",
+            "ChampionID": "1",
+            "GroupID": "1",
+            "GroupName": "Group A",
+            
+            "Clubs": [
+                {
+                    "ClubID": "1",
+                    "ClubName": "Man City",
+                    "W":"30",
+                    "D":"3",
+                    "L":"5",
+                    "PTS":"96"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Liverpool",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Chelsea",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Tottenham",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Arsenal",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Leicester City",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Man United",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Everton",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "West ham",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Wolves",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "New Castle",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Fulham",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Crystal Palace",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Asto Vila",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "BRighton",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Leads United",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Southampton",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Brentford",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Bournthom",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                },
+                {
+                    "ClubID": "1",
+                    "ClubName": "Nottm Forest",
+                    "W":"30",
+                    "D":"5",
+                    "L":"3",
+                    "PTS":"95"
+                }
+            ]
+        }
+
+    ]
+}

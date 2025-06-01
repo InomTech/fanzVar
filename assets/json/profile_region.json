@@ -1,0 +1,33 @@
+{
+    "region": [
+        {
+            "info": "region info",
+            "news": [
+                {
+                    "id": 1,
+                    "new": "new"
+                }
+            ],
+            "matchsSchules": [
+                {
+                    "id": 1,
+                    "matcklink": "http"
+                }
+            ],
+            "ClubsExists": [
+                {
+                    "id": 1,
+                    "name": "club name",
+                    "icon": "http",
+                    "fansCounter": 333
+                }
+            ],
+            "NationsExits": [
+                {
+                    "id": 1,
+                    "name": "nation name"
+                }
+            ]
+        }
+    ]
+}

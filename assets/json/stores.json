@@ -1,0 +1,108 @@
+{
+    "Stores": [
+      {
+        "Name": "Adidas",
+        "Image": "https://i.ibb.co/WBsB222/Adidas.png",
+        "Website": "https://www.adidas.com/us",
+        "Reviews": [
+          {
+            "Person Name": "Ahmed Adel",
+            "Person Image": "https://i.ibb.co/qmbfBqL/Adult-1.png",
+            "Review": "2",
+            "Date": "06/03/2022",
+            "Time": "02:25 PM",
+            "Comment": "Not bad"
+          },
+          {
+            "Person Name": "Ahmed Adel",
+            "Person Image": "https://i.ibb.co/qmbfBqL/Adult-1.png",
+            "Review": "3",
+            "Date": "06/03/2022",
+            "Time": "02:25 PM",
+            "Comment": "Good"
+          }
+        ],
+        "Branches": [
+          {
+          "Address": "As Salam Ash Sharqeyah, Qesm as Salam, Cairo Governorate, Egypt",
+          "Longitude": "30.18549505727698",
+          "Latitude": "31.419996247097497"
+          },
+          {
+          "Address": "Omar Ibn Alkhatab St. Misr AlJadidah, Cairo",
+          "Longitude": "30.129092831591215",
+          "Latitude": "31.305326447931417"
+          }
+        ],
+        "Products": [
+          {
+            "Name": "T-Shirt",
+            "Image": "https://i.ibb.co/BPdX4f1/download-removebg-preview.png",
+            "Price": "500 LE"
+          },
+          {
+            "Name": "T-Shirt",
+            "Image": "https://i.ibb.co/BPdX4f1/download-removebg-preview.png",
+            "Price": "500 LE"
+          },
+          {
+            "Name": "T-Shirt",
+            "Image": "https://i.ibb.co/BPdX4f1/download-removebg-preview.png",
+            "Price": "500 LE"
+          }
+        ]
+      },
+      {
+        "Name": "Nike",
+        "Image": "https://i.ibb.co/Lgdz0pL/Nike.png",
+        "Website": "https://www.nike.com/eg/",
+        "Reviews": [
+          {
+            "Person Name": "Tayem Ahmed",
+            "Person Image": "https://i.ibb.co/qmbfBqL/Adult-1.png",
+            "Review": "5",
+            "Date": "06/03/2022",
+            "Time": "02:25 PM",
+            "Comment": "Great"
+          },
+          {
+            "Person Name": "Ramy Gamal",
+            "Person Image": "https://i.ibb.co/qmbfBqL/Adult-1.png",
+            "Review": "4",
+            "Date": "06/03/2022",
+            "Time": "02:25 PM",
+            "Comment": "Awesome"
+          }
+        ],
+        "Branches": [
+          {
+          "Address": "New Cairo 1, Cairo Governorate",
+          "Longitude": "30.04699162884113",
+          "Latitude": "31.40583864163981"
+        },
+          {
+          "Address": "First 6th of October, Giza Governorate",
+          "Longitude": "30.033914611225633",
+          "Latitude": "30.96913210110313"
+        }
+        ],
+        "Products": [
+          {
+            "Name": "T-Shirt",
+            "Image": "https://i.ibb.co/BPdX4f1/download-removebg-preview.png",
+            "Price": "500 LE"
+          },
+          {
+            "Name": "T-Shirt",
+            "Image": "https://i.ibb.co/BPdX4f1/download-removebg-preview.png",
+            "Price": "500 LE"
+          },
+          {
+            "Name": "T-Shirt",
+            "Image": "https://i.ibb.co/BPdX4f1/download-removebg-preview.png",
+            "Price": "500 LE"
+          }
+        ]
+      }
+    ]
+}

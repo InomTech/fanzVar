@@ -1,0 +1,1835 @@
+{
+    "players": [
+        {
+            "name": "ABC  Playstation CUP",
+            "competition_title": "ABC PS5",
+            "image_profile": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/232706500/original/35b247aa731d030e60982ba4cb5209437843491e/earn-platinum-trophies-for-you-on-psn.jpg",
+            "is_availavle": true,
+            "is_joined": false,
+            "age": 30,
+            "games": [
+                "Fifa",
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "MO AHMED PS",
+            "start_date": "8/3/2022",
+            "due_date": "15/3/2022",
+            "city": "Giza",
+            "country": "Egypt",
+            "total_players": "12",
+            "duration": "3 days",
+            "seats": 12,
+            "location": "Cairo",
+            "max_players":24,
+            "min_players":12,
+            "game_type":"single",
+            "total_teams":45,
+            "longitude": 31.233334,
+            "latitude": 30.033333,
+            "matches": [
+                {
+                    "first_team_name": "MO AHMED PS",
+                    "first_team_score": 6,
+                    "first_team_img": "https://static.vecteezy.com/system/resources/previews/004/477/337/original/face-young-man-in-frame-circular-avatar-character-icon-free-vector.jpg",
+                    "second_team_name": "som3a",
+                    "second_team_score": 3,
+                    "second_team_img": "https://i.pinimg.com/originals/72/cd/96/72cd969f8e21be3476277d12d44c791c.png",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+                    ]
+                },
+                {
+                    "first_team_name": "Mahmoud elwakeel",
+                    "first_team_score": 0,
+                    "first_team_img": "https://images.vexels.com/media/users/3/145908/raw/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg",
+                    "second_team_name": "El Gohary",
+                    "second_team_score": 1,
+                    "second_team_img": "https://thumbs.dreamstime.com/b/portrait-young-man-beard-hair-style-male-avatar-vector-portrait-young-man-beard-hair-style-male-avatar-105082137.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 22,
+                        "won": 11,
+                        "drawn": 3,
+                        "lost": 8,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "BEBO",
+                    "first_team_score": 0,
+                    "first_team_img": "https://cdn2.vectorstock.com/i/1000x1000/49/86/man-character-face-avatar-in-glasses-vector-17074986.jpg",
+                    "second_team_name": "MIDO",
+                    "second_team_score": 1,
+                    "second_team_img": "https://cdn1.vectorstock.com/i/1000x1000/10/95/cute-young-man-avatar-character-cartoon-style-vector-36081095.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 45,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 45,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 15,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "AHMED MIDO",
+                    "first_team_score": 0,
+                    "first_team_img": "https://cdn4.vectorstock.com/i/1000x1000/40/53/passport-photo-of-young-handsome-man-close-up-vector-21284053.jpg",
+                    "second_team_name": "IBRAHIM BEBO",
+                    "second_team_score": 1,
+                    "second_team_img": "https://cdn.impactinit.com/cdn/x/x@c6cae1948b/https://s52.impactinit.com/smsimg30//pv/ingimagecontributors/ing_47129_23497.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 40,
+                        "won": 13,
+                        "drawn": 17,
+                        "lost": 10,
+                        "scored": 57,
+                        "conceded": 50,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 40,
+                        "won": 10,
+                        "drawn": 10,
+                        "lost": 20,
+                        "scored": 35,
+                        "conceded": 57,
+                        "points": 56
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://i.pinimg.com/originals/25/8d/54/258d545bbcd53b891bf1300694fe0428.jpg",
+                "https://makhsoom.com/lb/storage/32000/14525/70ce67f6a57b5792bc83f661f50c76a5.jpg",
+                "https://www.newgamenetwork.com/images/uploads/gallery/ProEvoSoccer2021/pes21_05.jpg",
+                "https://www.newgamenetwork.com/images/uploads/gallery/ProEvoSoccer2021/pes21_09.jpg",
+                "https://staticg.sportskeeda.com/editor/2022/05/1a78c-16515757886756-1920.jpg",
+                "https://i.ytimg.com/vi/G32hbnv5eOk/maxresdefault.jpg",
+                "https://i0.wp.com/waytoomany.games/wp-content/uploads/2020/12/FIFA-21_20201208172537.jpg?resize=860%2C484&ssl=1"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "IBRAHIM BEBO",
+                            "league": "Cairo League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "AHMED MIDO",
+                            "league": "Cairo League",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "BEBO",
+                            "league": "Giza League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "MIDO",
+                            "league": "Giza League",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "MO AHMED PS",
+                            "league": "Cairo League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Mahmoud elwakeel",
+                            "league": "Giza League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "EL GOHARY",
+                            "league": "minia league",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "EMAD",
+                            "league": "alex league",
+                            "rate": 4.5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group C",
+                    "teams": [
+                        {
+                            "team_name": "Som3a",
+                            "league": "Cairo League",
+                            "rate": 5
+                        },
+                        {
+                            "team_name": "el Doksh",
+                            "league": "minia league",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "CR7",
+                            "league": "Cairo League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "AHMED MISSE",
+                            "league": "alex league",
+                            "rate": 4.5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group D",
+                    "teams": [
+                        {
+                            "team_name": "EL SAYED ",
+                            "league": "alex league",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "GAMAL AHMED",
+                            "league": "Giza League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "ADEL MOHAMED",
+                            "league": "Cairo League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Abanub ",
+                            "league": "alex league",
+                            "rate": 4
+                        }
+                    ]
+                }
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "IBRAHIM BEBO",
+                            "first_team_score": 4,
+                            "second_team_name": "AHMED MIDO",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "BEBO",
+                            "first_team_score": 0,
+                            "second_team_name": " MIDO",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "MIDO",
+                            "first_team_score": 2,
+                            "second_team_name": "IBRAHIM BEBO",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "AHMED MIDO",
+                            "first_team_score": 6,
+                            "second_team_name": "BEBO",
+                            "second_team_score": 3
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "MO AHMED PS",
+                            "first_team_score": 0,
+                            "second_team_name": "MAHMOUD EL WAKEEL",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "EL GOHARY",
+                            "first_team_score": 0,
+                            "second_team_name": " EMAD",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "MO AHMED PS",
+                            "first_team_score": 0,
+                            "second_team_name": "El Gohary",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Mahmoud elwakeel",
+                            "first_team_score": 0,
+                            "second_team_name": " EMAD",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group C",
+                    "teams": [
+                        {
+                            "first_team_name": "Som3a",
+                            "first_team_score": 0,
+                            "second_team_name": "EL DOKSH",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "CR7",
+                            "first_team_score": 0,
+                            "second_team_name": "AHMED MESSI",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "AHMED MESSI",
+                            "first_team_score": 0,
+                            "second_team_name": "Som3a",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "EL DOKSH",
+                            "first_team_score": 0,
+                            "second_team_name": "CR7",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group D",
+                    "teams": [
+                        {
+                            "first_team_name": "EL SAYED",
+                            "first_team_score": 0,
+                            "second_team_name": "GAMAL AHMED",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "ADEL MOHAMED",
+                            "first_team_score": 0,
+                            "second_team_name": "Abanub",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Abanub",
+                            "first_team_score": 0,
+                            "second_team_name": "EL SAYED",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "GAMAL AHMED",
+                            "first_team_score": 0,
+                            "second_team_name": "ADEL MOHAMED",
+                            "second_team_score": 1
+                        }
+                    ]
+                }
+            ], 
+            "competition_rules": "Each team consists of 11 players. These are made up of one goalkeeper and ten outfield players. The pitch dimensions vary from each ground but are roughly 120 yards long and 75 yards wide. On each pitch you will have a 6 yard box next to the goal mouth, an 18 yard box surrounding the 6 yard box and a centre circle. Each half of the pitch must be a mirror image of the other in terms of dimensions.Essentially the equipment that is needed for a soccer match is pitch and a football. Additionally players can be found wearing studded football boots, shin pads and matching strips. The goalkeepers will additionally wear padded gloves as they are the only players allowed to handle the ball. Each team will have a designated captain.",
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        },
+        {
+            "competition_title": "VIP Cup",
+            "name": "player 2",
+            "image_profile": "https://png.pngtree.com/png-clipart/20201222/ourlarge/pngtree-vip-trophy-png-image_2627316.jpg",
+            "is_availavle": false,
+            "is_joined": false,
+            "age": 25,
+            "games": [
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "wael gamal",
+            "start_date": "7/3/2022",
+            "due_date": "15/3/2022",
+            "city": "DUBAI",
+            "country": "UAE",
+            "total_players": "10",
+            "duration": "3 hours",
+            "seats": 10,
+            "location": "Cairo",
+            "max_players":16,
+            "min_players":12,
+            "game_type":"single",
+            "total_teams":16,
+            "longitude": 33.233334,
+            "latitude": 30.033333,
+            "matches": [
+                {
+                    "first_team_name": "Wael gamal",
+                    "first_team_score": 5,
+                    "first_team_img": "https://thumbs.dreamstime.com/b/avatar-portrait-young-caucasian-boy-man-round-frame-vector-illustration-design-cartoon-flat-style-avatar-portrait-233318675.jpg",
+                    "second_team_name": "mazen",
+                    "second_team_score": 1,
+                    "second_team_img": "https://image.shutterstock.com/image-vector/portrait-young-man-vector-illustration-260nw-581164828.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 15,
+                        "drawn": 2,
+                        "lost": 3,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 10,
+                        "drawn": 6,
+                        "lost": 4,
+                        "scored": 44,
+                        "conceded": 45,
+                        "points": 46
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "Gaber ahmed",
+                    "first_team_score": 3,
+                    "first_team_img": "https://cdn.impactinit.com/cdn/x/x@c6cae1948b/https://s52.impactinit.com/smsimg30//pv/ingimagecontributors/ing_47129_23497.jpg",
+                    "second_team_name": "abdelrahman",
+                    "second_team_score": 1,
+                    "second_team_img": "https://cdn4.vectorstock.com/i/1000x1000/40/53/passport-photo-of-young-handsome-man-close-up-vector-21284053.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 12,
+                        "drawn": 8,
+                        "lost": 0,
+                        "scored": 51,
+                        "conceded": 46,
+                        "points": 52
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 10,
+                        "drawn": 5,
+                        "lost": 5,
+                        "scored": 46,
+                        "conceded": 57,
+                        "points": 51
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "khalil ahmed",
+                    "first_team_score": 1,
+                    "first_team_img": "https://cdn2.vectorstock.com/i/1000x1000/31/56/young-man-vector-553156.jpg",
+                    "second_team_name": "Saber el sayed",
+                    "second_team_score": 1,
+                    "second_team_img": "https://cdn5.vectorstock.com/i/1000x1000/49/49/face-man-vector-304949.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 9,
+                        "drawn": 7,
+                        "lost": 4,
+                        "scored": 27,
+                        "conceded": 26,
+                        "points": 32
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 8,
+                        "drawn": 7,
+                        "lost": 5,
+                        "scored": 26,
+                        "conceded": 37,
+                        "points": 33
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "sayed nimar",
+                    "first_team_score": 0,
+                    "first_team_img": "https://cdn1.vectorstock.com/i/1000x1000/04/00/man-with-happy-face-vector-11820400.jpg",
+                    "second_team_name": "wael hamdy",
+                    "second_team_score": 1,
+                    "second_team_img": "https://cdn.impactinit.com/cdn/x/x@c6cae1948b/https://s52.impactinit.com/smsimg30//pv/ingimagecontributors/ing_47129_23497.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 12,
+                        "drawn": 1,
+                        "lost": 7,
+                        "scored": 45,
+                        "conceded": 33,
+                        "points": 38
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 9,
+                        "drawn": 7,
+                        "lost": 4,
+                        "scored": 40,
+                        "conceded": 57,
+                        "points": 41
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://i.pinimg.com/originals/25/8d/54/258d545bbcd53b891bf1300694fe0428.jpg",
+                "https://makhsoom.com/lb/storage/32000/14525/70ce67f6a57b5792bc83f661f50c76a5.jpg",
+                "https://www.newgamenetwork.com/images/uploads/gallery/ProEvoSoccer2021/pes21_05.jpg",
+                "https://www.newgamenetwork.com/images/uploads/gallery/ProEvoSoccer2021/pes21_09.jpg",
+                "https://staticg.sportskeeda.com/editor/2022/05/1a78c-16515757886756-1920.jpg",
+                "https://i.ytimg.com/vi/G32hbnv5eOk/maxresdefault.jpg",
+                "https://i0.wp.com/waytoomany.games/wp-content/uploads/2020/12/FIFA-21_20201208172537.jpg?resize=860%2C484&ssl=1"
+                        ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "wael gamal",
+                            "league": "UAE League",
+                            "rate": 5
+                        },
+                        {
+                            "team_name": "mazen",
+                            "league": "UAE League",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "GABER Ahmed",
+                            "league": "UAE League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Abdelrahman",
+                            "league": "UAE League",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "khalil ahmed",
+                            "league": "UAE League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Saber el sayed",
+                            "league": "UAE League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "wael hamdy",
+                            "league": "UAE League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "sayed nimar",
+                            "league": "UAE League",
+                            "rate": 4.5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group C",
+                    "teams": [
+                        {
+                            "team_name": "Nour eldeen",
+                            "league": "UAE League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Farouk el sayed",
+                            "league": "UAE League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "EL BRINCE",
+                            "league": "UAE League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "RAMADAN AHMED",
+                            "league": "UAE League",
+                            "rate": 4.5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group D",
+                    "teams": [
+                        {
+                            "team_name": "EL KING",
+                            "league": "UAE League",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "LION",
+                            "league": "UAE League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "EL HADABA",
+                            "league": "UAE League",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "EL 3andaleeb",
+                            "league": "UAE League",
+                            "rate": 4
+                        }
+                    ]
+                }
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "wael gamal",
+                            "first_team_score": 4,
+                            "second_team_name": "mazen",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "GABER Ahmed",
+                            "first_team_score": 0,
+                            "second_team_name": "Abdelrahman",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Abdelrahman",
+                            "first_team_score": 3,
+                            "second_team_name": "wael gamal",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "mazen",
+                            "first_team_score": 2,
+                            "second_team_name": "GABER Ahmed",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "khalil ahmed",
+                            "first_team_score": 2,
+                            "second_team_name": "Saber el sayed",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "wael hamdy",
+                            "first_team_score": 6,
+                            "second_team_name": "sayed nimar",
+                            "second_team_score": 5
+                        },
+                        {
+                            "first_team_name": "Saber el sayed",
+                            "first_team_score": 7,
+                            "second_team_name": "wael hamdy",
+                            "second_team_score": 4
+                        },
+                        {
+                            "first_team_name": "sayed nimar",
+                            "first_team_score": 4,
+                            "second_team_name": "khalil ahmed",
+                            "second_team_score": 3
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group C",
+                    "teams": [
+                        {
+                            "first_team_name": "Nour eldeen",
+                            "first_team_score": 3,
+                            "second_team_name": "Farouk el sayed",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "EL BRINCE",
+                            "first_team_score": 3,
+                            "second_team_name": "RAMADAN AHMED",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "RAMADAN AHMED",
+                            "first_team_score": 3,
+                            "second_team_name": "Nour eldeen",
+                            "second_team_score": 2
+                        },
+                        {
+                            "first_team_name": "Farouk el sayed",
+                            "first_team_score": 7,
+                            "second_team_name": "EL BRINCE",
+                            "second_team_score": 5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group D",
+                    "teams": [
+                        {
+                            "first_team_name": "el king",
+                            "first_team_score": 0,
+                            "second_team_name": "Lion",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "EL HADABA",
+                            "first_team_score": 0,
+                            "second_team_name": "EL 3andaleeb",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Lion",
+                            "first_team_score": 0,
+                            "second_team_name": "EL HADABA",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "EL 3andaleeb",
+                            "first_team_score": 0,
+                            "second_team_name": "el king",
+                            "second_team_score": 1
+                        }
+                    ]
+                }
+            ],
+            "competition_rules": "Each team consists of 11 players. These are made up of one goalkeeper and ten outfield players. The pitch dimensions vary from each ground but are roughly 120 yards long and 75 yards wide. On each pitch you will have a 6 yard box next to the goal mouth, an 18 yard box surrounding the 6 yard box and a centre circle. Each half of the pitch must be a mirror image of the other in terms of dimensions.Essentially the equipment that is needed for a soccer match is pitch and a football. Additionally players can be found wearing studded football boots, shin pads and matching strips. The goalkeepers will additionally wear padded gloves as they are the only players allowed to handle the ball. Each team will have a designated captain.",
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        }, 
+        {
+            "name": "ARAB Champion league",
+            "competition_title": "El arab",
+            "image_profile": "https://english.madhyamam.com/sites/default/files/ArabLeagueCountriesMap.jpg",
+            "is_availavle": true,
+            "is_joined": false,
+            "age": 40,
+            "games": [
+                "Fifa",
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "El Masreen",
+            "start_date": "8/3/2022",
+            "due_date": "15/3/2022",
+            "city": "Cairo",
+            "country": "Egypt",
+            "total_players": "16",
+            "duration": "8 days",
+            "seats": 12,
+            "location": "Cairo",
+            "max_players":20,
+            "min_players":10,
+            "game_type":"single",
+            "total_teams":40,
+            "longitude": 31.0233334,
+            "latitude": 30.0393333,
+            "matches": [
+                {
+                    "first_team_name": "El Masreen",
+                    "first_team_score": 0,
+                    "first_team_img": "https://w7.pngwing.com/pngs/729/357/png-transparent-flag-of-egypt-egypt-national-football-team-egypt-national-under-20-football-team-egypt-flag-egypt-logo.png",
+                    "second_team_name": "Ahl Elsoudia",
+                    "second_team_score": 1,
+                    "second_team_img": "https://vectorflags.s3.amazonaws.com/flags/sa-sphere-01.png",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 15,
+                        "drawn": 3,
+                        "lost": 2,
+                        "scored": 45,
+                        "conceded": 56,
+                        "points": 66
+                    },
+                    "second_team_match_details": {
+                        "played": 29,
+                        "won": 10,
+                        "drawn": 5,
+                        "lost": 5,
+                        "scored": 41,
+                        "conceded": 57,
+                        "points": 55
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "Sha3b El Imarat",
+                    "first_team_score": 0,
+                    "first_team_img": "https://image.shutterstock.com/image-vector/button-flag-united-arab-emirates-260nw-237047419.jpg",
+                    "second_team_name": "AHL SUDAN",
+                    "second_team_score": 1,
+                    "second_team_img": "https://cdn3.vectorstock.com/i/1000x1000/44/92/sudan-flag-on-button-vector-24004492.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 12,
+                        "drawn": 2,
+                        "lost": 6,
+                        "scored": 46,
+                        "conceded": 56,
+                        "points": 49
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 9,
+                        "drawn": 7,
+                        "lost": 4,
+                        "scored": 47,
+                        "conceded": 57,
+                        "points": 45
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "Abtal Morocoo",
+                    "first_team_score": 0,
+                    "first_team_img": "https://4.bp.blogspot.com/-mndx5viElpI/XIc_-B_ieEI/AAAAAAAAIrM/tI64QoSN7VUUo373XwzPUErg31B1L5zGQCK4BGAYYCw/s1600/flag%2Bmarruecos%2Bicon%2B.png",
+                    "second_team_name": "Abna libia",
+                    "second_team_score": 1,
+                    "second_team_img": "https://cdn.imgbin.com/12/0/4/imgbin-flag-of-libya-cyrenaica-national-flag-flag-WB96D2TSRYLNtkFgePJfytSWw.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 7,
+                        "drawn": 9,
+                        "lost": 4,
+                        "scored": 36,
+                        "conceded": 56,
+                        "points": 38
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 11,
+                        "drawn": 1,
+                        "lost": 8,
+                        "scored": 41,
+                        "conceded": 57,
+                        "points": 42
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "Abtal el giria",
+                    "first_team_score": 5,
+                    "first_team_img": "https://img.favpng.com/9/13/24/fifa-world-cup-flag-of-algeria-football-pro-evolution-soccer-2017-png-favpng-RWpqf7ybW9Z9q53GAGSn2588w.jpg",
+                    "second_team_name": "Abna Qatar",
+                    "second_team_score": 7,
+                    "second_team_img": "https://www.nicepng.com/png/full/833-8332342_9-qatar-round-flag-png.png",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 11,
+                        "drawn": 2,
+                        "lost": 7,
+                        "scored": 48,
+                        "conceded": 56,
+                        "points": 49
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 10,
+                        "drawn": 7,
+                        "lost": 3,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 54
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://i.pinimg.com/originals/25/8d/54/258d545bbcd53b891bf1300694fe0428.jpg",
+                "https://makhsoom.com/lb/storage/32000/14525/70ce67f6a57b5792bc83f661f50c76a5.jpg",
+                "https://www.newgamenetwork.com/images/uploads/gallery/ProEvoSoccer2021/pes21_05.jpg",
+                "https://www.newgamenetwork.com/images/uploads/gallery/ProEvoSoccer2021/pes21_09.jpg",
+                "https://staticg.sportskeeda.com/editor/2022/05/1a78c-16515757886756-1920.jpg",
+                "https://i.ytimg.com/vi/G32hbnv5eOk/maxresdefault.jpg",
+                "https://i0.wp.com/waytoomany.games/wp-content/uploads/2020/12/FIFA-21_20201208172537.jpg?resize=860%2C484&ssl=1"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "El Masreen",
+                            "league": "EGYPT",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Ahl Elsoudia",
+                            "league": "SAUDIA ARABIA",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Shabab El Kuwait",
+                            "league": "Kuwait",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Abna Tunisia",
+                            "league": "Tunisia",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Sha3b El Imarat",
+                            "league": "UAE",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "AHL SUDAN",
+                            "league": "Sudan",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Abtal Morocoo",
+                            "league": "Morocoo",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Abna libia",
+                            "league": "LIBYA",
+                            "rate": 4.5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group C",
+                    "teams": [
+                        {
+                            "team_name": "Abtal el giria",
+                            "league": "Algeria",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Abna Qatar",
+                            "league": "Qatar",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Palestine",
+                            "league": "Palestine",
+                            "rate": 5
+                        },
+                        {
+                            "team_name": "Abnaa Jordan",
+                            "league": "Jordan",
+                            "rate": 4.5
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group D",
+                    "teams": [
+                        {
+                            "team_name": "Ahl Lebanon",
+                            "league": "Lebanon",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Mauritania",
+                            "league": "Mauritania",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "SHbab Amman",
+                            "league": "Amman",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": " Abna el iraq",
+                            "league": "iraq",
+                            "rate": 4
+                        }
+                    ]
+                }
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "El Masreen",
+                            "first_team_score": 2,
+                            "second_team_name": "Ahl Elsoudia",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Shabab El Kuwait",
+                            "first_team_score": 3,
+                            "second_team_name": "Abna Tunisia",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Ahl Elsoudia",
+                            "first_team_score": 1,
+                            "second_team_name": "Shabab El Kuwait",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Abna Tunisia",
+                            "first_team_score": 2,
+                            "second_team_name": "El Masreen",
+                            "second_team_score": 3
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "Sha3b El Imarat",
+                            "first_team_score": 5,
+                            "second_team_name": "AHL SUDAN",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Abtal Morocoo",
+                            "first_team_score": 2,
+                            "second_team_name": "Abna libia",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "AHL SUDAN",
+                            "first_team_score": 0,
+                            "second_team_name": "Abtal Morocoo",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Abna libia",
+                            "first_team_score": 5,
+                            "second_team_name": "Sha3b El Imarat",
+                            "second_team_score": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group C",
+                    "teams": [
+                        {
+                            "first_team_name": "Abtal el giria",
+                            "first_team_score": 4,
+                            "second_team_name": "Abna Qatar",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Palestine",
+                            "first_team_score": 3,
+                            "second_team_name": "Abnaa Jordan",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Abna Qatar",
+                            "first_team_score": 3,
+                            "second_team_name": "Palestine",
+                            "second_team_score": 3
+                        },
+                        {
+                            "first_team_name": "Abnaa Jordan",
+                            "first_team_score": 4,
+                            "second_team_name": "Abtal el giria",
+                            "second_team_score": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group D",
+                    "teams": [
+                        {
+                            "first_team_name": "Ahl Lebanon",
+                            "first_team_score": 0,
+                            "second_team_name": "Mauritania",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "SHbab Amman",
+                            "first_team_score": 0,
+                            "second_team_name": "Abna el iraq",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Mauritania",
+                            "first_team_score": 0,
+                            "second_team_name": "SHbab Amman",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Abna el iraq",
+                            "first_team_score": 0,
+                            "second_team_name": "Ahl Lebanon",
+                            "second_team_score": 1
+                        }
+                    ]
+                }
+            ],
+            "competition_rules": "Each team consists of 11 players. These are made up of one goalkeeper and ten outfield players. The pitch dimensions vary from each ground but are roughly 120 yards long and 75 yards wide. On each pitch you will have a 6 yard box next to the goal mouth, an 18 yard box surrounding the 6 yard box and a centre circle. Each half of the pitch must be a mirror image of the other in terms of dimensions.Essentially the equipment that is needed for a soccer match is pitch and a football. Additionally players can be found wearing studded football boots, shin pads and matching strips. The goalkeepers will additionally wear padded gloves as they are the only players allowed to handle the ball. Each team will have a designated captain.",
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        },
+        {
+            "competition_title": "AL Abtal PS",
+            "name": "AL Abtal",
+            "image_profile": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "is_availavle": false,
+            "is_joined": false,
+            "age": 25,
+            "games": [
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "Ahmed Manchester",
+            "start_date": "7/3/2022",
+            "due_date": "15/3/2022",
+            "city": "Cairo",
+            "country": "Egypt",
+            "total_players": "12",
+            "duration": "3 hours",
+            "seats": 10,
+            "location": "Cairo",
+            "max_players":8,
+            "min_players":8,
+            "game_type":"Multi",
+            "total_teams":24,
+            "longitude": 31.2363334,
+            "latitude": 44.033333,
+            "matches": [
+                {
+                    "first_team_name": "Ahmed Manchester",
+                    "first_team_score": 0,
+                    "first_team_img": "https://footballshirtmaker.com/temp/manchester-united-shirt-2016-17-number-9-ahmed-2520-001-square.png?v1001",
+                    "second_team_name": "badr eldeen",
+                    "second_team_score": 1,
+                    "second_team_img": "https://www.nicepng.com/png/detail/174-1748863_jack-bayley-avatar-vector-icon-boy.png",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 15,
+                        "drawn": 3,
+                        "lost": 2,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 13,
+                        "drawn": 6,
+                        "lost": 3,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 55
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "mohamed sherif",
+                    "first_team_score": 3,
+                    "first_team_img": "https://static.vecteezy.com/ti/vecteur-libre/p1/4477337-visage-jeune-homme-dans-cadre-circulaire-avatar-personnage-icon-gratuit-vectoriel.jpg",
+                    "second_team_name": "ahmed abdalla",
+                    "second_team_score": 1,
+                    "second_team_img": "https://escape-kit.com/wp-content/uploads/2020/06/rouge-min.png",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 5,
+                        "drawn": 10,
+                        "lost": 5,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 51
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 11,
+                        "drawn": 0,
+                        "lost": 9,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 44
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i.pinimg.com/originals/25/8d/54/258d545bbcd53b891bf1300694fe0428.jpg",
+                        "https://makhsoom.com/lb/storage/32000/14525/70ce67f6a57b5792bc83f661f50c76a5.jpg",
+                        "https://www.newgamenetwork.com/images/uploads/gallery/ProEvoSoccer2021/pes21_05.jpg",
+                        "https://www.newgamenetwork.com/images/uploads/gallery/ProEvoSoccer2021/pes21_09.jpg",
+                        "https://staticg.sportskeeda.com/editor/2022/05/1a78c-16515757886756-1920.jpg",
+                        "https://i.ytimg.com/vi/G32hbnv5eOk/maxresdefault.jpg",
+                        "https://i0.wp.com/waytoomany.games/wp-content/uploads/2020/12/FIFA-21_20201208172537.jpg?resize=860%2C484&ssl=1"
+                    ]
+                },
+                {
+                    "first_team_name": "Khaled gaber",
+                    "first_team_score": 3,
+                    "first_team_img": "https://escape-kit.com/wp-content/uploads/2020/06/bleu-min.png",
+                    "second_team_name": "mohamed gaber",
+                    "second_team_score": 3,
+                    "second_team_img": "https://image.shutterstock.com/image-vector/simple-cartoon-avatar-vector-flat-260nw-1988123576.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 15,
+                        "drawn": 17,
+                        "lost": 13,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 6,
+                        "drawn": 7,
+                        "lost": 5,
+                        "scored": 35,
+                        "conceded": 57,
+                        "points": 35
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "Gamal Zaki",
+                    "first_team_score": 3,
+                    "first_team_img": "https://image.shutterstock.com/image-vector/passport-size-photo-business-man-260nw-2070414434.jpg",
+                    "second_team_name": "Mahmoud Hamdi",
+                    "second_team_score": 1,
+                    "second_team_img": "https://escape-kit.com/wp-content/uploads/2020/06/rouge-min.png",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 9,
+                        "drawn": 7,
+                        "lost": 4,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 51
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 7,
+                        "drawn": 8,
+                        "lost": 5,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 45
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://i.pinimg.com/originals/25/8d/54/258d545bbcd53b891bf1300694fe0428.jpg",
+                "https://makhsoom.com/lb/storage/32000/14525/70ce67f6a57b5792bc83f661f50c76a5.jpg",
+                "https://www.newgamenetwork.com/images/uploads/gallery/ProEvoSoccer2021/pes21_05.jpg",
+                "https://www.newgamenetwork.com/images/uploads/gallery/ProEvoSoccer2021/pes21_09.jpg",
+                "https://staticg.sportskeeda.com/editor/2022/05/1a78c-16515757886756-1920.jpg",
+                "https://i.ytimg.com/vi/G32hbnv5eOk/maxresdefault.jpg",
+                "https://i0.wp.com/waytoomany.games/wp-content/uploads/2020/12/FIFA-21_20201208172537.jpg?resize=860%2C484&ssl=1"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "Ahmed Manchester",
+                            "league": "EGYPT",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "badr eldeen",
+                            "league": "EGYPT",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "mohamed sherif",
+                            "league": "EGYPT",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "ahmed abdalla",
+                            "league": "EGYPT",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Khaled gaber",
+                            "league": "EGYPT",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Mohamed gaber",
+                            "league": "EGYPT",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Gamal Zaki",
+                            "league": "EGYPT",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Mahmoud Hamdi",
+                            "league": "EGYPT",
+                            "rate": 4.5
+                        }
+                    ]
+                }
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "Ahmed Manchester",
+                            "first_team_score": 0,
+                            "second_team_name": "badr eldeen",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "mohamed sherif",
+                            "first_team_score": 0,
+                            "second_team_name": "ahmed abdalla",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "badr eldeen",
+                            "first_team_score": 0,
+                            "second_team_name": "mohamed sherif",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "ahmed abdalla",
+                            "first_team_score": 0,
+                            "second_team_name": "Ahmed Manchester",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "Khaled gaber ",
+                            "first_team_score": 0,
+                            "second_team_name": "Mohamed gaber",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Gamal Zaki",
+                            "first_team_score": 0,
+                            "second_team_name": "Mahmoud Hamdi",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Gamal Zaki",
+                            "first_team_score": 0,
+                            "second_team_name": "Manchester uinted",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Mahmoud Hamdi",
+                            "first_team_score": 0,
+                            "second_team_name": "Khaled gaber",
+                            "second_team_score": 1
+                        }
+                    ]
+                }
+            ],
+            "competition_rules": "Each team consists of 11 players. These are made up of one goalkeeper and ten outfield players. The pitch dimensions vary from each ground but are roughly 120 yards long and 75 yards wide. On each pitch you will have a 6 yard box next to the goal mouth, an 18 yard box surrounding the 6 yard box and a centre circle. Each half of the pitch must be a mirror image of the other in terms of dimensions.Essentially the equipment that is needed for a soccer match is pitch and a football. Additionally players can be found wearing studded football boots, shin pads and matching strips. The goalkeepers will additionally wear padded gloves as they are the only players allowed to handle the ball. Each team will have a designated captain.",
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        },
+         {
+            "name": "NUMBER 1 Champion League",
+            "competition_title": "NUMBER 1PS",
+            "image_profile": "https://cdn5.vectorstock.com/i/1000x1000/15/04/trophy-cup-flat-icon-with-number-one-vector-19071504.jpg",
+            "is_availavle": true,
+            "is_joined": false,
+            "age": 21,
+            "games": [
+                "Fifa",
+                "Boxing",
+                "Cars"
+            ],
+            "team_name": "MIDO ELDAWLY",
+            "start_date": "8/3/2022",
+            "due_date": "15/3/2022",
+            "city": "Jedda",
+            "country": "suadi arabia",
+            "total_players": "12",
+            "duration": "4 days",
+            "seats": 12,
+            "location": "Suadia Arabia",
+            "max_players":16,
+            "min_players":12,
+            "game_type":"single",
+            "total_teams":20,
+            "longitude": 31.233334,
+            "latitude": 30.033333,
+            "matches": [
+                {
+                    "first_team_name": "Noaaf mesaad",
+                    "first_team_score": 0,
+                    "first_team_img": "https://img.freepik.com/premium-vector/cartoon-arab-man-avatar-with-happy-emotion_102172-201.jpg?w=2000",
+                    "second_team_name": "MIDO ELDAWLY",
+                    "second_team_score": 1,
+                    "second_team_img": "https://cdn1.iconfinder.com/data/icons/people-cultures/512/_saudi_arabian_man-512.png",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 15,
+                        "drawn": 3,
+                        "lost": 2,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 62
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 13,
+                        "drawn": 2,
+                        "lost": 5,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 50
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "Gamal el rasheedy",
+                    "first_team_score": 0,
+                    "first_team_img": "https://images.assetsdelivery.com/compings_v2/lukpedclub/lukpedclub1912/lukpedclub191200250.jpg",
+                    "second_team_name": "Gomaa el ballghan",
+                    "second_team_score": 1,
+                    "second_team_img": "https://thumbs.dreamstime.com/b/avatar-arab-people-colorful-flat-style-various-emotion-expression-arabic-avatar-man-236026093.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 11,
+                        "drawn": 3,
+                        "lost": 6,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 45
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 13,
+                        "drawn": 3,
+                        "lost": 4,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 43
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "mohamed el safi",
+                    "first_team_score": 0,
+                    "first_team_img": "https://thumbs.dreamstime.com/b/arab-man-avatar-face-front-view-traditional-muslim-hat-cartoo-arab-man-avatar-face-front-view-traditional-muslim-hat-cartoon-103779953.jpg",
+                    "second_team_name": "abdalla mohamed",
+                    "second_team_score": 1,
+                    "second_team_img": "https://static.vecteezy.com/ti/vecteur-libre/p1/4477337-visage-jeune-homme-dans-cadre-circulaire-avatar-personnage-icon-gratuit-vectoriel.jpg",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 15,
+                        "drawn": 0,
+                        "lost": 5,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 55
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 10,
+                        "drawn": 5,
+                        "lost": 5,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 51
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                },
+                {
+                    "first_team_name": "hamed el hady",
+                    "first_team_score": 0,
+                    "first_team_img": "https://image.shutterstock.com/image-vector/simple-cartoon-avatar-vector-flat-260nw-1988123576.jpg",
+                    "second_team_name": "saeed el shareef",
+                    "second_team_score": 1,
+                    "second_team_img": "https://image.shutterstock.com/image-vector/passport-size-photo-business-man-260nw-2070414434.jp",
+                    "date": "10/3/2022",
+                    "first_team_match_details": {
+                        "played": 20,
+                        "won": 8,
+                        "drawn": 8,
+                        "lost": 4,
+                        "scored": 57,
+                        "conceded": 56,
+                        "points": 40
+                    },
+                    "second_team_match_details": {
+                        "played": 20,
+                        "won": 9,
+                        "drawn": 9,
+                        "lost": 2,
+                        "scored": 56,
+                        "conceded": 57,
+                        "points": 40
+                    },
+                    "tactcs": "https://besthqwallpapers.com/Uploads/22-4-2021/165222/thumb2-playstation-blue-logo-4k-blue-neon-lights-creative-blue-abstract-background.jpg",
+                    "highlight": [
+                        "https://i2-prod.mirror.co.uk/incoming/article21773366.ece/ALTERNATES/s1200c/0_header.jpg",
+                        "https://p0.nicelocal.biz.tr/preview/kijwM7CD87kObcvnle2SzQ/587x440x85/1/4/4/original_615834e6bbe6dc332208624f_6158d23f60699.jpg",
+                        "https://pr0.nicelocal.biz.tr/keNYDQNUEZiSieu4hbLwJg/587x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2T2V3A2BPpXfjmiQpH9yASV2GxPLudjxKy28vuIEBHGCANSPkWeGCGHbpy0cN752zA",
+                        "https://lh3.googleusercontent.com/p/AF1QipMaAJz8fBp0MueE-SW6LMy8uQom0FEvChcZMzkd=w1080-h608-p-no-v0",
+                        "https://fastly.4sqi.net/img/general/200x200/86057909_FhgKYZEsskIEZXXM12B_jvo1rDxpBM-s65mPvYedXkM.jpg",
+                        "https://fastly.4sqi.net/img/general/200x200/47862596_WBp3-Thtr6no0B_vLuCL-hgtzZJMGubtwPNHPloxKpc.jpg"
+
+                    ]
+                }
+            ],
+            "gallery": [
+                "https://i.pinimg.com/originals/25/8d/54/258d545bbcd53b891bf1300694fe0428.jpg",
+                "https://makhsoom.com/lb/storage/32000/14525/70ce67f6a57b5792bc83f661f50c76a5.jpg",
+                "https://www.newgamenetwork.com/images/uploads/gallery/ProEvoSoccer2021/pes21_05.jpg",
+                "https://www.newgamenetwork.com/images/uploads/gallery/ProEvoSoccer2021/pes21_09.jpg",
+                "https://staticg.sportskeeda.com/editor/2022/05/1a78c-16515757886756-1920.jpg",
+                "https://i.ytimg.com/vi/G32hbnv5eOk/maxresdefault.jpg",
+                "https://i0.wp.com/waytoomany.games/wp-content/uploads/2020/12/FIFA-21_20201208172537.jpg?resize=860%2C484&ssl=1"
+            ],
+            "groups": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "team_name": "mohamed el safi",
+                            "league": "suadi arabia",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "MIDO ELDAWLY",
+                            "league": "suadi arabia",
+                            "rate": 4.5
+                        },
+                        {
+                            "team_name": "Noaaf mesaad",
+                            "league": "suadi arabia",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "Gamal el rasheedy",
+                            "league": "suadi arabia",
+                            "rate": 4
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "team_name": "Gomaa el ballghan",
+                            "league": "suadi arabia",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "abdalla mohamed",
+                            "league": "suadi arabia",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "hamed el hady",
+                            "league": "suadi arabia",
+                            "rate": 4
+                        },
+                        {
+                            "team_name": "saeed el shareef",
+                            "league": "suadi arabia",
+                            "rate": 4.5
+                        }
+                    ]
+                }
+            ],
+            "group_result": [
+                {
+                    "group_name": "Group A",
+                    "teams": [
+                        {
+                            "first_team_name": "mohamed el safi",
+                            "first_team_score": 0,
+                            "second_team_name": "MIDO ELDAWLY",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Noaaf mesaad",
+                            "first_team_score": 0,
+                            "second_team_name": "Gamal el rasheedy",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "MIDO ELDAWLY",
+                            "first_team_score": 0,
+                            "second_team_name": "Noaaf mesaad",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "Gamal el rasheedy",
+                            "first_team_score": 0,
+                            "second_team_name": "mohamed el safi",
+                            "second_team_score": 1
+                        }
+                    ]
+                },
+                {
+                    "group_name": "Group B",
+                    "teams": [
+                        {
+                            "first_team_name": "Gomaa el ballghan",
+                            "first_team_score": 0,
+                            "second_team_name": "abdalla mohamed",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "hamed el hady",
+                            "first_team_score": 0,
+                            "second_team_name": "saeed el shareef",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "abdalla mohamed",
+                            "first_team_score": 0,
+                            "second_team_name": "hamed el hady",
+                            "second_team_score": 1
+                        },
+                        {
+                            "first_team_name": "saeed el shareef",
+                            "first_team_score": 0,
+                            "second_team_name": "Gomaa el ballghan",
+                            "second_team_score": 1
+                        }
+                    ]
+                }
+            ],
+            "competition_rules": "Each team consists of 1 players. These are made up of one goalkeeper and ten outfield players. The pitch dimensions vary from each ground but are roughly 120 yards long and 75 yards wide. On each pitch you will have a 6 yard box next to the goal mouth, an 18 yard box surrounding the 6 yard box and a centre circle. Each half of the pitch must be a mirror image of the other in terms of dimensions.Essentially the equipment that is needed for a soccer match is pitch and a football. Additionally players can be found wearing studded football boots, shin pads and matching strips. The goalkeepers will additionally wear padded gloves as they are the only players allowed to handle the ball. Each team will have a designated captain.",
+            "marketing_agency":"Marketing Agency",
+            "marketing_agency_image":"https://nerdreactor.com/wp-content/uploads/2015/04/Konami.jpg"
+        }
+    ]
+}
